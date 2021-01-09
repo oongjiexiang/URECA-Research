@@ -31,22 +31,17 @@ async function loadLinks(links){
             behavior: 'allow',
             downloadPath: './'
         });
-        var tLink = [];
         for(link in links){
             let idxLink = links[link];
             await page.goto(idxLink);
-            let files = await page.$$eval('table tr a', (fileLinkNode, idxLink) => {
-                // fileLinkNode = [].slice.call(fileLinkNode, 1);
-                let tempTLink = [];
-                fileLinkNode.forEach((fileLink) => {
-                    if(fileLink.innerText === 'crawler.idx'){
-                        tempTLink.push(idxLink + fileLink.getAttribute('href'));
-                    }
-                });
-                return tempTLink;
-            }, idxLink);
-            tLink = tLink.concat(files);
-            console.log(tLink);
+            let files = await page.$$('table tr a');
+            for(file in files){
+                let clickableLink = files[file];
+                if(await clickableLink.getAttribute('href') === 'crawler.idx'){
+                    await page.click(clickableLink.getAttribute('href'));
+                    await page.waitForTimeout(1000);
+                }
+            }
             // let files = await page.evaluate(() => {
             //     return document.querySelectorAll('table tr');
             // });
