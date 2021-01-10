@@ -42,7 +42,7 @@ const homePage = 'https://www.sec.gov/Archives/edgar/full-index/';
                         let linkNode = ele.firstElementChild;
                         let linkName = linkNode.innerText;
                         let linkRef = window.location.href + linkNode.querySelector('a').getAttribute('href');
-                        linkDict[yearLinkNode + " " + linkName] = linkRef;
+                        linkDict[yearLinkNode + " " + linkName] = linkRef + "form.idx";
                     });
                     return linkDict;
                 }, {yearLinkNode, link});
@@ -54,31 +54,9 @@ const homePage = 'https://www.sec.gov/Archives/edgar/full-index/';
                     });
                     return total;
                 }), links);
-
             }
         };
         fs.writeFile('websites.json', JSON.stringify(links, null, 2), (err) => (err)? console.log(err): console.log('saved'));
-        // get idx files
-        // const client = await context.newCDPSession(page);
-        // await client.send('Page.setDownloadBehavior', {
-        //     behavior: 'allow',
-        //     downloadPath: './'
-        // });
-        // for(link in links){
-        //     let idxLink = links[link];
-        //     await page.goto(idxLink);
-        //     let files = await page.$$('table tr a');
-        //     console.log(files);
-        //     for(file in files){
-        //         console.log(file.innerText);
-        //         console.log();
-        //         if(file.innerText === 'crawler.idx'){
-        //             await page.click(file);
-        //             await page.waitForTimeout(1000);
-        //         }
-        //     }
-        // }
-
         await browser.close();
     
     }

@@ -1,5 +1,5 @@
 #!/bin/sh
-read idx_file;
+idx_file=$1;
 curl $idx_file | grep -E "^4[[:space:]]" | 
 awk -v home_link="https://www.sec.gov/Archives/" 'BEGIN{ORS=""; OFS=", "}
     {fieldNum = NF;
@@ -7,9 +7,11 @@ awk -v home_link="https://www.sec.gov/Archives/" 'BEGIN{ORS=""; OFS=", "}
     print $(fieldNum-2)
     print ", " $(fieldNum - 1), home_link $(fieldNum) "\n"}' | 
 while IFS=, read -r company date link; do
-    xml_file=`curl -s $link | sed -ne 's/<FILENAME>\(.*\)/\1/p' `
+    xml_file=`curl -s $link | sed -ne '0,/<FILENAME>/s/<FILENAME>\(.*\)/\1/p' `
     temp=`echo $link | sed -e 's/-//g'`
-    new_link=`echo $temp | sed -e 's|.txt|/$xml_file|'`
+    new_link=`echo $temp | sed -e "s|.txt|/$xml_file|"`
     echo $company "," $date "," $new_link
-done >buffer2.txt
+done >>trading_doc_db.csv
+
 # read csv https://stackoverflow.com/questions/4286469/how-to-parse-a-csv-file-in-bash
+# sed the first occurence https://stackoverflow.com/questions/148451/how-to-use-sed-to-replace-only-the-first-occurrence-in-a-file
