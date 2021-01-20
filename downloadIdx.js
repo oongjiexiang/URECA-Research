@@ -40,14 +40,6 @@ async function loadLinks(links){
                 console.error(data);
             });
         }
-        // var csvData;
-        // fs.readFile('trading_doc_db.csv', (err, data)=>{
-        //     if(err) console.log(err);
-        //     else{
-        //         csvData = data;
-        //     }
-        // })
-        // fs.writeFile('trading_doc_db.json', CsvToObjects(csvData, ':'), (err)=>(err)? console.log(err): console.log("operation successful"))
     }
     catch(err){
         console.log(err);
