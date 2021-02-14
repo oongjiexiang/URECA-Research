@@ -1,4 +1,5 @@
 #!/bin/sh
+cik_pat = $1;
 for i in $(seq 2020 1 2021); 
 do
     for j in $(seq 1 1 4);
