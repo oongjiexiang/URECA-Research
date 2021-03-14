@@ -1,3 +1,6 @@
 *.txt
 clean.sh
-limit_curl.sh
+DataProcessingPipelining/*
+Archive
+*.csv
+*.ipynb_checkpoints
