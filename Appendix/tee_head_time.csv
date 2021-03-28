@@ -1,0 +1,20 @@
+Approach 1: without saving to a file, use tee to send output to head
+Number of Rows: Duration (milliseconds)
+10: 13
+100: 11
+1000: 11
+10000: 16
+100000: 73
+1000000: 716
+10000000: 8169
+100000000: 91383
+Approach 2: save output in a file, then use head utility
+Number of Rows: Duration (milliseconds)
+10: 9
+100: 10
+1000: 34
+10000: 260
+100000: 2524
+1000000: 25311
+10000000: 262631
+100000000: 3740110

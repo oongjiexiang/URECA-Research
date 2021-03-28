@@ -4,3 +4,7 @@ DataProcessingPipelining/*
 Archive
 *.csv
 *.ipynb_checkpoints
+*.gv**
+!/Database/*
+!/Metadata/*
+!/Appendix/*

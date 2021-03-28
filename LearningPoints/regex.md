@@ -9,7 +9,7 @@ x = re.split("\s", txt, 1)     # split txt delimited by '\s', returns list; only
 x = re.sub("\s", "0", txt, 2)  # substitute  with 0; only the first 2 occurences
 x = re.search(r"\bS\w+", txt); print(x.span())  # print (start of match, end of match)
 print(x.string)     # prints txt
-print(x.group())    # prints the matched strings, similar to re.finall()
+print(x.group())    # prints the matched strings, similar to re.findall()
 ```
 
 2. Raw string
