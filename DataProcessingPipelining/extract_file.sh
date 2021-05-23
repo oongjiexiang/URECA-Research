@@ -40,7 +40,7 @@ for file in $files; do
 done;
 
 # Categorise files according to extension
-echo "Categorising files according to extension" | tee extract_link_log.txt
+echo "Categorising files according to extension" | tee -a extract_link_log.txt
 echo "Company|CIK|Date|XML Link" | form4_data_xml.csv form4_data_txt.csv form4_data_htm.csv
 cat form4_data.csv | grep "xml$" >>form4_data_xml.csv
 cat form4_data.csv | grep "txt$" >>form4_data_txt.csv
@@ -48,7 +48,7 @@ cat form4_data.csv | grep "htm$" >>form4_data_htm.csv
 cat form4_data.csv | grep -Ev "(xml$)|(htm$)|(txt$)" >form4_data_temp.csv
 
 # recover files that are not retrieved in the first trial
-echo "Recovering files" | tee extract_link_log.txt
+echo "Recovering files" | tee -a extract_link_log.txt
 bash recover.sh
 
 # https://stackoverflow.com/questions/4286469/how-to-parse-a-csv-file-in-bash
