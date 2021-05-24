@@ -16,19 +16,28 @@ do
     for j in $(seq 1 1 4);
     do
         idx_file="https://www.sec.gov/Archives/edgar/full-index/$i/QTR$j/form.idx"
-        if curl -A $user_agent -o /dev/null --silent --fail --head $idx_file; then
-            echo "Reading idx file for $i-QTR$j" | tee -a extract_link_log.txt;
-            SECONDS=0;
-            dir_date=$(echo $idx_file | sed -rne "s|.*([0-9]{4})/QTR([1-4]).*|\1-QTR\2|p")
-            curl -A $user_agent -s $idx_file | grep -E "^4[[:space:]]" | grep -Ew $CIKs |
-            awk -v home_link="https://www.sec.gov/Archives/" 'BEGIN{OFS="::"; ORS="\n"}
-                {for(i=2;i<NF-2;i++) printf("%s ", $(i))
-                print "", $(NF-2), $(NF - 1), home_link$(NF)}' |
-            /usr/local/bin/parallel -j10 --keep-order --col-sep :: -a - scrapDetailsFromLink ">>" trading_$dir_date.csv
-            echo "Runtime for $i-QTR$j: $SECONDS" >>extract_link_log.txt
-        else
-            echo "No index file for $i-QTR$j" >>extract_link_log.txt
-        fi
+        while :
+        do
+            response=$(curl -A $user_agent -s -w "%{http_code}" $idx_file)
+            http_code=$(tail -n1 <<<"$response")
+            if [ $http_code -eq 200 ]
+            then
+                echo "Reading idx file for $i-QTR$j" | tee -a extract_link_log.txt;
+                SECONDS=0;
+                dir_date=$(echo $idx_file | sed -rne "s|.*([0-9]{4})/QTR([1-4]).*|\1-QTR\2|p")
+                sed '$ d' <<<"$response" | grep -E "^4[[:space:]]" | grep -Ew $CIKs |
+                awk -v home_link="https://www.sec.gov/Archives/" 'BEGIN{OFS="::"; ORS="\n"}
+                    {for(i=2;i<NF-2;i++) printf("%s ", $(i))
+                    print "", $(NF-2), $(NF - 1), home_link$(NF)}' |
+                /usr/local/bin/parallel -j10 --keep-order --col-sep :: -a - scrapDetailsFromLink ">>" trading_$dir_date.csv
+                wait
+                echo "Runtime for $i-QTR$j: $SECONDS" >>extract_link_log.txt;
+                break
+            else
+                echo "${http_code}: $i-QTR$j index file not fetched. Re-fetching" >>extract_link_log.txt
+            fi
+        done
+
     done
 done;
 
@@ -41,7 +50,7 @@ done;
 
 # Categorise files according to extension
 echo "Categorising files according to extension" | tee -a extract_link_log.txt
-echo "Company|CIK|Date|XML Link" | form4_data_xml.csv form4_data_txt.csv form4_data_htm.csv
+echo "Company|CIK|Date|Link" | tee form4_data_xml.csv form4_data_txt.csv >form4_data_htm.csv
 cat form4_data.csv | grep "xml$" >>form4_data_xml.csv
 cat form4_data.csv | grep "txt$" >>form4_data_txt.csv
 cat form4_data.csv | grep "htm$" >>form4_data_htm.csv
@@ -54,3 +63,4 @@ bash recover.sh
 # https://stackoverflow.com/questions/4286469/how-to-parse-a-csv-file-in-bash
 # sed the first occurence https://stackoverflow.com/questions/148451/how-to-use-sed-to-replace-only-the-first-occurrence-in-a-file
 # check if an url exists https://stackoverflow.com/questions/12199059/how-to-check-if-an-url-exists-with-the-shell-and-probably-curl
+# get http code and content separately https://unix.stackexchange.com/questions/572424/retrieve-both-http-status-code-and-content-from-curl-in-a-shell-script
