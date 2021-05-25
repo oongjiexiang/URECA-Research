@@ -1,429 +1,1129 @@
-Company|CIK|Date|XML Link
+Company|CIK|Date|Link
+DOLLAR GENERAL CORP|29534|2001-01-10|https://www.sec.gov/Archives/edgar/data/29534/000091431701000024/0001.txt
+DOLLAR GENERAL CORP|29534|2001-02-09|https://www.sec.gov/Archives/edgar/data/29534/000091431701000078/0001.txt
+DOLLAR GENERAL CORP|29534|2001-02-09|https://www.sec.gov/Archives/edgar/data/29534/000091431701000077/0001.txt
+AUTOZONE INC|866787|2001-01-04|https://www.sec.gov/Archives/edgar/data/866787/000101190801500004/clark.txt
+DOLLAR GENERAL CORP|29534|2001-01-10|https://www.sec.gov/Archives/edgar/data/29534/000091431701000022/0001.txt
+DOLLAR GENERAL CORP|29534|2001-01-10|https://www.sec.gov/Archives/edgar/data/29534/000091431701000023/0001.txt
+DOLLAR GENERAL CORP|29534|2001-01-10|https://www.sec.gov/Archives/edgar/data/29534/000091431701000032/0001.txt
+DOLLAR GENERAL CORP|29534|2001-02-09|https://www.sec.gov/Archives/edgar/data/29534/000091431701000079/0001.txt
+DOLLAR GENERAL CORP|29534|2001-03-12|https://www.sec.gov/Archives/edgar/data/29534/000091431701000165/0001.txt
+DOLLAR GENERAL CORP|29534|2001-03-12|https://www.sec.gov/Archives/edgar/data/29534/000091431701000164/0001.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-01-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108201000005/0001.txt
+PARKER HANNIFIN CORP|76334|2001-01-10|https://www.sec.gov/Archives/edgar/data/76334/000102176501000001/0001.txt
+HOST MARRIOTT CORP/|1070750|2001-03-09|https://www.sec.gov/Archives/edgar/data/1070750/000089375001000155/0001.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-01-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108201000006/0001.txt
+NIKE INC|320187|2001-01-10|https://www.sec.gov/Archives/edgar/data/320187/000113224301000005/0001.txt
+PARKER HANNIFIN CORP|76334|2001-01-10|https://www.sec.gov/Archives/edgar/data/76334/000108796301000001/0001.txt
+PARKER HANNIFIN CORP|76334|2001-02-12|https://www.sec.gov/Archives/edgar/data/76334/000102174601000003/0001.txt
+PARKER HANNIFIN CORP|76334|2001-02-12|https://www.sec.gov/Archives/edgar/data/76334/000104967901000002/0001.txt
+PARKER HANNIFIN CORP|76334|2001-02-12|https://www.sec.gov/Archives/edgar/data/76334/000107853001000003/0001.txt
+PINNACLE WEST CAPITAL CORP|764622|2001-01-10|https://www.sec.gov/Archives/edgar/data/764622/000095014701500050/e-6046.txt
+PARKER HANNIFIN CORP|76334|2001-03-12|https://www.sec.gov/Archives/edgar/data/76334/000102175701000001/0001.txt
+PARKER HANNIFIN CORP|76334|2001-03-12|https://www.sec.gov/Archives/edgar/data/76334/000102174601000004/0001.txt
+PINNACLE WEST CAPITAL CORP|764622|2001-03-09|https://www.sec.gov/Archives/edgar/data/764622/000095014701500523/e-6464.txt
+AUTOZONE INC|866787|2001-04-09|https://www.sec.gov/Archives/edgar/data/866787/000101190801500009/soamarch.txt
+CARNIVAL CORP|815097|2001-06-11|https://www.sec.gov/Archives/edgar/data/815097/000095014201500119/form4dubin.txt
+CARNIVAL CORP|815097|2001-06-11|https://www.sec.gov/Archives/edgar/data/815097/000095014201500123/form4ma1997holdingslp.txt
+CARNIVAL CORP|815097|2001-06-11|https://www.sec.gov/Archives/edgar/data/815097/000095014201500121/form4jmddelaware.txt
+COACH INC|1116132|2001-05-09|https://www.sec.gov/Archives/edgar/data/1116132/000095017201500159/s260352.txt
+CARNIVAL CORP|815097|2001-06-11|https://www.sec.gov/Archives/edgar/data/815097/000095014201500124/form4ma1997holdingsinc.txt
+DANAHER CORP /DE/|313616|2001-06-08|https://www.sec.gov/Archives/edgar/data/313616/000095016901500116/d4.txt
+DANAHER CORP /DE/|313616|2001-06-08|https://www.sec.gov/Archives/edgar/data/313616/000095016901500115/d4.txt
+DOLLAR GENERAL CORP|29534|2001-06-11|https://www.sec.gov/Archives/edgar/data/29534/000091431701500165/form4_37479-dw.txt
+DOLLAR GENERAL CORP|29534|2001-06-11|https://www.sec.gov/Archives/edgar/data/29534/000091431701500168/form4-39479_rs.txt
+DOLLAR GENERAL CORP|29534|2001-06-11|https://www.sec.gov/Archives/edgar/data/29534/000091431701500166/form4-39479_ctjr.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-06-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108201500006/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-06-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108201500005/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-06-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108201500009/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-06-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108201500012/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-06-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108201500013/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-06-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108201500017/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-06-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108201500016/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-06-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108201500015/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-06-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108201500018/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-06-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108201500014/edgar.txt
+HOST MARRIOTT CORP/|1070750|2001-06-08|https://www.sec.gov/Archives/edgar/data/1070750/000089375001500132/form-4.txt
+NIKE INC|320187|2001-04-09|https://www.sec.gov/Archives/edgar/data/320187/000113224301000009/0001.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102174601000005/0001.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102174901000001/0001.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102175601000001/0001.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102175201000001/0001.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102175701000003/0001.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102176301000001/0001.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000104967301000002/0001.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000104967301000003/0001.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000104967501000001/0001.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000104967701000001/0001.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000104968201000001/0001.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000107852801000001/0001.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000106591801000001/0001.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000107852901000001/0001.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000107853001000004/0001.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000112827801000004/0001.txt
+PARKER HANNIFIN CORP|76334|2001-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102174901500002/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-05-10|https://www.sec.gov/Archives/edgar/data/76334/000107852901500002/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102176301500003/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-05-14|https://www.sec.gov/Archives/edgar/data/76334/000108796301500009/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-06-05|https://www.sec.gov/Archives/edgar/data/76334/000107852901500004/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-06-11|https://www.sec.gov/Archives/edgar/data/76334/000102174701500005/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-06-11|https://www.sec.gov/Archives/edgar/data/76334/000102175601500002/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-06-11|https://www.sec.gov/Archives/edgar/data/76334/000102174901500003/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-06-11|https://www.sec.gov/Archives/edgar/data/76334/000102175201500002/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-06-11|https://www.sec.gov/Archives/edgar/data/76334/000102175701500004/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-06-11|https://www.sec.gov/Archives/edgar/data/76334/000104967901500002/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-06-11|https://www.sec.gov/Archives/edgar/data/76334/000104968201500002/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-06-11|https://www.sec.gov/Archives/edgar/data/76334/000107852901500006/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-06-11|https://www.sec.gov/Archives/edgar/data/76334/000102175701500003/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-06-14|https://www.sec.gov/Archives/edgar/data/76334/000106591801500002/edgar.txt
+PINNACLE WEST CAPITAL CORP|764622|2001-04-06|https://www.sec.gov/Archives/edgar/data/764622/000095014701500695/e-6623.txt
+PINNACLE WEST CAPITAL CORP|764622|2001-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014701500844/e-6794.txt
+PINNACLE WEST CAPITAL CORP|764622|2001-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014701500845/e-6795.txt
+PINNACLE WEST CAPITAL CORP|764622|2001-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014701500846/e-6796.txt
+PINNACLE WEST CAPITAL CORP|764622|2001-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014701500849/e-6799.txt
+PINNACLE WEST CAPITAL CORP|764622|2001-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014701500850/e-6800.txt
+PINNACLE WEST CAPITAL CORP|764622|2001-06-08|https://www.sec.gov/Archives/edgar/data/764622/000095014701501076/e-6986.txt
+VERIZON COMMUNICATIONS INC|732712|2001-04-09|https://www.sec.gov/Archives/edgar/data/732712/000095010301500837/form4apr901.txt
+SYSCO CORP|96021|2001-06-26|https://www.sec.gov/Archives/edgar/data/96021/000091406201500279/gold4601.txt
+DANAHER CORP /DE/|313616|2000-09-06|https://www.sec.gov/Archives/edgar/data/313616/000095016900001141/0001.txt
+AGILENT TECHNOLOGIES INC|1090872|2000-09-11|https://www.sec.gov/Archives/edgar/data/1090872/000091205700040854/a2025441z4.txt
+DANAHER CORP /DE/|313616|2000-09-06|https://www.sec.gov/Archives/edgar/data/313616/000095016900001142/0001.txt
+DOLLAR GENERAL CORP|29534|2000-08-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000054/0001.txt
+DOLLAR GENERAL CORP|29534|2000-08-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000053/0001.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-07-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000051/0001.txt
+DOLLAR GENERAL CORP|29534|2000-08-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000055/0001.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-07-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000049/0001.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-07-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000050/0001.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-07-19|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000052/0001.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-09-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000054/0001.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-09-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000056/0001.txt
+PARKER HANNIFIN CORP|76334|2000-07-10|https://www.sec.gov/Archives/edgar/data/76334/000102174700000001/0001.txt
+NIKE INC|320187|2000-08-07|https://www.sec.gov/Archives/edgar/data/320187/000090385500000008/0001.txt
+PARKER HANNIFIN CORP|76334|2000-08-11|https://www.sec.gov/Archives/edgar/data/76334/000102174800000001/0001.txt
+PARKER HANNIFIN CORP|76334|2000-08-11|https://www.sec.gov/Archives/edgar/data/76334/000102175500000001/0001.txt
+PARKER HANNIFIN CORP|76334|2000-08-11|https://www.sec.gov/Archives/edgar/data/76334/000102176000000001/0001.txt
+PARKER HANNIFIN CORP|76334|2000-08-11|https://www.sec.gov/Archives/edgar/data/76334/000104967100000001/0001.txt
+PARKER HANNIFIN CORP|76334|2000-08-11|https://www.sec.gov/Archives/edgar/data/76334/000107318500000001/0001.txt
+PARKER HANNIFIN CORP|76334|2000-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102174600000002/0001.txt
+PARKER HANNIFIN CORP|76334|2000-08-11|https://www.sec.gov/Archives/edgar/data/76334/000104967500000001/0001.txt
+PARKER HANNIFIN CORP|76334|2000-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102174900000001/0001.txt
+PARKER HANNIFIN CORP|76334|2000-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102175100000001/0001.txt
+PARKER HANNIFIN CORP|76334|2000-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102175200000001/0001.txt
+PARKER HANNIFIN CORP|76334|2000-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102175700000001/0001.txt
+PARKER HANNIFIN CORP|76334|2000-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102176800000003/0001.txt
+PARKER HANNIFIN CORP|76334|2000-08-14|https://www.sec.gov/Archives/edgar/data/76334/000104967700000001/0001.txt
+PARKER HANNIFIN CORP|76334|2000-08-14|https://www.sec.gov/Archives/edgar/data/76334/000104967900000004/0001.txt
+PARKER HANNIFIN CORP|76334|2000-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102176300000003/0001.txt
+PENN NATIONAL GAMING INC|921738|2000-08-10|https://www.sec.gov/Archives/edgar/data/921738/000092173800000021/0001.txt
+PARKER HANNIFIN CORP|76334|2000-09-11|https://www.sec.gov/Archives/edgar/data/76334/000102174500000002/0001.txt
+PARKER HANNIFIN CORP|76334|2000-08-14|https://www.sec.gov/Archives/edgar/data/76334/000107853000000001/0001.txt
+PINNACLE WEST CAPITAL CORP|764622|2000-08-10|https://www.sec.gov/Archives/edgar/data/764622/000095014700001194/0001.txt
+PINNACLE WEST CAPITAL CORP|764622|2000-09-08|https://www.sec.gov/Archives/edgar/data/764622/000095014700001384/0001.txt
+PINNACLE WEST CAPITAL CORP|764622|2000-09-08|https://www.sec.gov/Archives/edgar/data/764622/000095014700001385/0001.txt
+PINNACLE WEST CAPITAL CORP|764622|2000-09-08|https://www.sec.gov/Archives/edgar/data/764622/000095014700001386/0001.txt
+ALLSTATE CORP|899051|2002-10-03|https://www.sec.gov/Archives/edgar/data/899051/000091205702037574/a2090589z4.txt
+ALLSTATE CORP|899051|2002-11-12|https://www.sec.gov/Archives/edgar/data/899051/000091205702042029/a2093537z4.txt
+ALLSTATE CORP|899051|2002-10-03|https://www.sec.gov/Archives/edgar/data/899051/000091205702037573/a2090587z4.txt
+AMR CORP|6201|2002-11-01|https://www.sec.gov/Archives/edgar/data/6201/000119691302000006/edgar.txt
+AMR CORP|6201|2002-11-01|https://www.sec.gov/Archives/edgar/data/6201/000119691302000008/edgar.txt
+AMR CORP|6201|2002-11-01|https://www.sec.gov/Archives/edgar/data/6201/000119691302000009/edgar.txt
+AMR CORP|6201|2002-11-01|https://www.sec.gov/Archives/edgar/data/6201/000119691302000007/edgar.txt
+AMR CORP|6201|2002-11-01|https://www.sec.gov/Archives/edgar/data/6201/000119691302000010/edgar.txt
+AMR CORP|6201|2002-11-01|https://www.sec.gov/Archives/edgar/data/6201/000119691302000012/edgar.txt
+AMR CORP|6201|2002-12-02|https://www.sec.gov/Archives/edgar/data/6201/000119691302000015/edgar.txt
+AMR CORP|6201|2002-12-02|https://www.sec.gov/Archives/edgar/data/6201/000119691302000014/edgar.txt
+AMR CORP|6201|2002-12-02|https://www.sec.gov/Archives/edgar/data/6201/000119691302000016/edgar.txt
+AMR CORP|6201|2002-12-02|https://www.sec.gov/Archives/edgar/data/6201/000119691302000017/edgar.txt
+AMR CORP|6201|2002-12-02|https://www.sec.gov/Archives/edgar/data/6201/000119691302000018/edgar.txt
+ATMOS ENERGY CORP|731802|2002-10-01|https://www.sec.gov/Archives/edgar/data/731802/000118100602000003/edgar.txt
+ATMOS ENERGY CORP|731802|2002-10-01|https://www.sec.gov/Archives/edgar/data/731802/000118101902000004/edgar.txt
+ATMOS ENERGY CORP|731802|2002-10-01|https://www.sec.gov/Archives/edgar/data/731802/000118100902000009/edgar.txt
+ATMOS ENERGY CORP|731802|2002-11-15|https://www.sec.gov/Archives/edgar/data/731802/000118101002000004/edgar.txt
+ATMOS ENERGY CORP|731802|2002-11-15|https://www.sec.gov/Archives/edgar/data/731802/000118102502000006/edgar.txt
+ATMOS ENERGY CORP|731802|2002-11-15|https://www.sec.gov/Archives/edgar/data/731802/000118102102000002/edgar.txt
+ATMOS ENERGY CORP|731802|2002-11-15|https://www.sec.gov/Archives/edgar/data/731802/000118137802000005/edgar.txt
+ATMOS ENERGY CORP|731802|2002-12-12|https://www.sec.gov/Archives/edgar/data/731802/000118137802000007/edgar.txt
+ATMOS ENERGY CORP|731802|2002-12-17|https://www.sec.gov/Archives/edgar/data/731802/000118137802000013/edgar.txt
+ATMOS ENERGY CORP|731802|2002-12-17|https://www.sec.gov/Archives/edgar/data/731802/000118137802000011/edgar.txt
+AUTOZONE INC|866787|2002-10-03|https://www.sec.gov/Archives/edgar/data/866787/000101190802000107/edgar.txt
+AUTOZONE INC|866787|2002-11-05|https://www.sec.gov/Archives/edgar/data/866787/000101190802000108/edgar.txt
+AUTOZONE INC|866787|2002-11-06|https://www.sec.gov/Archives/edgar/data/866787/000101190802000110/edgar.txt
+AUTOZONE INC|866787|2002-12-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000130/edgar.txt
+AUTOZONE INC|866787|2002-12-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000131/edgar.txt
+AUTOZONE INC|866787|2002-12-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000132/edgar.txt
+AUTOZONE INC|866787|2002-12-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000133/edgar.txt
+AUTOZONE INC|866787|2002-12-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000134/edgar.txt
+AUTOZONE INC|866787|2002-12-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000137/edgar.txt
+AUTOZONE INC|866787|2002-12-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000135/edgar.txt
+AUTOZONE INC|866787|2002-12-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000138/edgar.txt
+CISCO SYSTEMS INC|858877|2002-11-21|https://www.sec.gov/Archives/edgar/data/858877/000119968302000008/west112002.txt
+CISCO SYSTEMS INC|858877|2002-11-21|https://www.sec.gov/Archives/edgar/data/858877/000119968302000010/fiorina112002.txt
+CISCO SYSTEMS INC|858877|2002-11-22|https://www.sec.gov/Archives/edgar/data/858877/000119968302000013/morgridge112202.txt
+CISCO SYSTEMS INC|858877|2002-11-21|https://www.sec.gov/Archives/edgar/data/858877/000119968302000012/valentine112002a.txt
+CISCO SYSTEMS INC|858877|2002-11-26|https://www.sec.gov/Archives/edgar/data/858877/000119968302000015/morgridge112502.txt
+CISCO SYSTEMS INC|858877|2002-12-06|https://www.sec.gov/Archives/edgar/data/858877/000119968302000016/chambers120602.txt
+COSTCO WHOLESALE CORP /NEW|909832|2002-11-21|https://www.sec.gov/Archives/edgar/data/909832/000118449102000008/form4.txt
+COSTCO WHOLESALE CORP /NEW|909832|2002-12-26|https://www.sec.gov/Archives/edgar/data/909832/000118449102000010/form4.txt
+DOLLAR GENERAL CORP|29534|2002-10-18|https://www.sec.gov/Archives/edgar/data/29534/000091431702001172/form4-47343_ct.txt
+COSTCO WHOLESALE CORP /NEW|909832|2002-12-18|https://www.sec.gov/Archives/edgar/data/909832/000118494802000002/form4.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2002-12-02|https://www.sec.gov/Archives/edgar/data/1001082/000119781502000003/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2002-10-28|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000039/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2002-12-26|https://www.sec.gov/Archives/edgar/data/1001082/000095015702000890/form_4.txt
+ELECTRONIC ARTS INC|712515|2002-10-31|https://www.sec.gov/Archives/edgar/data/712515/000119967302000005/riccitiello103002.txt
+ELECTRONIC ARTS INC|712515|2002-10-31|https://www.sec.gov/Archives/edgar/data/712515/000119967302000007/carbone103002.txt
+ELECTRONIC ARTS INC|712515|2002-11-01|https://www.sec.gov/Archives/edgar/data/712515/000119967302000008/mattrick103102.txt
+ELECTRONIC ARTS INC|712515|2002-11-05|https://www.sec.gov/Archives/edgar/data/712515/000119967302000012/mott110402.txt
+ELECTRONIC ARTS INC|712515|2002-11-04|https://www.sec.gov/Archives/edgar/data/712515/000119967302000011/coleman110102.txt
+ELECTRONIC ARTS INC|712515|2002-11-06|https://www.sec.gov/Archives/edgar/data/712515/000119967302000013/mattrick110502.txt
+ELECTRONIC ARTS INC|712515|2002-11-07|https://www.sec.gov/Archives/edgar/data/712515/000119967302000014/mattrick110602.txt
+ELECTRONIC ARTS INC|712515|2002-11-14|https://www.sec.gov/Archives/edgar/data/712515/000119967302000016/smith111302.txt
+ELECTRONIC ARTS INC|712515|2002-11-15|https://www.sec.gov/Archives/edgar/data/712515/000119967302000017/gardner111402.txt
+ELECTRONIC ARTS INC|712515|2002-11-15|https://www.sec.gov/Archives/edgar/data/712515/000119967302000022/rueff111402.txt
+ELECTRONIC ARTS INC|712515|2002-11-15|https://www.sec.gov/Archives/edgar/data/712515/000119967302000018/carbone111402.txt
+ELECTRONIC ARTS INC|712515|2002-11-15|https://www.sec.gov/Archives/edgar/data/712515/000119967302000019/probst111402.txt
+ELECTRONIC ARTS INC|712515|2002-11-22|https://www.sec.gov/Archives/edgar/data/712515/000119967302000027/carbone112102.txt
+ELECTRONIC ARTS INC|712515|2002-11-26|https://www.sec.gov/Archives/edgar/data/712515/000119967302000028/carbone112502.txt
+ELECTRONIC ARTS INC|712515|2002-11-21|https://www.sec.gov/Archives/edgar/data/712515/000119967302000026/carbone112002.txt
+ELECTRONIC ARTS INC|712515|2002-11-29|https://www.sec.gov/Archives/edgar/data/712515/000119967302000032/lee112902.txt
+ELECTRONIC ARTS INC|712515|2002-11-26|https://www.sec.gov/Archives/edgar/data/712515/000119967302000029/probst112502.txt
+KLA TENCOR CORP|319201|2002-11-12|https://www.sec.gov/Archives/edgar/data/319201/000031920102000019/f4barnholt.txt
+KLA TENCOR CORP|319201|2002-11-12|https://www.sec.gov/Archives/edgar/data/319201/000031920102000021/f4bingham.txt
+KLA TENCOR CORP|319201|2002-11-12|https://www.sec.gov/Archives/edgar/data/319201/000031920102000023/f4bond.txt
+KLA TENCOR CORP|319201|2002-11-12|https://www.sec.gov/Archives/edgar/data/319201/000031920102000025/f4elkus.txt
+KLA TENCOR CORP|319201|2002-11-12|https://www.sec.gov/Archives/edgar/data/319201/000031920102000029/f4urbanek.txt
+KLA TENCOR CORP|319201|2002-11-12|https://www.sec.gov/Archives/edgar/data/319201/000031920102000031/f4wallace.txt
+KLA TENCOR CORP|319201|2002-11-12|https://www.sec.gov/Archives/edgar/data/319201/000031920102000033/f4nichols.txt
+KLA TENCOR CORP|319201|2002-11-12|https://www.sec.gov/Archives/edgar/data/319201/000031920102000037/f4schroeder.txt
+KLA TENCOR CORP|319201|2002-11-12|https://www.sec.gov/Archives/edgar/data/319201/000031920102000035/f4levy.txt
+KLA TENCOR CORP|319201|2002-11-12|https://www.sec.gov/Archives/edgar/data/319201/000031920102000039/f4lamb.txt
+KLA TENCOR CORP|319201|2002-11-12|https://www.sec.gov/Archives/edgar/data/319201/000031920102000041/f4kispert.txt
+KLA TENCOR CORP|319201|2002-11-12|https://www.sec.gov/Archives/edgar/data/319201/000031920102000043/f4fortino.txt
+KLA TENCOR CORP|319201|2002-11-12|https://www.sec.gov/Archives/edgar/data/319201/000031920102000049/f4kaufman.txt
+KLA TENCOR CORP|319201|2002-11-18|https://www.sec.gov/Archives/edgar/data/319201/000031920102000054/f4campagna.txt
+MOHAWK INDUSTRIES INC|851968|2002-10-02|https://www.sec.gov/Archives/edgar/data/851968/000085196802000012/form4-oct.txt
+MOHAWK INDUSTRIES INC|851968|2002-10-02|https://www.sec.gov/Archives/edgar/data/851968/000085196802000013/form4-oct.txt
+MOHAWK INDUSTRIES INC|851968|2002-11-22|https://www.sec.gov/Archives/edgar/data/851968/000085196802000016/form4-nov.txt
+MOHAWK INDUSTRIES INC|851968|2002-12-03|https://www.sec.gov/Archives/edgar/data/851968/000085196802000017/f4-bendec.txt
+MOHAWK INDUSTRIES INC|851968|2002-12-03|https://www.sec.gov/Archives/edgar/data/851968/000085196802000018/f4-kilbdec.txt
+OCCIDENTAL PETROLEUM CORP /DE/|797468|2002-11-27|https://www.sec.gov/Archives/edgar/data/797468/000079746802000095/iraniform4-20021126.txt
+SYSCO CORP|96021|2002-10-31|https://www.sec.gov/Archives/edgar/data/96021/000009602102000013/edgar.txt
+SYSCO CORP|96021|2002-11-01|https://www.sec.gov/Archives/edgar/data/96021/000009602102000015/edgar.txt
+SYSCO CORP|96021|2002-11-08|https://www.sec.gov/Archives/edgar/data/96021/000009602102000019/edgar.txt
+SYSCO CORP|96021|2002-11-06|https://www.sec.gov/Archives/edgar/data/96021/000009602102000017/edgar.txt
+SYSCO CORP|96021|2002-11-14|https://www.sec.gov/Archives/edgar/data/96021/000009602102000023/edgar.txt
+SYSCO CORP|96021|2002-12-12|https://www.sec.gov/Archives/edgar/data/96021/000009602102000032/edgar.txt
+SYSCO CORP|96021|2002-12-11|https://www.sec.gov/Archives/edgar/data/96021/000091406202000828/edgar.txt
+SYSCO CORP|96021|2002-12-12|https://www.sec.gov/Archives/edgar/data/96021/000009602102000034/edgar.txt
+SYSCO CORP|96021|2002-12-17|https://www.sec.gov/Archives/edgar/data/96021/000009602102000038/edgar.txt
+SYSCO CORP|96021|2002-12-20|https://www.sec.gov/Archives/edgar/data/96021/000009602102000042/edgar.txt
+SYSCO CORP|96021|2002-12-20|https://www.sec.gov/Archives/edgar/data/96021/000009602102000043/edgar.txt
+SYSCO CORP|96021|2002-12-20|https://www.sec.gov/Archives/edgar/data/96021/000009602102000044/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-07-09|https://www.sec.gov/Archives/edgar/data/1001082/000100108201500022/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-07-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108201500028/edgar.txt
+AUTOZONE INC|866787|2001-07-09|https://www.sec.gov/Archives/edgar/data/866787/000101190801500017/wamjune.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-07-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108201500027/edgar.txt
+CBRE HOLDING INC|1138118|2001-09-07|https://www.sec.gov/Archives/edgar/data/1138118/000095016201500724/csfbform4.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-07-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108201500026/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-09-06|https://www.sec.gov/Archives/edgar/data/1001082/000100108201500036/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-09-10|https://www.sec.gov/Archives/edgar/data/1001082/000095013001504467/d4.txt
+PARKER HANNIFIN CORP|76334|2001-08-10|https://www.sec.gov/Archives/edgar/data/76334/000102175801500003/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-08-10|https://www.sec.gov/Archives/edgar/data/76334/000102174501500005/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-08-10|https://www.sec.gov/Archives/edgar/data/76334/000102176001500003/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-08-10|https://www.sec.gov/Archives/edgar/data/76334/000102174801500003/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-08-10|https://www.sec.gov/Archives/edgar/data/76334/000102176801500002/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-08-10|https://www.sec.gov/Archives/edgar/data/76334/000104967901500003/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-08-10|https://www.sec.gov/Archives/edgar/data/76334/000104967701500002/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-08-15|https://www.sec.gov/Archives/edgar/data/76334/000102174701500007/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-08-10|https://www.sec.gov/Archives/edgar/data/76334/000107318501500002/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-08-10|https://www.sec.gov/Archives/edgar/data/76334/000112827801500004/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-09-10|https://www.sec.gov/Archives/edgar/data/76334/000112827501500002/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-09-04|https://www.sec.gov/Archives/edgar/data/76334/000102175701500005/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-09-10|https://www.sec.gov/Archives/edgar/data/76334/000112827701500004/edgar.txt
+PINNACLE WEST CAPITAL CORP|764622|2001-07-10|https://www.sec.gov/Archives/edgar/data/764622/000095014701501222/e-7120.txt
+SYSCO CORP|96021|2001-09-25|https://www.sec.gov/Archives/edgar/data/96021/000091406201500444/golden4901.txt
+PINNACLE WEST CAPITAL CORP|764622|2001-07-10|https://www.sec.gov/Archives/edgar/data/764622/000095014701501223/e-7121.txt
 AUTOZONE INC|866787|2000-11-03|https://www.sec.gov/Archives/edgar/data/866787/000101190800500006/jcaoct.txt
-AUTOZONE INC|866787|2000-11-03|https://www.sec.gov/Archives/edgar/data/866787/000101190800500008/meloct.txt
-DOLLAR GENERAL CORP|29534|2000-10-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000057/0001.txt
-DOLLAR GENERAL CORP|29534|2000-10-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000056/0001.txt
-DOLLAR GENERAL CORP|29534|2000-10-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000059/0001.txt
-DOLLAR GENERAL CORP|29534|2000-10-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000060/0001.txt
-DOLLAR GENERAL CORP|29534|2000-10-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000058/0001.txt
+AUTOZONE INC|866787|2000-11-03|https://www.sec.gov/Archives/edgar/data/866787/000101190800500009/hlgfoctst.txt
 DOLLAR GENERAL CORP|29534|2000-10-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000061/0001.txt
-DOLLAR GENERAL CORP|29534|2000-10-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000062/0001.txt
+AUTOZONE INC|866787|2000-11-03|https://www.sec.gov/Archives/edgar/data/866787/000101190800500007/mbboct.txt
+DOLLAR GENERAL CORP|29534|2000-10-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000060/0001.txt
+DOLLAR GENERAL CORP|29534|2000-10-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000059/0001.txt
+DOLLAR GENERAL CORP|29534|2000-10-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000058/0001.txt
+DOLLAR GENERAL CORP|29534|2000-10-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000057/0001.txt
+AUTOZONE INC|866787|2000-11-03|https://www.sec.gov/Archives/edgar/data/866787/000101190800500008/meloct.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-10-10|https://www.sec.gov/Archives/edgar/data/1001082/000095013000005402/0001.txt
 DOLLAR GENERAL CORP|29534|2000-11-13|https://www.sec.gov/Archives/edgar/data/29534/000091431700000762/0001.txt
-PARKER HANNIFIN CORP|76334|2000-10-10|https://www.sec.gov/Archives/edgar/data/76334/000102174700000005/0001.txt
-PENN NATIONAL GAMING INC|921738|2000-11-13|https://www.sec.gov/Archives/edgar/data/921738/000092173800000065/0001.txt
 PENN NATIONAL GAMING INC|921738|2000-11-13|https://www.sec.gov/Archives/edgar/data/921738/000092173800000066/0001.txt
-PINNACLE WEST CAPITAL CORP|764622|2000-10-10|https://www.sec.gov/Archives/edgar/data/764622/000095014700001553/0001.txt
+DOLLAR GENERAL CORP|29534|2000-11-13|https://www.sec.gov/Archives/edgar/data/29534/000091431700000761/0001.txt
+PENN NATIONAL GAMING INC|921738|2000-11-13|https://www.sec.gov/Archives/edgar/data/921738/000092173800000065/0001.txt
+PINNACLE WEST CAPITAL CORP|764622|2000-10-10|https://www.sec.gov/Archives/edgar/data/764622/000095014700001551/0001.txt
 PINNACLE WEST CAPITAL CORP|764622|2000-10-10|https://www.sec.gov/Archives/edgar/data/764622/000095014700001552/0001.txt
+PINNACLE WEST CAPITAL CORP|764622|2000-10-10|https://www.sec.gov/Archives/edgar/data/764622/000095014700001553/0001.txt
+PINNACLE WEST CAPITAL CORP|764622|2000-10-10|https://www.sec.gov/Archives/edgar/data/764622/000095014700001554/0001.txt
 PINNACLE WEST CAPITAL CORP|764622|2000-10-10|https://www.sec.gov/Archives/edgar/data/764622/000095014700001555/0001.txt
 PINNACLE WEST CAPITAL CORP|764622|2000-11-09|https://www.sec.gov/Archives/edgar/data/764622/000095014700500049/e5719.txt
-PINNACLE WEST CAPITAL CORP|764622|2000-12-08|https://www.sec.gov/Archives/edgar/data/764622/000095014700001694/0001.txt
 PINNACLE WEST CAPITAL CORP|764622|2000-12-08|https://www.sec.gov/Archives/edgar/data/764622/000095014700001695/0001.txt
 PINNACLE WEST CAPITAL CORP|764622|2000-12-08|https://www.sec.gov/Archives/edgar/data/764622/000095014700001696/0001.txt
+PINNACLE WEST CAPITAL CORP|764622|2000-12-08|https://www.sec.gov/Archives/edgar/data/764622/000095014700001694/0001.txt
+AUTOZONE INC|866787|2002-07-10|https://www.sec.gov/Archives/edgar/data/866787/000101190802000007/edgar.txt
+AUTOZONE INC|866787|2002-08-06|https://www.sec.gov/Archives/edgar/data/866787/000086678702000036/edgar.txt
+AUTOZONE INC|866787|2002-09-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000074/edgar.txt
+AUTOZONE INC|866787|2002-09-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000073/edgar.txt
+AUTOZONE INC|866787|2002-09-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000075/edgar.txt
+AUTOZONE INC|866787|2002-09-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000077/edgar.txt
+AUTOZONE INC|866787|2002-09-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000076/edgar.txt
+AUTOZONE INC|866787|2002-09-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000080/edgar.txt
+AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000092/edgar.txt
+AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000093/edgar.txt
+AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000094/edgar.txt
+AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000095/edgar.txt
+AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000096/edgar.txt
+AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000097/edgar.txt
+AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000099/edgar.txt
+AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000100/edgar.txt
+AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000102/edgar.txt
+COSTCO WHOLESALE CORP /NEW|909832|2002-09-06|https://www.sec.gov/Archives/edgar/data/909832/000118449102000002/form4.txt
+AUTOZONE INC|866787|2002-09-30|https://www.sec.gov/Archives/edgar/data/866787/000101190802000103/edgar.txt
+DOLLAR GENERAL CORP|29534|2002-07-10|https://www.sec.gov/Archives/edgar/data/29534/000091431702000694/form4-45972_ct.txt
+DOLLAR GENERAL CORP|29534|2002-07-10|https://www.sec.gov/Archives/edgar/data/29534/000091431702000697/form4-45972_dlb.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2002-07-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000035/edgar.txt
+DOLLAR GENERAL CORP|29534|2002-07-10|https://www.sec.gov/Archives/edgar/data/29534/000091431702000701/form4-46008_jt.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2002-08-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000037/edgar.txt
+INTERNATIONAL FLAVORS & FRAGRANCES INC|51253|2002-08-28|https://www.sec.gov/Archives/edgar/data/51253/000105625302000006/form4.txt
+NIKE INC|320187|2002-08-23|https://www.sec.gov/Archives/edgar/data/320187/000032018702000018/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102174702000002/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102174802000001/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102174902000002/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102175502000001/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102176002000002/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102176502000009/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102176302000004/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000104967302000001/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000104967502000002/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000104967902000004/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000104967702000001/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000104968202000001/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000107318502000001/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000107852902000001/edgar.txt
+PENN NATIONAL GAMING INC|921738|2002-09-10|https://www.sec.gov/Archives/edgar/data/921738/000091205702035060/a2089070z4.txt
+PINNACLE WEST CAPITAL CORP|764622|2002-07-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000848/e-8680.txt
+PINNACLE WEST CAPITAL CORP|764622|2002-08-09|https://www.sec.gov/Archives/edgar/data/764622/000095014702000958/e-8787.txt
+SYSCO CORP|96021|2002-09-10|https://www.sec.gov/Archives/edgar/data/96021/000104685002000007/edgar.txt
+SYSCO CORP|96021|2002-09-18|https://www.sec.gov/Archives/edgar/data/96021/000009602102000008/edgar.txt
+SYSCO CORP|96021|2002-09-18|https://www.sec.gov/Archives/edgar/data/96021/000009602102000004/edgar.txt
+ALTRIA GROUP INC|764180|2003-04-02|https://www.sec.gov/Archives/edgar/data/764180/000076418003000005/edgar.txt
+ALTRIA GROUP INC|764180|2003-04-02|https://www.sec.gov/Archives/edgar/data/764180/000119287203000007/edgar.txt
+ALTRIA GROUP INC|764180|2003-04-02|https://www.sec.gov/Archives/edgar/data/764180/000118054103000006/edgar.txt
+ALTRIA GROUP INC|764180|2003-04-28|https://www.sec.gov/Archives/edgar/data/764180/000076418003000006/edgar.txt
+ALTRIA GROUP INC|764180|2003-04-28|https://www.sec.gov/Archives/edgar/data/764180/000118972503000004/edgar.txt
+ALTRIA GROUP INC|764180|2003-04-28|https://www.sec.gov/Archives/edgar/data/764180/000119106503000005/edgar.txt
+ALTRIA GROUP INC|764180|2003-04-28|https://www.sec.gov/Archives/edgar/data/764180/000119237403000005/edgar.txt
+ALTRIA GROUP INC|764180|2003-04-28|https://www.sec.gov/Archives/edgar/data/764180/000118972903000004/edgar.txt
+ATMOS ENERGY CORP|731802|2003-04-02|https://www.sec.gov/Archives/edgar/data/731802/000118100803000006/edgar.txt
+ATMOS ENERGY CORP|731802|2003-04-02|https://www.sec.gov/Archives/edgar/data/731802/000118101403000004/edgar.txt
+AUTOZONE INC|866787|2003-04-01|https://www.sec.gov/Archives/edgar/data/866787/000101190803000058/edgar.txt
+AUTOZONE INC|866787|2003-04-23|https://www.sec.gov/Archives/edgar/data/866787/000101190803000062/edgar.txt
+CISCO SYSTEMS INC|858877|2003-04-14|https://www.sec.gov/Archives/edgar/data/858877/000119968303000003/justice041403.txt
+CISCO SYSTEMS INC|858877|2003-04-14|https://www.sec.gov/Archives/edgar/data/858877/000119968303000005/pond041403.txt
+CISCO SYSTEMS INC|858877|2003-04-14|https://www.sec.gov/Archives/edgar/data/858877/000119968303000008/chambers041403.txt
+CISCO SYSTEMS INC|858877|2003-04-14|https://www.sec.gov/Archives/edgar/data/858877/000119968303000010/richardson041403.txt
+COSTCO WHOLESALE CORP /NEW|909832|2003-04-15|https://www.sec.gov/Archives/edgar/data/909832/000118449703000004/form4.txt
+COSTCO WHOLESALE CORP /NEW|909832|2003-04-03|https://www.sec.gov/Archives/edgar/data/909832/000118449903000003/form4.txt
+COSTCO WHOLESALE CORP /NEW|909832|2003-04-16|https://www.sec.gov/Archives/edgar/data/909832/000118449303000006/form4.txt
+COSTCO WHOLESALE CORP /NEW|909832|2003-04-21|https://www.sec.gov/Archives/edgar/data/909832/000103995003000003/form4.txt
+CVS CORP|64803|2003-04-01|https://www.sec.gov/Archives/edgar/data/64803/000119441203000004/form4ferdinandi03052003.txt
+COSTCO WHOLESALE CORP /NEW|909832|2003-04-15|https://www.sec.gov/Archives/edgar/data/909832/000118449703000002/form4.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2003-04-01|https://www.sec.gov/Archives/edgar/data/1001082/000117301103000001/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2003-04-03|https://www.sec.gov/Archives/edgar/data/1001082/000100108203000002/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2003-04-03|https://www.sec.gov/Archives/edgar/data/1001082/000100108203000003/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2003-04-03|https://www.sec.gov/Archives/edgar/data/1001082/000109053403000001/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2003-04-03|https://www.sec.gov/Archives/edgar/data/1001082/000109053503000001/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2003-04-03|https://www.sec.gov/Archives/edgar/data/1001082/000109053603000001/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2003-04-03|https://www.sec.gov/Archives/edgar/data/1001082/000109053703000001/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2003-04-03|https://www.sec.gov/Archives/edgar/data/1001082/000109053803000001/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2003-04-03|https://www.sec.gov/Archives/edgar/data/1001082/000111059203000001/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2003-04-04|https://www.sec.gov/Archives/edgar/data/1001082/000113853803000001/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2003-04-03|https://www.sec.gov/Archives/edgar/data/1001082/000112189703000001/edgar.txt
+ELECTRONIC ARTS INC|712515|2003-05-02|https://www.sec.gov/Archives/edgar/data/712515/000119967303000009/kusin050103.txt
+KLA TENCOR CORP|319201|2003-05-05|https://www.sec.gov/Archives/edgar/data/319201/000031920103000013/f4campagna.txt
+MOHAWK INDUSTRIES INC|851968|2003-04-01|https://www.sec.gov/Archives/edgar/data/851968/000085196803000024/form4apr1.txt
+MOHAWK INDUSTRIES INC|851968|2003-04-30|https://www.sec.gov/Archives/edgar/data/851968/000085196803000028/form4-april.txt
+MOHAWK INDUSTRIES INC|851968|2003-05-01|https://www.sec.gov/Archives/edgar/data/851968/000085196803000029/form4-may1.txt
+NASDAQ STOCK MARKET INC|1120193|2003-04-01|https://www.sec.gov/Archives/edgar/data/1120193/000094787103000872/f4_040103.txt
+PINNACLE WEST CAPITAL CORP|764622|2003-04-03|https://www.sec.gov/Archives/edgar/data/764622/000095014703000453/e-9836.txt
+PINNACLE WEST CAPITAL CORP|764622|2003-04-30|https://www.sec.gov/Archives/edgar/data/764622/000095014703000553/e-9925.txt
+PINNACLE WEST CAPITAL CORP|764622|2003-05-02|https://www.sec.gov/Archives/edgar/data/764622/000095014703000566/e-9936.txt
+REALTY INCOME CORP|726728|2003-04-01|https://www.sec.gov/Archives/edgar/data/726728/000072672803000021/form4selman.txt
+REALTY INCOME CORP|726728|2003-04-01|https://www.sec.gov/Archives/edgar/data/726728/000072672803000020/form4kundrak.txt
+SYSCO CORP|96021|2003-04-01|https://www.sec.gov/Archives/edgar/data/96021/000009602103000028/edgar.txt
+SYSCO CORP|96021|2003-04-01|https://www.sec.gov/Archives/edgar/data/96021/000009602103000030/edgar.txt
+SYSCO CORP|96021|2003-04-01|https://www.sec.gov/Archives/edgar/data/96021/000009602103000029/edgar.txt
+SYSCO CORP|96021|2003-04-01|https://www.sec.gov/Archives/edgar/data/96021/000009602103000031/edgar.txt
+SYSCO CORP|96021|2003-04-01|https://www.sec.gov/Archives/edgar/data/96021/000009602103000032/edgar.txt
+SYSCO CORP|96021|2003-04-01|https://www.sec.gov/Archives/edgar/data/96021/000009602103000033/edgar.txt
+SYSCO CORP|96021|2003-04-01|https://www.sec.gov/Archives/edgar/data/96021/000009602103000035/edgar.txt
+SYSCO CORP|96021|2003-04-01|https://www.sec.gov/Archives/edgar/data/96021/000009602103000037/edgar.txt
+VENTAS INC|740260|2003-04-21|https://www.sec.gov/Archives/edgar/data/740260/000074026003000050/edgar.txt
+VENTAS INC|740260|2003-04-21|https://www.sec.gov/Archives/edgar/data/740260/000074026003000052/edgar.txt
+VENTAS INC|740260|2003-04-21|https://www.sec.gov/Archives/edgar/data/740260/000074026003000056/edgar.txt
+VENTAS INC|740260|2003-04-28|https://www.sec.gov/Archives/edgar/data/740260/000074026003000062/edgar.txt
+VENTAS INC|740260|2003-05-02|https://www.sec.gov/Archives/edgar/data/740260/000074026003000064/edgar.txt
+VENTAS INC|740260|2003-05-02|https://www.sec.gov/Archives/edgar/data/740260/000074026003000066/edgar.txt
+DOLLAR GENERAL CORP|29534|2000-06-12|https://www.sec.gov/Archives/edgar/data/29534/000002953400000051/0001.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-06-06|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000042/0001.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-06-06|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000043/0001.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-06-06|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000044/0001.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-06-06|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000045/0001.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-06-06|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000046/0001.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-06-06|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000048/0001.txt
+PARKER HANNIFIN CORP|76334|2001-10-26|https://www.sec.gov/Archives/edgar/data/76334/000102174901500006/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-12-06|https://www.sec.gov/Archives/edgar/data/76334/000102176301500005/edgar.txt
+NIKE INC|320187|2001-11-05|https://www.sec.gov/Archives/edgar/data/320187/000090385501500006/edgar.txt
+PINNACLE WEST CAPITAL CORP|764622|2001-12-10|https://www.sec.gov/Archives/edgar/data/764622/000095014701502012/e-7846.txt
+ALLSTATE CORP|899051|2003-01-02|https://www.sec.gov/Archives/edgar/data/899051/000104746903000076/a2100030z4.txt
+ALTRIA GROUP INC|764180|2003-01-31|https://www.sec.gov/Archives/edgar/data/764180/000102504303000002/edgar.txt
+ALTRIA GROUP INC|764180|2003-01-31|https://www.sec.gov/Archives/edgar/data/764180/000102508103000002/edgar.txt
+ALTRIA GROUP INC|764180|2003-01-31|https://www.sec.gov/Archives/edgar/data/764180/000118971303000002/edgar.txt
+ALTRIA GROUP INC|764180|2003-01-31|https://www.sec.gov/Archives/edgar/data/764180/000102505003000002/edgar.txt
+ALTRIA GROUP INC|764180|2003-01-31|https://www.sec.gov/Archives/edgar/data/764180/000102504403000002/edgar.txt
+ALTRIA GROUP INC|764180|2003-01-31|https://www.sec.gov/Archives/edgar/data/764180/000118971403000002/edgar.txt
+ALTRIA GROUP INC|764180|2003-01-31|https://www.sec.gov/Archives/edgar/data/764180/000118972203000002/edgar.txt
+ALTRIA GROUP INC|764180|2003-01-31|https://www.sec.gov/Archives/edgar/data/764180/000118972003000002/edgar.txt
+ALTRIA GROUP INC|764180|2003-01-31|https://www.sec.gov/Archives/edgar/data/764180/000118971803000002/edgar.txt
+ALTRIA GROUP INC|764180|2003-02-04|https://www.sec.gov/Archives/edgar/data/764180/000076418003000002/edgar.txt
+ALTRIA GROUP INC|764180|2003-02-04|https://www.sec.gov/Archives/edgar/data/764180/000102490103000002/edgar.txt
+ALTRIA GROUP INC|764180|2003-02-04|https://www.sec.gov/Archives/edgar/data/764180/000118054103000003/edgar.txt
+ALTRIA GROUP INC|764180|2003-02-06|https://www.sec.gov/Archives/edgar/data/764180/000118972003000003/edgar.txt
+ALTRIA GROUP INC|764180|2003-02-07|https://www.sec.gov/Archives/edgar/data/764180/000118971503000003/edgar.txt
+ALTRIA GROUP INC|764180|2003-03-04|https://www.sec.gov/Archives/edgar/data/764180/000076418003000003/edgar.txt
+ALTRIA GROUP INC|764180|2003-03-04|https://www.sec.gov/Archives/edgar/data/764180/000119287203000006/edgar.txt
+AMR CORP|6201|2003-01-02|https://www.sec.gov/Archives/edgar/data/6201/000119691303000002/edgar.txt
+AMR CORP|6201|2003-01-02|https://www.sec.gov/Archives/edgar/data/6201/000119691303000003/edgar.txt
+AMR CORP|6201|2003-01-02|https://www.sec.gov/Archives/edgar/data/6201/000119691303000004/edgar.txt
+AMR CORP|6201|2003-01-02|https://www.sec.gov/Archives/edgar/data/6201/000119691303000007/edgar.txt
+AMR CORP|6201|2003-01-03|https://www.sec.gov/Archives/edgar/data/6201/000119691303000008/edgar.txt
+AMR CORP|6201|2003-01-03|https://www.sec.gov/Archives/edgar/data/6201/000119691303000010/edgar.txt
+AMR CORP|6201|2003-01-03|https://www.sec.gov/Archives/edgar/data/6201/000119691303000009/edgar.txt
+AMR CORP|6201|2003-01-03|https://www.sec.gov/Archives/edgar/data/6201/000119691303000011/edgar.txt
+AMR CORP|6201|2003-01-03|https://www.sec.gov/Archives/edgar/data/6201/000119691303000012/edgar.txt
+AMR CORP|6201|2003-01-03|https://www.sec.gov/Archives/edgar/data/6201/000119691303000013/edgar.txt
+AMR CORP|6201|2003-01-03|https://www.sec.gov/Archives/edgar/data/6201/000119691303000014/edgar.txt
+AMR CORP|6201|2003-01-03|https://www.sec.gov/Archives/edgar/data/6201/000119691303000016/edgar.txt
+AMR CORP|6201|2003-02-04|https://www.sec.gov/Archives/edgar/data/6201/000119691303000020/edgar.txt
+AMR CORP|6201|2003-02-04|https://www.sec.gov/Archives/edgar/data/6201/000119691303000021/edgar.txt
+AMR CORP|6201|2003-02-04|https://www.sec.gov/Archives/edgar/data/6201/000119691303000022/edgar.txt
+AMR CORP|6201|2003-02-04|https://www.sec.gov/Archives/edgar/data/6201/000119691303000024/edgar.txt
+AMR CORP|6201|2003-03-03|https://www.sec.gov/Archives/edgar/data/6201/000119691303000029/edgar.txt
+AMR CORP|6201|2003-03-03|https://www.sec.gov/Archives/edgar/data/6201/000119691303000027/edgar.txt
+AMR CORP|6201|2003-03-03|https://www.sec.gov/Archives/edgar/data/6201/000119691303000030/edgar.txt
+AMR CORP|6201|2003-03-03|https://www.sec.gov/Archives/edgar/data/6201/000119691303000032/edgar.txt
+ATMOS ENERGY CORP|731802|2003-01-02|https://www.sec.gov/Archives/edgar/data/731802/000118100603000002/edgar.txt
+ATMOS ENERGY CORP|731802|2003-01-02|https://www.sec.gov/Archives/edgar/data/731802/000118100803000002/edgar.txt
+ATMOS ENERGY CORP|731802|2003-01-02|https://www.sec.gov/Archives/edgar/data/731802/000118101903000002/edgar.txt
+ATMOS ENERGY CORP|731802|2003-01-16|https://www.sec.gov/Archives/edgar/data/731802/000118137803000004/edgar.txt
+ATMOS ENERGY CORP|731802|2003-03-07|https://www.sec.gov/Archives/edgar/data/731802/000118100703000003/edgar.txt
+ATMOS ENERGY CORP|731802|2003-03-14|https://www.sec.gov/Archives/edgar/data/731802/000118100603000004/edgar.txt
+ATMOS ENERGY CORP|731802|2003-03-14|https://www.sec.gov/Archives/edgar/data/731802/000118101403000002/edgar.txt
+ATMOS ENERGY CORP|731802|2003-03-14|https://www.sec.gov/Archives/edgar/data/731802/000118101603000002/edgar.txt
+ATMOS ENERGY CORP|731802|2003-03-14|https://www.sec.gov/Archives/edgar/data/731802/000118283003000002/edgar.txt
+ATMOS ENERGY CORP|731802|2003-03-14|https://www.sec.gov/Archives/edgar/data/731802/000118283103000002/edgar.txt
+AUTOZONE INC|866787|2003-01-02|https://www.sec.gov/Archives/edgar/data/866787/000101190803000014/edgar.txt
+AUTOZONE INC|866787|2003-01-02|https://www.sec.gov/Archives/edgar/data/866787/000101190803000015/edgar.txt
+ATMOS ENERGY CORP|731802|2003-03-14|https://www.sec.gov/Archives/edgar/data/731802/000118287903000002/edgar.txt
+AUTOZONE INC|866787|2003-01-02|https://www.sec.gov/Archives/edgar/data/866787/000101190803000016/edgar.txt
+AUTOZONE INC|866787|2003-01-02|https://www.sec.gov/Archives/edgar/data/866787/000101190803000018/edgar.txt
+AUTOZONE INC|866787|2003-01-02|https://www.sec.gov/Archives/edgar/data/866787/000101190803000023/edgar.txt
+AUTOZONE INC|866787|2003-01-02|https://www.sec.gov/Archives/edgar/data/866787/000101190803000022/edgar.txt
+AUTOZONE INC|866787|2003-01-02|https://www.sec.gov/Archives/edgar/data/866787/000101190803000024/edgar.txt
+AUTOZONE INC|866787|2003-01-02|https://www.sec.gov/Archives/edgar/data/866787/000101190803000025/edgar.txt
+AUTOZONE INC|866787|2003-03-03|https://www.sec.gov/Archives/edgar/data/866787/000101190803000047/edgar.txt
+AUTOZONE INC|866787|2003-01-29|https://www.sec.gov/Archives/edgar/data/866787/000101190803000028/edgar.txt
+AUTOZONE INC|866787|2003-03-03|https://www.sec.gov/Archives/edgar/data/866787/000101190803000049/edgar.txt
+AUTOZONE INC|866787|2003-03-03|https://www.sec.gov/Archives/edgar/data/866787/000101190803000048/edgar.txt
+AUTOZONE INC|866787|2003-03-03|https://www.sec.gov/Archives/edgar/data/866787/000101190803000050/edgar.txt
+AUTOZONE INC|866787|2003-03-03|https://www.sec.gov/Archives/edgar/data/866787/000101190803000051/edgar.txt
+AUTOZONE INC|866787|2003-03-03|https://www.sec.gov/Archives/edgar/data/866787/000101190803000052/edgar.txt
+AUTOZONE INC|866787|2003-03-03|https://www.sec.gov/Archives/edgar/data/866787/000101190803000054/edgar.txt
+AUTOZONE INC|866787|2003-03-17|https://www.sec.gov/Archives/edgar/data/866787/000101190803000056/edgar.txt
+COSTCO WHOLESALE CORP /NEW|909832|2003-03-14|https://www.sec.gov/Archives/edgar/data/909832/000118449803000003/form4.txt
+CVS CORP|64803|2003-01-13|https://www.sec.gov/Archives/edgar/data/64803/000119441603000001/form4bodine01092003.txt
+CVS CORP|64803|2003-01-13|https://www.sec.gov/Archives/edgar/data/64803/000119441603000005/form4rickard01092003.txt
+CVS CORP|64803|2003-01-13|https://www.sec.gov/Archives/edgar/data/64803/000119441603000004/form4merlo01092003.txt
+CVS CORP|64803|2003-01-13|https://www.sec.gov/Archives/edgar/data/64803/000119441603000006/form4ryan01092003.txt
+CVS CORP|64803|2003-01-13|https://www.sec.gov/Archives/edgar/data/64803/000119441603000007/form4sgarro01092003.txt
+CVS CORP|64803|2003-01-13|https://www.sec.gov/Archives/edgar/data/64803/000119441603000008/form4solberg01092003.txt
+CVS CORP|64803|2003-01-16|https://www.sec.gov/Archives/edgar/data/64803/000119636103000001/form4murray01152003.txt
+CVS CORP|64803|2003-03-03|https://www.sec.gov/Archives/edgar/data/64803/000119440503000001/form4bodine02272003.txt
+CVS CORP|64803|2003-03-03|https://www.sec.gov/Archives/edgar/data/64803/000119440503000002/form4merlo02272003.txt
+CVS CORP|64803|2003-03-03|https://www.sec.gov/Archives/edgar/data/64803/000119440503000003/form4ryan02272003.txt
+CVS CORP|64803|2003-03-03|https://www.sec.gov/Archives/edgar/data/64803/000119440503000004/form4sgarro02272003.txt
+CVS CORP|64803|2003-03-03|https://www.sec.gov/Archives/edgar/data/64803/000119440503000005/form4solberg02272003.txt
+CVS CORP|64803|2003-03-06|https://www.sec.gov/Archives/edgar/data/64803/000119440503000008/form4ferdinandi03052003.txt
+CVS CORP|64803|2003-03-06|https://www.sec.gov/Archives/edgar/data/64803/000119440503000009/form4ellinger03052003.txt
+CVS CORP|64803|2003-03-06|https://www.sec.gov/Archives/edgar/data/64803/000119440503000012/form4rickard03052003.txt
+CVS CORP|64803|2003-03-10|https://www.sec.gov/Archives/edgar/data/64803/000119442003000002/form4coversolberg03102003.txt
+CVS CORP|64803|2003-03-10|https://www.sec.gov/Archives/edgar/data/64803/000119442003000004/form4bodine03072003.txt
+CVS CORP|64803|2003-03-14|https://www.sec.gov/Archives/edgar/data/64803/000119441603000010/form4ryan03122003.txt
+CVS CORP|64803|2003-03-10|https://www.sec.gov/Archives/edgar/data/64803/000119442003000003/form4coverferdinandi03102003.txt
+CVS CORP|64803|2003-03-19|https://www.sec.gov/Archives/edgar/data/64803/000117447703000023/form4cornwell03182003txt.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2003-01-02|https://www.sec.gov/Archives/edgar/data/1001082/000119781503000001/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2003-01-06|https://www.sec.gov/Archives/edgar/data/1001082/000121284703000013/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2003-03-13|https://www.sec.gov/Archives/edgar/data/1001082/000109052703000003/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2003-03-18|https://www.sec.gov/Archives/edgar/data/1001082/000119781503000002/edgar.txt
+ELECTRONIC ARTS INC|712515|2003-01-03|https://www.sec.gov/Archives/edgar/data/712515/000119967303000001/asher010203.txt
+ELECTRONIC ARTS INC|712515|2003-02-05|https://www.sec.gov/Archives/edgar/data/712515/000119967303000005/coleman020303.txt
+KLA TENCOR CORP|319201|2003-02-07|https://www.sec.gov/Archives/edgar/data/319201/000031920103000003/f4kaufman.txt
+MOHAWK INDUSTRIES INC|851968|2003-01-03|https://www.sec.gov/Archives/edgar/data/851968/000085196803000003/form4-jan.txt
+MOHAWK INDUSTRIES INC|851968|2003-01-03|https://www.sec.gov/Archives/edgar/data/851968/000085196803000004/form4-jan.txt
+MOHAWK INDUSTRIES INC|851968|2003-01-03|https://www.sec.gov/Archives/edgar/data/851968/000085196803000005/form4-jan.txt
+MOHAWK INDUSTRIES INC|851968|2003-01-07|https://www.sec.gov/Archives/edgar/data/851968/000085196803000006/form4-jan.txt
+MOHAWK INDUSTRIES INC|851968|2003-03-05|https://www.sec.gov/Archives/edgar/data/851968/000085196803000016/form4-march.txt
+MOHAWK INDUSTRIES INC|851968|2003-03-05|https://www.sec.gov/Archives/edgar/data/851968/000085196803000017/form4-march.txt
+MOHAWK INDUSTRIES INC|851968|2003-03-05|https://www.sec.gov/Archives/edgar/data/851968/000085196803000018/form4-march.txt
+MOHAWK INDUSTRIES INC|851968|2003-03-05|https://www.sec.gov/Archives/edgar/data/851968/000085196803000019/form4-march.txt
+MOHAWK INDUSTRIES INC|851968|2003-03-05|https://www.sec.gov/Archives/edgar/data/851968/000085196803000021/form4-march.txt
+MOHAWK INDUSTRIES INC|851968|2003-03-05|https://www.sec.gov/Archives/edgar/data/851968/000085196803000020/form4-march.txt
+PENN NATIONAL GAMING INC|921738|2003-03-20|https://www.sec.gov/Archives/edgar/data/921738/000104746903009464/a2106277z4.txt
+PINNACLE WEST CAPITAL CORP|764622|2003-03-20|https://www.sec.gov/Archives/edgar/data/764622/000095014703000351/e-9746.txt
+PINNACLE WEST CAPITAL CORP|764622|2003-03-20|https://www.sec.gov/Archives/edgar/data/764622/000095014703000352/e-9752.txt
+PINNACLE WEST CAPITAL CORP|764622|2003-03-20|https://www.sec.gov/Archives/edgar/data/764622/000095014703000353/e-9749.txt
+PINNACLE WEST CAPITAL CORP|764622|2003-03-20|https://www.sec.gov/Archives/edgar/data/764622/000095014703000354/e-9743.txt
+PINNACLE WEST CAPITAL CORP|764622|2003-03-20|https://www.sec.gov/Archives/edgar/data/764622/000095014703000360/e-9745.txt
+PINNACLE WEST CAPITAL CORP|764622|2003-03-20|https://www.sec.gov/Archives/edgar/data/764622/000095014703000358/e-9750.txt
+PINNACLE WEST CAPITAL CORP|764622|2003-03-20|https://www.sec.gov/Archives/edgar/data/764622/000095014703000361/e-9754.txt
+REALTY INCOME CORP|726728|2003-01-21|https://www.sec.gov/Archives/edgar/data/726728/000072672803000003/form4clark.txt
+REALTY INCOME CORP|726728|2003-02-10|https://www.sec.gov/Archives/edgar/data/726728/000072672803000005/form4cameron.txt
+REALTY INCOME CORP|726728|2003-02-27|https://www.sec.gov/Archives/edgar/data/726728/000072672803000009/form4lewis.txt
+SYNOPSYS INC|883241|2003-02-26|https://www.sec.gov/Archives/edgar/data/883241/000090342303000208/synopsisform4_2-26.txt
+REALTY INCOME CORP|726728|2003-03-28|https://www.sec.gov/Archives/edgar/data/726728/000072672803000017/form4clark2.txt
+SYSCO CORP|96021|2003-01-03|https://www.sec.gov/Archives/edgar/data/96021/000009602103000002/edgar.txt
+SYSCO CORP|96021|2003-01-31|https://www.sec.gov/Archives/edgar/data/96021/000009602103000006/edgar.txt
+SYSCO CORP|96021|2003-01-06|https://www.sec.gov/Archives/edgar/data/96021/000009602103000004/edgar.txt
+SYSCO CORP|96021|2003-02-18|https://www.sec.gov/Archives/edgar/data/96021/000009602103000008/edgar.txt
+SYSCO CORP|96021|2003-02-18|https://www.sec.gov/Archives/edgar/data/96021/000009602103000010/edgar.txt
+SYSCO CORP|96021|2003-03-24|https://www.sec.gov/Archives/edgar/data/96021/000009602103000017/edgar.txt
 AUTOZONE INC|866787|2002-06-05|https://www.sec.gov/Archives/edgar/data/866787/000101190802000004/edgar.txt
 AUTOZONE INC|866787|2002-06-05|https://www.sec.gov/Archives/edgar/data/866787/000101190802000005/edgar.txt
-DOLLAR GENERAL CORP|29534|2002-05-07|https://www.sec.gov/Archives/edgar/data/29534/000091431702000511/form4-44957_bk.txt
-DTE ENERGY CO|936340|2002-04-10|https://www.sec.gov/Archives/edgar/data/936340/000095012402001298/k68813ae4.txt
+DOLLAR GENERAL CORP|29534|2002-04-26|https://www.sec.gov/Archives/edgar/data/29534/000091431702000457/form4_robbins.txt
 DTE ENERGY CO|936340|2002-04-10|https://www.sec.gov/Archives/edgar/data/936340/000095012402001299/k68813be4.txt
 ECHOSTAR COMMUNICATIONS CORP|1001082|2002-04-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000020/edgar.txt
 DTE ENERGY CO|936340|2002-04-10|https://www.sec.gov/Archives/edgar/data/936340/000095012402001318/k68813ce4.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|2002-06-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000030/edgar.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|2002-06-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000031/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2002-04-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000021/edgar.txt
 ECHOSTAR COMMUNICATIONS CORP|1001082|2002-06-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000028/edgar.txt
-NIKE INC|320187|2002-05-09|https://www.sec.gov/Archives/edgar/data/320187/000032018702000010/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2002-06-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000030/edgar.txt
+NASDAQ STOCK MARKET INC|1120193|2002-04-10|https://www.sec.gov/Archives/edgar/data/1120193/000094787102000654/f4_040202.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2002-06-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000031/edgar.txt
 NIKE INC|320187|2002-04-10|https://www.sec.gov/Archives/edgar/data/320187/000032018702000005/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102176302000003/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102176502000007/edgar.txt
+NIKE INC|320187|2002-05-09|https://www.sec.gov/Archives/edgar/data/320187/000032018702000010/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102174902000001/edgar.txt
 PARKER HANNIFIN CORP|76334|2002-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102175202000002/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-04-10|https://www.sec.gov/Archives/edgar/data/76334/000108796302000001/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102176302000003/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102176502000008/edgar.txt
 PARKER HANNIFIN CORP|76334|2002-04-10|https://www.sec.gov/Archives/edgar/data/76334/000107853002000001/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-05-09|https://www.sec.gov/Archives/edgar/data/76334/000116170702000002/edgar.txt
-PINNACLE WEST CAPITAL CORP|764622|2002-04-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000524/e-8402.txt
-PINNACLE WEST CAPITAL CORP|764622|2002-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000646/e-8493.txt
+PARKER HANNIFIN CORP|76334|2002-04-10|https://www.sec.gov/Archives/edgar/data/76334/000108796302000001/edgar.txt
 PINNACLE WEST CAPITAL CORP|764622|2002-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000647/e-8496.txt
-PINNACLE WEST CAPITAL CORP|764622|2002-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000649/e-8497.txt
-PINNACLE WEST CAPITAL CORP|764622|2002-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000650/e-8495.txt
+PINNACLE WEST CAPITAL CORP|764622|2002-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000645/e-8492.txt
+PINNACLE WEST CAPITAL CORP|764622|2002-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000646/e-8493.txt
+PINNACLE WEST CAPITAL CORP|764622|2002-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000648/e-8494.txt
 PINNACLE WEST CAPITAL CORP|764622|2002-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000651/e-8498.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|2002-02-11|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000009/edgar.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|2002-01-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000002/edgar.txt
+PINNACLE WEST CAPITAL CORP|764622|2002-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000652/e-8499.txt
+PINNACLE WEST CAPITAL CORP|764622|2002-06-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000757/e-8596.txt
 ECHOSTAR COMMUNICATIONS CORP|1001082|2002-02-11|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000011/edgar.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|2002-03-05|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000015/edgar.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|2002-03-05|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000017/edgar.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|2002-02-11|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000010/edgar.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|2002-03-05|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000016/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2002-01-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000002/edgar.txt
 NASDAQ STOCK MARKET INC|1120193|2002-03-08|https://www.sec.gov/Archives/edgar/data/1120193/000094787102000479/form4_0030602.txt
 NIKE INC|320187|2002-03-08|https://www.sec.gov/Archives/edgar/data/320187/000090385502000004/edgar.txt
 PARKER HANNIFIN CORP|76334|2002-01-07|https://www.sec.gov/Archives/edgar/data/76334/000102176302000001/edgar.txt
 PARKER HANNIFIN CORP|76334|2002-01-07|https://www.sec.gov/Archives/edgar/data/76334/000114281102000001/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-01-09|https://www.sec.gov/Archives/edgar/data/76334/000104967902000001/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-03-11|https://www.sec.gov/Archives/edgar/data/76334/000102174702000001/edgar.txt
 PARKER HANNIFIN CORP|76334|2002-03-11|https://www.sec.gov/Archives/edgar/data/76334/000104967902000002/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-01-09|https://www.sec.gov/Archives/edgar/data/76334/000104967902000001/edgar.txt
 PARKER HANNIFIN CORP|76334|2002-03-11|https://www.sec.gov/Archives/edgar/data/76334/000104967902000003/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-03-11|https://www.sec.gov/Archives/edgar/data/76334/000102176302000002/edgar.txt
 PARKER HANNIFIN CORP|76334|2002-03-11|https://www.sec.gov/Archives/edgar/data/76334/000112827802000001/edgar.txt
 PINNACLE WEST CAPITAL CORP|764622|2002-01-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000036/e-7957.txt
+PINNACLE WEST CAPITAL CORP|764622|2002-01-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000037/e-7958.txt
 PINNACLE WEST CAPITAL CORP|764622|2002-03-08|https://www.sec.gov/Archives/edgar/data/764622/000095014702000402/e-8258.txt
 PINNACLE WEST CAPITAL CORP|764622|2002-03-08|https://www.sec.gov/Archives/edgar/data/764622/000095014702000403/e-8260.txt
-PINNACLE WEST CAPITAL CORP|764622|2002-01-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000037/e-7958.txt
-DOLLAR GENERAL CORP|29534|2001-01-10|https://www.sec.gov/Archives/edgar/data/29534/000091431701000023/0001.txt
-DOLLAR GENERAL CORP|29534|2001-01-10|https://www.sec.gov/Archives/edgar/data/29534/000091431701000031/0001.txt
-DOLLAR GENERAL CORP|29534|2001-01-10|https://www.sec.gov/Archives/edgar/data/29534/000091431701000024/0001.txt
-DOLLAR GENERAL CORP|29534|2001-01-10|https://www.sec.gov/Archives/edgar/data/29534/000091431701000032/0001.txt
-DOLLAR GENERAL CORP|29534|2001-02-09|https://www.sec.gov/Archives/edgar/data/29534/000091431701000078/0001.txt
-DOLLAR GENERAL CORP|29534|2001-01-10|https://www.sec.gov/Archives/edgar/data/29534/000091431701000022/0001.txt
-DOLLAR GENERAL CORP|29534|2001-02-09|https://www.sec.gov/Archives/edgar/data/29534/000091431701000077/0001.txt
-DOLLAR GENERAL CORP|29534|2001-03-12|https://www.sec.gov/Archives/edgar/data/29534/000091431701000165/0001.txt
-DOLLAR GENERAL CORP|29534|2001-02-09|https://www.sec.gov/Archives/edgar/data/29534/000091431701000079/0001.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|2001-01-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108201000006/0001.txt
-NIKE INC|320187|2001-01-10|https://www.sec.gov/Archives/edgar/data/320187/000113224301000005/0001.txt
-NIKE INC|320187|2001-02-08|https://www.sec.gov/Archives/edgar/data/320187/000113224301000007/0001.txt
-PARKER HANNIFIN CORP|76334|2001-01-10|https://www.sec.gov/Archives/edgar/data/76334/000102176501000001/0001.txt
-PARKER HANNIFIN CORP|76334|2001-01-10|https://www.sec.gov/Archives/edgar/data/76334/000108796301000001/0001.txt
-PARKER HANNIFIN CORP|76334|2001-02-12|https://www.sec.gov/Archives/edgar/data/76334/000102174601000003/0001.txt
-PARKER HANNIFIN CORP|76334|2001-02-12|https://www.sec.gov/Archives/edgar/data/76334/000104967901000002/0001.txt
-PARKER HANNIFIN CORP|76334|2001-03-12|https://www.sec.gov/Archives/edgar/data/76334/000102174601000004/0001.txt
-PARKER HANNIFIN CORP|76334|2001-03-12|https://www.sec.gov/Archives/edgar/data/76334/000102175701000001/0001.txt
-PARKER HANNIFIN CORP|76334|2001-03-12|https://www.sec.gov/Archives/edgar/data/76334/000112827701000001/0001.txt
-PARKER HANNIFIN CORP|76334|2001-02-12|https://www.sec.gov/Archives/edgar/data/76334/000107853001000003/0001.txt
-PINNACLE WEST CAPITAL CORP|764622|2001-01-10|https://www.sec.gov/Archives/edgar/data/764622/000095014701500050/e-6046.txt
-AUTOZONE INC|866787|2002-07-10|https://www.sec.gov/Archives/edgar/data/866787/000101190802000007/edgar.txt
-AUTOZONE INC|866787|2002-08-06|https://www.sec.gov/Archives/edgar/data/866787/000086678702000036/edgar.txt
-AUTOZONE INC|866787|2002-09-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000072/edgar.txt
-AUTOZONE INC|866787|2002-09-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000073/edgar.txt
-AUTOZONE INC|866787|2002-09-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000079/edgar.txt
-AUTOZONE INC|866787|2002-09-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000078/edgar.txt
-AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000095/edgar.txt
-AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000097/edgar.txt
-AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000096/edgar.txt
-AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000099/edgar.txt
-AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000100/edgar.txt
-AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000101/edgar.txt
-AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000102/edgar.txt
-AUTOZONE INC|866787|2002-09-30|https://www.sec.gov/Archives/edgar/data/866787/000101190802000103/edgar.txt
-COSTCO WHOLESALE CORP /NEW|909832|2002-09-06|https://www.sec.gov/Archives/edgar/data/909832/000118449102000002/form4.txt
-DOLLAR GENERAL CORP|29534|2002-07-10|https://www.sec.gov/Archives/edgar/data/29534/000091431702000694/form4-45972_ct.txt
-DOLLAR GENERAL CORP|29534|2002-07-10|https://www.sec.gov/Archives/edgar/data/29534/000091431702000696/form4-45972_tct.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|2002-07-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000035/edgar.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|2002-08-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000037/edgar.txt
-NIKE INC|320187|2002-08-23|https://www.sec.gov/Archives/edgar/data/320187/000032018702000018/edgar.txt
-NIKE INC|320187|2002-08-23|https://www.sec.gov/Archives/edgar/data/320187/000090385502000007/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102174702000002/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102174802000001/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102174902000002/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102175102000001/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102175202000003/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102175502000001/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102176002000002/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000104967302000001/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000104967502000001/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000104967702000001/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000104967502000002/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000104968202000001/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000104967902000004/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000107318502000001/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000107852802000001/edgar.txt
-PENN NATIONAL GAMING INC|921738|2002-09-10|https://www.sec.gov/Archives/edgar/data/921738/000091205702035063/a2089072z4.txt
-PINNACLE WEST CAPITAL CORP|764622|2002-08-09|https://www.sec.gov/Archives/edgar/data/764622/000095014702000957/e-8786.txt
-PINNACLE WEST CAPITAL CORP|764622|2002-08-09|https://www.sec.gov/Archives/edgar/data/764622/000095014702000958/e-8787.txt
-SYSCO CORP|96021|2002-09-10|https://www.sec.gov/Archives/edgar/data/96021/000104685002000007/edgar.txt
-SYSCO CORP|96021|2002-09-11|https://www.sec.gov/Archives/edgar/data/96021/000104685402000002/edgar.txt
-SYSCO CORP|96021|2002-09-18|https://www.sec.gov/Archives/edgar/data/96021/000009602102000003/edgar.txt
-SYSCO CORP|96021|2002-09-18|https://www.sec.gov/Archives/edgar/data/96021/000009602102000004/edgar.txt
-WILLIAMS COMPANIES INC|107263|2002-09-03|https://www.sec.gov/Archives/edgar/data/107263/000095013402010870/d99607e4.txt
-AUTOZONE INC|866787|2000-11-03|https://www.sec.gov/Archives/edgar/data/866787/000101190800500007/mbboct.txt
+AUTOZONE INC|866787|2001-01-04|https://www.sec.gov/Archives/edgar/data/866787/000101190801500003/mckenna.txt
+DOLLAR GENERAL CORP|29534|2001-01-10|https://www.sec.gov/Archives/edgar/data/29534/000091431701000031/0001.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-01-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108201000004/0001.txt
+PARKER HANNIFIN CORP|76334|2001-03-12|https://www.sec.gov/Archives/edgar/data/76334/000112827701000001/0001.txt
+NIKE INC|320187|2001-02-08|https://www.sec.gov/Archives/edgar/data/320187/000113224301000007/0001.txt
+AUTOZONE INC|866787|2001-04-09|https://www.sec.gov/Archives/edgar/data/866787/000101190801500008/mbbmarch.txt
+AUTOZONE INC|866787|2001-04-09|https://www.sec.gov/Archives/edgar/data/866787/000101190801500010/wammarch.txt
+CARNIVAL CORP|815097|2001-06-11|https://www.sec.gov/Archives/edgar/data/815097/000095014201500120/form4mmarison.txt
+DOLLAR GENERAL CORP|29534|2001-06-11|https://www.sec.gov/Archives/edgar/data/29534/000091431701500167/form4-39479_jst.txt
+DOLLAR GENERAL CORP|29534|2001-06-11|https://www.sec.gov/Archives/edgar/data/29534/000091431701500169/form4-39479_tct.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-06-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108201500008/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000104967301000001/0001.txt
+PARKER HANNIFIN CORP|76334|2001-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102176301500004/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-05-10|https://www.sec.gov/Archives/edgar/data/76334/000108796301500007/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-05-10|https://www.sec.gov/Archives/edgar/data/76334/000112827801500002/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-05-10|https://www.sec.gov/Archives/edgar/data/76334/000112827701500003/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-06-11|https://www.sec.gov/Archives/edgar/data/76334/000107853001500002/edgar.txt
+PINNACLE WEST CAPITAL CORP|764622|2001-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014701500847/e-6797.txt
+PINNACLE WEST CAPITAL CORP|764622|2001-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014701500851/e-6801.txt
+PINNACLE WEST CAPITAL CORP|764622|2001-06-08|https://www.sec.gov/Archives/edgar/data/764622/000095014701501083/e-7000.txt
+PINNACLE WEST CAPITAL CORP|764622|2001-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014701500848/e-6798.txt
+PARKER HANNIFIN CORP|76334|2001-06-11|https://www.sec.gov/Archives/edgar/data/76334/000112827801500003/edgar.txt
+PARKER HANNIFIN CORP|76334|2000-08-11|https://www.sec.gov/Archives/edgar/data/76334/000102174500000001/0001.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-09-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000055/0001.txt
+PARKER HANNIFIN CORP|76334|2000-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102175800000005/0001.txt
+PARKER HANNIFIN CORP|76334|2000-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102176300000001/0001.txt
+PARKER HANNIFIN CORP|76334|2000-08-14|https://www.sec.gov/Archives/edgar/data/76334/000107852900000001/0001.txt
+PARKER HANNIFIN CORP|76334|2000-09-01|https://www.sec.gov/Archives/edgar/data/76334/000102174700000002/0001.txt
+AMR CORP|6201|2002-11-01|https://www.sec.gov/Archives/edgar/data/6201/000119691302000011/edgar.txt
+ATMOS ENERGY CORP|731802|2002-10-01|https://www.sec.gov/Archives/edgar/data/731802/000118100802000003/edgar.txt
+ATMOS ENERGY CORP|731802|2002-10-02|https://www.sec.gov/Archives/edgar/data/731802/000118137802000001/edgar.txt
+ATMOS ENERGY CORP|731802|2002-11-13|https://www.sec.gov/Archives/edgar/data/731802/000118101002000002/edgar.txt
+ATMOS ENERGY CORP|731802|2002-11-15|https://www.sec.gov/Archives/edgar/data/731802/000118102302000005/edgar.txt
+ATMOS ENERGY CORP|731802|2002-12-02|https://www.sec.gov/Archives/edgar/data/731802/000118101902000007/edgar.txt
+CISCO SYSTEMS INC|858877|2002-11-20|https://www.sec.gov/Archives/edgar/data/858877/000119968302000003/morgridge11192002.txt
+AUTOZONE INC|866787|2002-12-17|https://www.sec.gov/Archives/edgar/data/866787/000101190802000140/edgar.txt
+CISCO SYSTEMS INC|858877|2002-11-21|https://www.sec.gov/Archives/edgar/data/858877/000119968302000004/bartz112002.txt
+CISCO SYSTEMS INC|858877|2002-11-21|https://www.sec.gov/Archives/edgar/data/858877/000119968302000006/morgan112002.txt
+CISCO SYSTEMS INC|858877|2002-11-21|https://www.sec.gov/Archives/edgar/data/858877/000119968302000007/hennessy112002.txt
+CVS CORP|64803|2002-12-16|https://www.sec.gov/Archives/edgar/data/64803/000119822102000002/form4lautenbachdec2002.txt
+DOLLAR GENERAL CORP|29534|2002-10-18|https://www.sec.gov/Archives/edgar/data/29534/000091431702001174/form4-47343_jt.txt
+ELECTRONIC ARTS INC|712515|2002-11-04|https://www.sec.gov/Archives/edgar/data/712515/000119967302000010/kusin110102.txt
+ELECTRONIC ARTS INC|712515|2002-11-08|https://www.sec.gov/Archives/edgar/data/712515/000119967302000015/riccitiello110702.txt
+ELECTRONIC ARTS INC|712515|2002-11-18|https://www.sec.gov/Archives/edgar/data/712515/000119967302000024/mattrick111502.txt
+ELECTRONIC ARTS INC|712515|2002-11-21|https://www.sec.gov/Archives/edgar/data/712515/000119967302000025/kennedy112002.txt
+ELECTRONIC ARTS INC|712515|2002-11-26|https://www.sec.gov/Archives/edgar/data/712515/000119967302000030/mattrick112502.txt
+ELECTRONIC ARTS INC|712515|2002-11-26|https://www.sec.gov/Archives/edgar/data/712515/000119967302000031/lee112502.txt
+KLA TENCOR CORP|319201|2002-11-12|https://www.sec.gov/Archives/edgar/data/319201/000031920102000027/f4tompkins.txt
+MOHAWK INDUSTRIES INC|851968|2002-10-02|https://www.sec.gov/Archives/edgar/data/851968/000085196802000014/form4-oct.txt
+SYSCO CORP|96021|2002-11-13|https://www.sec.gov/Archives/edgar/data/96021/000009602102000021/edgar.txt
+SYSCO CORP|96021|2002-11-21|https://www.sec.gov/Archives/edgar/data/96021/000009602102000027/edgar.txt
+SYSCO CORP|96021|2002-12-11|https://www.sec.gov/Archives/edgar/data/96021/000009602102000030/edgar.txt
+SYSCO CORP|96021|2002-12-18|https://www.sec.gov/Archives/edgar/data/96021/000091406202000844/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-09-06|https://www.sec.gov/Archives/edgar/data/1001082/000100108201500035/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102174701500006/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-08-10|https://www.sec.gov/Archives/edgar/data/76334/000104968201500004/edgar.txt
+DOLLAR GENERAL CORP|29534|2000-10-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000056/0001.txt
 DOLLAR GENERAL CORP|29534|2000-10-11|https://www.sec.gov/Archives/edgar/data/29534/000002953400000063/0001.txt
-AUTOZONE INC|866787|2000-11-03|https://www.sec.gov/Archives/edgar/data/866787/000101190800500009/hlgfoctst.txt
-DOLLAR GENERAL CORP|29534|2000-11-13|https://www.sec.gov/Archives/edgar/data/29534/000091431700000761/0001.txt
-PINNACLE WEST CAPITAL CORP|764622|2000-10-10|https://www.sec.gov/Archives/edgar/data/764622/000095014700001551/0001.txt
+PARKER HANNIFIN CORP|76334|2000-10-10|https://www.sec.gov/Archives/edgar/data/76334/000102174700000005/0001.txt
 PENN NATIONAL GAMING INC|921738|2000-10-10|https://www.sec.gov/Archives/edgar/data/921738/000092173800000053/0001.txt
-PINNACLE WEST CAPITAL CORP|764622|2000-10-10|https://www.sec.gov/Archives/edgar/data/764622/000095014700001554/0001.txt
-DOLLAR GENERAL CORP|29534|2002-05-28|https://www.sec.gov/Archives/edgar/data/29534/000091431702000613/form4-45377_ct.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|2002-04-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000021/edgar.txt
+PINNACLE WEST CAPITAL CORP|764622|2000-12-08|https://www.sec.gov/Archives/edgar/data/764622/000095014700001697/0001.txt
+AUTOZONE INC|866787|2002-09-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000072/edgar.txt
+AUTOZONE INC|866787|2002-08-06|https://www.sec.gov/Archives/edgar/data/866787/000086678702000038/edgar.txt
+AUTOZONE INC|866787|2002-09-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000078/edgar.txt
+AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000098/edgar.txt
+AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000101/edgar.txt
+COSTCO WHOLESALE CORP /NEW|909832|2002-09-05|https://www.sec.gov/Archives/edgar/data/909832/000118449402000004/form4.txt
+DOLLAR GENERAL CORP|29534|2002-07-10|https://www.sec.gov/Archives/edgar/data/29534/000091431702000696/form4-45972_tct.txt
+NIKE INC|320187|2002-08-23|https://www.sec.gov/Archives/edgar/data/320187/000090385502000007/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102175102000001/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102175202000003/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102175802000001/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000104967502000001/edgar.txt
+PINNACLE WEST CAPITAL CORP|764622|2002-08-09|https://www.sec.gov/Archives/edgar/data/764622/000095014702000957/e-8786.txt
+SYSCO CORP|96021|2002-09-18|https://www.sec.gov/Archives/edgar/data/96021/000009602102000003/edgar.txt
+SYSCO CORP|96021|2002-09-11|https://www.sec.gov/Archives/edgar/data/96021/000104685402000002/edgar.txt
+WILLIAMS COMPANIES INC|107263|2002-09-03|https://www.sec.gov/Archives/edgar/data/107263/000095013402010870/d99607e4.txt
+ALTRIA GROUP INC|764180|2003-04-28|https://www.sec.gov/Archives/edgar/data/764180/000102481803000004/edgar.txt
+ALTRIA GROUP INC|764180|2003-05-02|https://www.sec.gov/Archives/edgar/data/764180/000118054103000007/edgar.txt
+ATMOS ENERGY CORP|731802|2003-04-02|https://www.sec.gov/Archives/edgar/data/731802/000118100603000006/edgar.txt
+ATMOS ENERGY CORP|731802|2003-04-02|https://www.sec.gov/Archives/edgar/data/731802/000118101903000009/edgar.txt
+AUTOZONE INC|866787|2003-04-04|https://www.sec.gov/Archives/edgar/data/866787/000101190803000060/edgar.txt
+CISCO SYSTEMS INC|858877|2003-04-14|https://www.sec.gov/Archives/edgar/data/858877/000119968303000002/carter041403.txt
+CISCO SYSTEMS INC|858877|2003-04-14|https://www.sec.gov/Archives/edgar/data/858877/000119968303000004/mazzola041403.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2003-04-02|https://www.sec.gov/Archives/edgar/data/1001082/000119781503000003/edgar.txt
+ELECTRONIC ARTS INC|712515|2003-05-02|https://www.sec.gov/Archives/edgar/data/712515/000119967303000010/coleman050103.txt
+MOHAWK INDUSTRIES INC|851968|2003-04-04|https://www.sec.gov/Archives/edgar/data/851968/000085196803000025/form4-apr4.txt
+MOHAWK INDUSTRIES INC|851968|2003-04-22|https://www.sec.gov/Archives/edgar/data/851968/000085196803000027/form4-april.txt
+SYSCO CORP|96021|2003-04-01|https://www.sec.gov/Archives/edgar/data/96021/000009602103000034/edgar.txt
+SYSCO CORP|96021|2003-04-01|https://www.sec.gov/Archives/edgar/data/96021/000009602103000036/edgar.txt
+VENTAS INC|740260|2003-04-28|https://www.sec.gov/Archives/edgar/data/740260/000074026003000061/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-06-06|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000047/0001.txt
+AUTOZONE INC|866787|2001-10-29|https://www.sec.gov/Archives/edgar/data/866787/000101190801500021/edgar.txt
+AUTOZONE INC|866787|2001-10-29|https://www.sec.gov/Archives/edgar/data/866787/000101190801500024/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-12-06|https://www.sec.gov/Archives/edgar/data/76334/000114281101500003/edgar.txt
+ALLSTATE CORP|899051|2003-01-02|https://www.sec.gov/Archives/edgar/data/899051/000104746903000075/a2100027z4.txt
+ALTRIA GROUP INC|764180|2003-01-31|https://www.sec.gov/Archives/edgar/data/764180/000102507703000002/edgar.txt
+ALTRIA GROUP INC|764180|2003-01-31|https://www.sec.gov/Archives/edgar/data/764180/000118971703000002/edgar.txt
+ALTRIA GROUP INC|764180|2003-01-31|https://www.sec.gov/Archives/edgar/data/764180/000118972103000002/edgar.txt
+ALTRIA GROUP INC|764180|2003-03-04|https://www.sec.gov/Archives/edgar/data/764180/000118054103000004/edgar.txt
+ALTRIA GROUP INC|764180|2003-02-04|https://www.sec.gov/Archives/edgar/data/764180/000119287203000003/edgar.txt
+ALTRIA GROUP INC|764180|2003-03-04|https://www.sec.gov/Archives/edgar/data/764180/000102490103000004/edgar.txt
+AMR CORP|6201|2003-01-02|https://www.sec.gov/Archives/edgar/data/6201/000119691303000005/edgar.txt
+AMR CORP|6201|2003-01-02|https://www.sec.gov/Archives/edgar/data/6201/000119691303000001/edgar.txt
+AMR CORP|6201|2003-01-02|https://www.sec.gov/Archives/edgar/data/6201/000119691303000006/edgar.txt
+AMR CORP|6201|2003-02-04|https://www.sec.gov/Archives/edgar/data/6201/000119691303000019/edgar.txt
+AMR CORP|6201|2003-02-04|https://www.sec.gov/Archives/edgar/data/6201/000119691303000023/edgar.txt
+AMR CORP|6201|2003-03-03|https://www.sec.gov/Archives/edgar/data/6201/000119691303000028/edgar.txt
+AMR CORP|6201|2003-01-03|https://www.sec.gov/Archives/edgar/data/6201/000119691303000015/edgar.txt
+AMR CORP|6201|2003-03-03|https://www.sec.gov/Archives/edgar/data/6201/000119691303000031/edgar.txt
+ATMOS ENERGY CORP|731802|2003-01-06|https://www.sec.gov/Archives/edgar/data/731802/000118137803000002/edgar.txt
+ATMOS ENERGY CORP|731802|2003-03-14|https://www.sec.gov/Archives/edgar/data/731802/000118100803000004/edgar.txt
+ATMOS ENERGY CORP|731802|2003-03-14|https://www.sec.gov/Archives/edgar/data/731802/000118100903000002/edgar.txt
+ATMOS ENERGY CORP|731802|2003-03-14|https://www.sec.gov/Archives/edgar/data/731802/000118101703000003/edgar.txt
+ATMOS ENERGY CORP|731802|2003-03-14|https://www.sec.gov/Archives/edgar/data/731802/000118101203000002/edgar.txt
+ATMOS ENERGY CORP|731802|2003-03-14|https://www.sec.gov/Archives/edgar/data/731802/000118101903000007/edgar.txt
+AUTOZONE INC|866787|2003-01-02|https://www.sec.gov/Archives/edgar/data/866787/000101190803000019/edgar.txt
+AUTOZONE INC|866787|2003-01-02|https://www.sec.gov/Archives/edgar/data/866787/000101190803000020/edgar.txt
+AUTOZONE INC|866787|2003-01-02|https://www.sec.gov/Archives/edgar/data/866787/000101190803000021/edgar.txt
+COSTCO WHOLESALE CORP /NEW|909832|2003-01-22|https://www.sec.gov/Archives/edgar/data/909832/000118449103000002/form4.txt
+COSTCO WHOLESALE CORP /NEW|909832|2003-03-21|https://www.sec.gov/Archives/edgar/data/909832/000118449103000006/form4.txt
+CVS CORP|64803|2003-01-13|https://www.sec.gov/Archives/edgar/data/64803/000119441603000002/form4ellinger01092003.txt
+CVS CORP|64803|2003-01-13|https://www.sec.gov/Archives/edgar/data/64803/000119441603000003/form4ferdinandi01092003.txt
+CVS CORP|64803|2003-01-13|https://www.sec.gov/Archives/edgar/data/64803/000119441603000009/form4weishar01092003.txt
+CVS CORP|64803|2003-02-12|https://www.sec.gov/Archives/edgar/data/64803/000119442003000001/form4solberg02102003.txt
+CVS CORP|64803|2003-03-06|https://www.sec.gov/Archives/edgar/data/64803/000119440503000007/form4ryan03052003.txt
+CVS CORP|64803|2003-03-06|https://www.sec.gov/Archives/edgar/data/64803/000119440503000010/form4bodine03052003.txt
+CVS CORP|64803|2003-03-06|https://www.sec.gov/Archives/edgar/data/64803/000119440503000011/form4merlo03052003.txt
+CVS CORP|64803|2003-03-06|https://www.sec.gov/Archives/edgar/data/64803/000119440503000013/form4sgarro03052003.txt
+ELECTRONIC ARTS INC|712515|2003-02-05|https://www.sec.gov/Archives/edgar/data/712515/000119967303000004/kusin020303.txt
+ELECTRONIC ARTS INC|712515|2003-01-22|https://www.sec.gov/Archives/edgar/data/712515/000119967303000003/byron012103.txt
+ELECTRONIC ARTS INC|712515|2003-02-14|https://www.sec.gov/Archives/edgar/data/712515/000119967303000006/coleman021303.txt
+KLA TENCOR CORP|319201|2003-02-28|https://www.sec.gov/Archives/edgar/data/319201/000031920103000010/f4campagna.txt
+PINNACLE WEST CAPITAL CORP|764622|2003-02-10|https://www.sec.gov/Archives/edgar/data/764622/000095014703000129/e-9523.txt
+PINNACLE WEST CAPITAL CORP|764622|2003-03-20|https://www.sec.gov/Archives/edgar/data/764622/000095014703000355/e-9747.txt
+PINNACLE WEST CAPITAL CORP|764622|2003-03-20|https://www.sec.gov/Archives/edgar/data/764622/000095014703000356/e-9744.txt
+PINNACLE WEST CAPITAL CORP|764622|2003-03-20|https://www.sec.gov/Archives/edgar/data/764622/000095014703000359/e-9748.txt
+PINNACLE WEST CAPITAL CORP|764622|2003-03-20|https://www.sec.gov/Archives/edgar/data/764622/000095014703000362/e-9751.txt
+VENTAS INC|740260|2003-03-14|https://www.sec.gov/Archives/edgar/data/740260/000074026003000044/edgar.txt
+DOLLAR GENERAL CORP|29534|2002-05-07|https://www.sec.gov/Archives/edgar/data/29534/000091431702000511/form4-44957_bk.txt
 ECHOSTAR COMMUNICATIONS CORP|1001082|2002-06-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000029/edgar.txt
-NASDAQ STOCK MARKET INC|1120193|2002-04-10|https://www.sec.gov/Archives/edgar/data/1120193/000094787102000654/f4_040202.txt
-PARKER HANNIFIN CORP|76334|2002-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102174902000001/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102176502000008/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102176502000007/edgar.txt
 PARKER HANNIFIN CORP|76334|2002-04-10|https://www.sec.gov/Archives/edgar/data/76334/000106591802000001/edgar.txt
 PARKER HANNIFIN CORP|76334|2002-05-09|https://www.sec.gov/Archives/edgar/data/76334/000102176002000001/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-06-06|https://www.sec.gov/Archives/edgar/data/76334/000112827802000002/edgar.txt
-PINNACLE WEST CAPITAL CORP|764622|2002-06-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000757/e-8596.txt
-PINNACLE WEST CAPITAL CORP|764622|2002-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000645/e-8492.txt
-PINNACLE WEST CAPITAL CORP|764622|2002-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000652/e-8499.txt
-AUTOZONE INC|866787|2001-01-04|https://www.sec.gov/Archives/edgar/data/866787/000101190801500004/clark.txt
-AUTOZONE INC|866787|2001-01-04|https://www.sec.gov/Archives/edgar/data/866787/000101190801500003/mckenna.txt
-DOLLAR GENERAL CORP|29534|2001-03-12|https://www.sec.gov/Archives/edgar/data/29534/000091431701000164/0001.txt
-HOST MARRIOTT CORP/|1070750|2001-03-09|https://www.sec.gov/Archives/edgar/data/1070750/000089375001000155/0001.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|2001-01-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108201000005/0001.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|2001-01-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108201000004/0001.txt
-PINNACLE WEST CAPITAL CORP|764622|2001-03-09|https://www.sec.gov/Archives/edgar/data/764622/000095014701500523/e-6464.txt
-AUTOZONE INC|866787|2002-08-06|https://www.sec.gov/Archives/edgar/data/866787/000086678702000038/edgar.txt
-AUTOZONE INC|866787|2002-09-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000077/edgar.txt
-AUTOZONE INC|866787|2002-09-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000074/edgar.txt
-AUTOZONE INC|866787|2002-09-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000075/edgar.txt
-AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000094/edgar.txt
-COSTCO WHOLESALE CORP /NEW|909832|2002-09-05|https://www.sec.gov/Archives/edgar/data/909832/000118449402000004/form4.txt
-DOLLAR GENERAL CORP|29534|2002-07-10|https://www.sec.gov/Archives/edgar/data/29534/000091431702000697/form4-45972_dlb.txt
-INTERNATIONAL FLAVORS & FRAGRANCES INC|51253|2002-08-28|https://www.sec.gov/Archives/edgar/data/51253/000105625302000006/form4.txt
-PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102175802000001/edgar.txt
-PENN NATIONAL GAMING INC|921738|2002-09-10|https://www.sec.gov/Archives/edgar/data/921738/000091205702035060/a2089070z4.txt
-SYSCO CORP|96021|2002-09-18|https://www.sec.gov/Archives/edgar/data/96021/000009602102000008/edgar.txt
-PINNACLE WEST CAPITAL CORP|764622|2000-12-08|https://www.sec.gov/Archives/edgar/data/764622/000095014700001697/0001.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|2000-10-10|https://www.sec.gov/Archives/edgar/data/1001082/000095013000005402/0001.txt
-DOLLAR GENERAL CORP|29534|2002-04-26|https://www.sec.gov/Archives/edgar/data/29534/000091431702000457/form4_robbins.txt
-PARKER HANNIFIN CORP|76334|2002-03-11|https://www.sec.gov/Archives/edgar/data/76334/000102175702000001/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-03-11|https://www.sec.gov/Archives/edgar/data/76334/000102176302000002/edgar.txt
-AUTOZONE INC|866787|2002-09-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000076/edgar.txt
-AUTOZONE INC|866787|2002-09-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000080/edgar.txt
-AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000092/edgar.txt
-AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000093/edgar.txt
-DOLLAR GENERAL CORP|29534|2002-07-10|https://www.sec.gov/Archives/edgar/data/29534/000091431702000701/form4-46008_jt.txt
-PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102176302000004/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000107852902000001/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-03-11|https://www.sec.gov/Archives/edgar/data/76334/000102174702000001/edgar.txt
-AUTOZONE INC|866787|2002-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190802000098/edgar.txt
-PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102176502000009/edgar.txt
-PINNACLE WEST CAPITAL CORP|764622|2002-07-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000848/e-8680.txt
-PINNACLE WEST CAPITAL CORP|764622|2002-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000648/e-8494.txt
-PARKER HANNIFIN CORP|76334|1997-10-21|https://www.sec.gov/Archives/edgar/data/76334/000102176697000007/0001021766-97-000007.txt
-LOCKHEED MARTIN CORP|936468|1997-11-10|https://www.sec.gov/Archives/edgar/data/936468/000095010397000676/0000950103-97-000676.txt
-PARKER HANNIFIN CORP|76334|1997-10-21|https://www.sec.gov/Archives/edgar/data/76334/000102175197000006/0001021751-97-000006.txt
-LOCKHEED MARTIN CORP|936468|1997-11-10|https://www.sec.gov/Archives/edgar/data/936468/000095010397000675/0000950103-97-000675.txt
-PARKER HANNIFIN CORP|76334|1997-10-10|https://www.sec.gov/Archives/edgar/data/76334/000102175197000005/0001021751-97-000005.txt
-PARKER HANNIFIN CORP|76334|1997-10-10|https://www.sec.gov/Archives/edgar/data/76334/000102176797000008/0001021767-97-000008.txt
-LOCKHEED MARTIN CORP|936468|1997-11-10|https://www.sec.gov/Archives/edgar/data/936468/000095010397000677/0000950103-97-000677.txt
-PARKER HANNIFIN CORP|76334|1997-10-10|https://www.sec.gov/Archives/edgar/data/76334/000102176597000005/0001021765-97-000005.txt
-PARKER HANNIFIN CORP|76334|1997-10-10|https://www.sec.gov/Archives/edgar/data/76334/000102176697000006/0001021766-97-000006.txt
-PARKER HANNIFIN CORP|76334|1997-10-21|https://www.sec.gov/Archives/edgar/data/76334/000102176797000009/0001021767-97-000009.txt
-PINNACLE WEST CAPITAL CORP|764622|1997-12-03|https://www.sec.gov/Archives/edgar/data/764622/000076462297000028/0000764622-97-000028.txt
-PARKER HANNIFIN CORP|76334|1997-12-10|https://www.sec.gov/Archives/edgar/data/76334/000104967997000002/0001049679-97-000002.txt
-PINNACLE WEST CAPITAL CORP|764622|1997-12-03|https://www.sec.gov/Archives/edgar/data/764622/000076462297000033/0000764622-97-000033.txt
-PINNACLE WEST CAPITAL CORP|764622|1997-12-03|https://www.sec.gov/Archives/edgar/data/764622/000076462297000029/0000764622-97-000029.txt
-PINNACLE WEST CAPITAL CORP|764622|1997-12-03|https://www.sec.gov/Archives/edgar/data/764622/000076462297000031/0000764622-97-000031.txt
-PARKER HANNIFIN CORP|76334|1997-11-07|https://www.sec.gov/Archives/edgar/data/76334/000102176697000009/0001021766-97-000009.txt
-PINNACLE WEST CAPITAL CORP|764622|1997-12-03|https://www.sec.gov/Archives/edgar/data/764622/000076462297000032/0000764622-97-000032.txt
-PINNACLE WEST CAPITAL CORP|764622|1997-12-03|https://www.sec.gov/Archives/edgar/data/764622/000076462297000030/0000764622-97-000030.txt
-DOLLAR GENERAL CORP|29534|1999-04-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000033/0000029534-99-000033.txt
-DOLLAR GENERAL CORP|29534|1999-04-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000030/0000029534-99-000030.txt
-DOLLAR GENERAL CORP|29534|1999-05-10|https://www.sec.gov/Archives/edgar/data/29534/000106147399000001/0001061473-99-000001.txt
-DOLLAR GENERAL CORP|29534|1999-04-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000037/0000029534-99-000037.txt
-DOLLAR GENERAL CORP|29534|1999-05-10|https://www.sec.gov/Archives/edgar/data/29534/000106239299000001/0001062392-99-000001.txt
-DOLLAR GENERAL CORP|29534|1999-04-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000035/0000029534-99-000035.txt
-DOLLAR GENERAL CORP|29534|1999-05-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000039/0000029534-99-000039.txt
-DOLLAR GENERAL CORP|29534|1999-05-10|https://www.sec.gov/Archives/edgar/data/29534/000106146699000001/0001061466-99-000001.txt
-DOLLAR GENERAL CORP|29534|1999-04-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000036/0000029534-99-000036.txt
-DOLLAR GENERAL CORP|29534|1999-04-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000034/0000029534-99-000034.txt
-PARKER HANNIFIN CORP|76334|1999-04-06|https://www.sec.gov/Archives/edgar/data/76334/000102176399000001/0001021763-99-000001.txt
-PARKER HANNIFIN CORP|76334|1999-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102174699000003/0001021746-99-000003.txt
-DOLLAR GENERAL CORP|29534|1999-06-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000043/0000029534-99-000043.txt
-PARKER HANNIFIN CORP|76334|1999-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102174699000002/0001021746-99-000002.txt
-DOLLAR GENERAL CORP|29534|1999-06-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000045/0000029534-99-000045.txt
-PARKER HANNIFIN CORP|76334|1999-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102174699000004/0001021746-99-000004.txt
-DOLLAR GENERAL CORP|29534|1999-06-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000047/0000029534-99-000047.txt
-PARKER HANNIFIN CORP|76334|1999-04-09|https://www.sec.gov/Archives/edgar/data/76334/000102175099000001/0001021750-99-000001.txt
-PARKER HANNIFIN CORP|76334|1999-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102176399000002/0001021763-99-000002.txt
-PARKER HANNIFIN CORP|76334|1999-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102174699000005/0001021746-99-000005.txt
-DOLLAR GENERAL CORP|29534|1999-06-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000048/0000029534-99-000048.txt
-PARKER HANNIFIN CORP|76334|1999-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102174999000001/0001021749-99-000001.txt
-PARKER HANNIFIN CORP|76334|1999-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102175099000002/0001021750-99-000002.txt
-PARKER HANNIFIN CORP|76334|1999-05-10|https://www.sec.gov/Archives/edgar/data/76334/000104967799000002/0001049677-99-000002.txt
-PARKER HANNIFIN CORP|76334|1999-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102176899000001/0001021768-99-000001.txt
-PARKER HANNIFIN CORP|76334|1999-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102175699000003/0001021756-99-000003.txt
-PARKER HANNIFIN CORP|76334|1999-05-11|https://www.sec.gov/Archives/edgar/data/76334/000107853099000010/0001078530-99-000010.txt
-PARKER HANNIFIN CORP|76334|1999-06-16|https://www.sec.gov/Archives/edgar/data/76334/000102175799000001/0001021757-99-000001.txt
-PARKER HANNIFIN CORP|76334|1999-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102175299000001/0001021752-99-000001.txt
-PARKER HANNIFIN CORP|76334|1999-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102176399000003/0001021763-99-000003.txt
-PARKER HANNIFIN CORP|76334|1999-06-16|https://www.sec.gov/Archives/edgar/data/76334/000104967999000002/0001049679-99-000002.txt
-PARKER HANNIFIN CORP|76334|1999-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102174799000001/0001021747-99-000001.txt
-PINNACLE WEST CAPITAL CORP|764622|1999-06-09|https://www.sec.gov/Archives/edgar/data/764622/000095014799000605/0000950147-99-000605.txt
-PARKER HANNIFIN CORP|76334|1999-06-16|https://www.sec.gov/Archives/edgar/data/76334/000106591899000003/0001065918-99-000003.txt
-PARKER HANNIFIN CORP|76334|1999-06-10|https://www.sec.gov/Archives/edgar/data/76334/000104967799000003/0001049677-99-000003.txt
-PARKER HANNIFIN CORP|76334|1999-06-16|https://www.sec.gov/Archives/edgar/data/76334/000102175199000001/0001021751-99-000001.txt
-AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000029/0001011908-97-000029.txt
-AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000023/0001011908-97-000023.txt
-AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000019/0001011908-97-000019.txt
-AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000018/0001011908-97-000018.txt
-AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000024/0001011908-97-000024.txt
-AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000027/0001011908-97-000027.txt
-AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000021/0001011908-97-000021.txt
-AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000025/0001011908-97-000025.txt
-AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000026/0001011908-97-000026.txt
-AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000020/0001011908-97-000020.txt
-PARKER HANNIFIN CORP|76334|1997-01-10|https://www.sec.gov/Archives/edgar/data/76334/000102176697000001/0001021766-97-000001.txt
-PARKER HANNIFIN CORP|76334|1997-01-10|https://www.sec.gov/Archives/edgar/data/76334/000102175697000001/0001021756-97-000001.txt
-PARKER HANNIFIN CORP|76334|1997-01-10|https://www.sec.gov/Archives/edgar/data/76334/000102176697000002/0001021766-97-000002.txt
-PARKER HANNIFIN CORP|76334|1997-01-10|https://www.sec.gov/Archives/edgar/data/76334/000102175697000002/0001021756-97-000002.txt
-PARKER HANNIFIN CORP|76334|1997-02-11|https://www.sec.gov/Archives/edgar/data/76334/000102175797000011/0001021757-97-000011.txt
-PARKER HANNIFIN CORP|76334|1997-02-10|https://www.sec.gov/Archives/edgar/data/76334/000102176397000002/0001021763-97-000002.txt
-PARKER HANNIFIN CORP|76334|1997-02-11|https://www.sec.gov/Archives/edgar/data/76334/000102175797000012/0001021757-97-000012.txt
-PARKER HANNIFIN CORP|76334|1997-01-10|https://www.sec.gov/Archives/edgar/data/76334/000102175697000003/0001021756-97-000003.txt
-PARKER HANNIFIN CORP|76334|1997-02-27|https://www.sec.gov/Archives/edgar/data/76334/000102174697000001/0001021746-97-000001.txt
-PARKER HANNIFIN CORP|76334|1997-03-04|https://www.sec.gov/Archives/edgar/data/76334/000102175397000007/0001021753-97-000007.txt
-PARKER HANNIFIN CORP|76334|1997-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102175897000001/0001021758-97-000001.txt
-PARKER HANNIFIN CORP|76334|1997-03-10|https://www.sec.gov/Archives/edgar/data/76334/000102176797000002/0001021767-97-000002.txt
-PARKER HANNIFIN CORP|76334|1997-02-27|https://www.sec.gov/Archives/edgar/data/76334/000102176697000003/0001021766-97-000003.txt
-PINNACLE WEST CAPITAL CORP|764622|1997-03-04|https://www.sec.gov/Archives/edgar/data/764622/000076462297000021/0000764622-97-000021.txt
-PARKER HANNIFIN CORP|76334|1997-03-10|https://www.sec.gov/Archives/edgar/data/76334/000102175097000002/0001021750-97-000002.txt
-PARKER HANNIFIN CORP|76334|1997-08-12|https://www.sec.gov/Archives/edgar/data/76334/000102176997000001/0001021769-97-000001.txt
-PARKER HANNIFIN CORP|76334|1997-07-10|https://www.sec.gov/Archives/edgar/data/76334/000102175397000010/0001021753-97-000010.txt
-PARKER HANNIFIN CORP|76334|1997-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102174597000001/0001021745-97-000001.txt
-NIKE INC|320187|1996-06-11|https://www.sec.gov/Archives/edgar/data/320187/000090385596000004/0000903855-96-000004.txt
-PARKER HANNIFIN CORP|76334|1997-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102175597000002/0001021755-97-000002.txt
-PINNACLE WEST CAPITAL CORP|764622|1997-03-06|https://www.sec.gov/Archives/edgar/data/764622/000076462297000023/0000764622-97-000023.txt
-PARKER HANNIFIN CORP|76334|1997-07-10|https://www.sec.gov/Archives/edgar/data/76334/000102175397000009/0001021753-97-000009.txt
-PARKER HANNIFIN CORP|76334|1997-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102174897000001/0001021748-97-000001.txt
-PARKER HANNIFIN CORP|76334|1997-07-10|https://www.sec.gov/Archives/edgar/data/76334/000102176897000002/0001021768-97-000002.txt
-PARKER HANNIFIN CORP|76334|1997-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102175497000001/0001021754-97-000001.txt
-PARKER HANNIFIN CORP|76334|1997-09-10|https://www.sec.gov/Archives/edgar/data/76334/000102175197000003/0001021751-97-000003.txt
-PARKER HANNIFIN CORP|76334|1997-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102176097000001/0001021760-97-000001.txt
-PARKER HANNIFIN CORP|76334|1997-07-10|https://www.sec.gov/Archives/edgar/data/76334/000102175397000012/0001021753-97-000012.txt
-PARKER HANNIFIN CORP|76334|1997-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102175997000001/0001021759-97-000001.txt
-PARKER HANNIFIN CORP|76334|1997-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102176297000001/0001021762-97-000001.txt
-PARKER HANNIFIN CORP|76334|1997-09-10|https://www.sec.gov/Archives/edgar/data/76334/000102175297000003/0001021752-97-000003.txt
-PARKER HANNIFIN CORP|76334|1997-09-10|https://www.sec.gov/Archives/edgar/data/76334/000102175997000003/0001021759-97-000003.txt
-PINNACLE WEST CAPITAL CORP|764622|1997-08-04|https://www.sec.gov/Archives/edgar/data/764622/000076462297000027/0000764622-97-000027.txt
-PARKER HANNIFIN CORP|76334|1997-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102176497000001/0001021764-97-000001.txt
-PARKER HANNIFIN CORP|76334|1997-09-10|https://www.sec.gov/Archives/edgar/data/76334/000102176997000003/0001021769-97-000003.txt
-SYSCO CORP|96021|1997-09-10|https://www.sec.gov/Archives/edgar/data/96021/000091406297000260/0000914062-97-000260.txt
-MINNESOTA MINING & MANUFACTURING CO|66740|1996-07-09|https://www.sec.gov/Archives/edgar/data/66740/000089534596000129/0000895345-96-000129.txt
-NIKE INC|320187|1996-09-10|https://www.sec.gov/Archives/edgar/data/320187/000090385596000007/0000903855-96-000007.txt
-PINNACLE WEST CAPITAL CORP|764622|1997-07-01|https://www.sec.gov/Archives/edgar/data/764622/000076462297000026/0000764622-97-000026.txt
-PARKER HANNIFIN CORP|76334|1996-09-10|https://www.sec.gov/Archives/edgar/data/76334/000102176496000003/0001021764-96-000003.txt
-NIKE INC|320187|1996-07-02|https://www.sec.gov/Archives/edgar/data/320187/000090385596000006/0000903855-96-000006.txt
-NIKE INC|320187|1996-07-02|https://www.sec.gov/Archives/edgar/data/320187/000090385596000005/0000903855-96-000005.txt
-AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000023/0001011908-99-000023.txt
-AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000020/0001011908-99-000020.txt
-AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000024/0001011908-99-000024.txt
-PINNACLE WEST CAPITAL CORP|764622|1997-03-04|https://www.sec.gov/Archives/edgar/data/764622/000076462297000022/0000764622-97-000022.txt
-AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000022/0001011908-99-000022.txt
-AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000026/0001011908-99-000026.txt
-AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000021/0001011908-99-000021.txt
-AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000028/0001011908-99-000028.txt
-AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000025/0001011908-99-000025.txt
-AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000033/0001011908-99-000033.txt
-AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000030/0001011908-99-000030.txt
-AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000029/0001011908-99-000029.txt
-AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000031/0001011908-99-000031.txt
-AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000049/0001011908-99-000049.txt
-AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000032/0001011908-99-000032.txt
-AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000034/0001011908-99-000034.txt
-AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000048/0001011908-99-000048.txt
-AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000036/0001011908-99-000036.txt
-AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000051/0001011908-99-000051.txt
-AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000050/0001011908-99-000050.txt
-AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000035/0001011908-99-000035.txt
-AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000053/0001011908-99-000053.txt
-AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000056/0001011908-99-000056.txt
-AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000054/0001011908-99-000054.txt
-AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000055/0001011908-99-000055.txt
-AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000058/0001011908-99-000058.txt
-AUTOZONE INC|866787|1999-11-10|https://www.sec.gov/Archives/edgar/data/866787/000101190899000060/0001011908-99-000060.txt
-AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000057/0001011908-99-000057.txt
-DOLLAR GENERAL CORP|29534|1999-10-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000063/0000029534-99-000063.txt
-AUTOZONE INC|866787|1999-12-08|https://www.sec.gov/Archives/edgar/data/866787/000101190899000063/0001011908-99-000063.txt
-DOLLAR GENERAL CORP|29534|1999-10-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000065/0000029534-99-000065.txt
-DOLLAR GENERAL CORP|29534|1999-10-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000064/0000029534-99-000064.txt
-AUTOZONE INC|866787|1999-12-08|https://www.sec.gov/Archives/edgar/data/866787/000101190899000065/0001011908-99-000065.txt
-DOLLAR GENERAL CORP|29534|1999-10-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000068/0000029534-99-000068.txt
-DOLLAR GENERAL CORP|29534|1999-10-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000072/0000029534-99-000072.txt
-DOLLAR GENERAL CORP|29534|1999-11-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000073/0000029534-99-000073.txt
-DOLLAR GENERAL CORP|29534|1999-10-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000070/0000029534-99-000070.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|1999-10-12|https://www.sec.gov/Archives/edgar/data/1001082/000100108299000020/0001001082-99-000020.txt
-DOLLAR GENERAL CORP|29534|1999-11-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000075/0000029534-99-000075.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|1999-10-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108299000018/0001001082-99-000018.txt
-DOLLAR GENERAL CORP|29534|1999-11-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000074/0000029534-99-000074.txt
-PARKER HANNIFIN CORP|76334|1999-10-12|https://www.sec.gov/Archives/edgar/data/76334/000102176399000010/0001021763-99-000010.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|1999-12-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108299000027/0001001082-99-000027.txt
-DOLLAR GENERAL CORP|29534|1999-10-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000067/0000029534-99-000067.txt
-PARKER HANNIFIN CORP|76334|1999-10-12|https://www.sec.gov/Archives/edgar/data/76334/000102174799000006/0001021747-99-000006.txt
-US BANCORP \DE\|36104|1999-11-05|https://www.sec.gov/Archives/edgar/data/36104/000095017299001517/0000950172-99-001517.txt
-PINNACLE WEST CAPITAL CORP|764622|1999-12-10|https://www.sec.gov/Archives/edgar/data/764622/000095014799001425/0000950147-99-001425.txt
-US BANCORP \DE\|36104|1999-12-06|https://www.sec.gov/Archives/edgar/data/36104/000095017299001724/0000950172-99-001724.txt
-HARRIS CORP /DE/|202058|1999-10-05|https://www.sec.gov/Archives/edgar/data/202058/000095015299008124/0000950152-99-008124.txt
-DOLLAR GENERAL CORP|29534|1998-07-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000011/0000029534-98-000011.txt
-DOLLAR GENERAL CORP|29534|1998-08-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000022/0000029534-98-000022.txt
-DOLLAR GENERAL CORP|29534|1998-08-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000021/0000029534-98-000021.txt
-DOLLAR GENERAL CORP|29534|1998-07-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000013/0000029534-98-000013.txt
-HARTFORD FINANCIAL SERVICES GROUP INC/DE|874766|1999-11-10|https://www.sec.gov/Archives/edgar/data/874766/000102902599000006/0001029025-99-000006.txt
-DOLLAR GENERAL CORP|29534|1998-07-10|https://www.sec.gov/Archives/edgar/data/29534/000106239698000001/0001062396-98-000001.txt
-DOLLAR GENERAL CORP|29534|1998-08-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000023/0000029534-98-000023.txt
-DOLLAR GENERAL CORP|29534|1998-08-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000024/0000029534-98-000024.txt
-DOLLAR GENERAL CORP|29534|1998-08-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000019/0000029534-98-000019.txt
-DOLLAR GENERAL CORP|29534|1998-08-11|https://www.sec.gov/Archives/edgar/data/29534/000002953498000026/0000029534-98-000026.txt
-PARKER HANNIFIN CORP|76334|1998-08-03|https://www.sec.gov/Archives/edgar/data/76334/000102175998000007/0001021759-98-000007.txt
-DOLLAR GENERAL CORP|29534|1998-08-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000025/0000029534-98-000025.txt
-PARKER HANNIFIN CORP|76334|1998-08-13|https://www.sec.gov/Archives/edgar/data/76334/000102174798000001/0001021747-98-000001.txt
-PARKER HANNIFIN CORP|76334|1998-08-13|https://www.sec.gov/Archives/edgar/data/76334/000102174998000001/0001021749-98-000001.txt
-PARKER HANNIFIN CORP|76334|1998-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102174898000001/0001021748-98-000001.txt
-PARKER HANNIFIN CORP|76334|1998-08-13|https://www.sec.gov/Archives/edgar/data/76334/000102176898000001/0001021768-98-000001.txt
-PARKER HANNIFIN CORP|76334|1998-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102175598000001/0001021755-98-000001.txt
-PARKER HANNIFIN CORP|76334|1998-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102176298000001/0001021762-98-000001.txt
-PARKER HANNIFIN CORP|76334|1998-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102174598000003/0001021745-98-000003.txt
-PARKER HANNIFIN CORP|76334|1998-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102175198000001/0001021751-98-000001.txt
-PARKER HANNIFIN CORP|76334|1998-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102176498000001/0001021764-98-000001.txt
-PARKER HANNIFIN CORP|76334|1998-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102176098000001/0001021760-98-000001.txt
-PARKER HANNIFIN CORP|76334|1998-09-04|https://www.sec.gov/Archives/edgar/data/76334/000102174598000004/0001021745-98-000004.txt
-PARKER HANNIFIN CORP|76334|1998-08-17|https://www.sec.gov/Archives/edgar/data/76334/000104967198000003/0001049671-98-000003.txt
-PARKER HANNIFIN CORP|76334|1998-08-14|https://www.sec.gov/Archives/edgar/data/76334/000104967398000001/0001049673-98-000001.txt
-PARKER HANNIFIN CORP|76334|1998-09-04|https://www.sec.gov/Archives/edgar/data/76334/000102174898000002/0001021748-98-000002.txt
-PARKER HANNIFIN CORP|76334|1998-09-04|https://www.sec.gov/Archives/edgar/data/76334/000102175598000002/0001021755-98-000002.txt
-PARKER HANNIFIN CORP|76334|1998-08-14|https://www.sec.gov/Archives/edgar/data/76334/000104967598000001/0001049675-98-000001.txt
-PARKER HANNIFIN CORP|76334|1998-09-04|https://www.sec.gov/Archives/edgar/data/76334/000102175898000011/0001021758-98-000011.txt
-PARKER HANNIFIN CORP|76334|1998-09-04|https://www.sec.gov/Archives/edgar/data/76334/000102176098000002/0001021760-98-000002.txt
-PARKER HANNIFIN CORP|76334|1998-09-04|https://www.sec.gov/Archives/edgar/data/76334/000104967398000002/0001049673-98-000002.txt
-PARKER HANNIFIN CORP|76334|1998-09-04|https://www.sec.gov/Archives/edgar/data/76334/000102175898000010/0001021758-98-000010.txt
-PHILLIPS VAN HEUSEN CORP /DE/|78239|1998-07-01|https://www.sec.gov/Archives/edgar/data/78239/000100547798002142/0001005477-98-002142.txt
-PARKER HANNIFIN CORP|76334|1998-09-04|https://www.sec.gov/Archives/edgar/data/76334/000104967598000003/0001049675-98-000003.txt
-PHILLIPS VAN HEUSEN CORP /DE/|78239|1998-07-01|https://www.sec.gov/Archives/edgar/data/78239/000100547798002141/0001005477-98-002141.txt
-PHILLIPS VAN HEUSEN CORP /DE/|78239|1998-07-17|https://www.sec.gov/Archives/edgar/data/78239/000100547798002225/0001005477-98-002225.txt
-PARKER HANNIFIN CORP|76334|1998-09-04|https://www.sec.gov/Archives/edgar/data/76334/000102176298000002/0001021762-98-000002.txt
-PENN NATIONAL GAMING INC|921738|1998-08-31|https://www.sec.gov/Archives/edgar/data/921738/000092173898000010/0000921738-98-000010.txt
-PHILLIPS VAN HEUSEN CORP /DE/|78239|1998-07-17|https://www.sec.gov/Archives/edgar/data/78239/000100547798002226/0001005477-98-002226.txt
-PARKER HANNIFIN CORP|76334|1998-08-18|https://www.sec.gov/Archives/edgar/data/76334/000102175898000009/0001021758-98-000009.txt
-US BANCORP \DE\|36104|1998-07-09|https://www.sec.gov/Archives/edgar/data/36104/000095017298000662/0000950172-98-000662.txt
-PARKER HANNIFIN CORP|76334|1997-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102175397000008/0001021753-97-000008.txt
-PARKER HANNIFIN CORP|76334|1997-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102174997000003/0001021749-97-000003.txt
-PARKER HANNIFIN CORP|76334|1997-05-09|https://www.sec.gov/Archives/edgar/data/76334/000102175697000005/0001021756-97-000005.txt
-PARKER HANNIFIN CORP|76334|1997-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102175297000001/0001021752-97-000001.txt
-PARKER HANNIFIN CORP|76334|1997-05-09|https://www.sec.gov/Archives/edgar/data/76334/000102175697000006/0001021756-97-000006.txt
-PARKER HANNIFIN CORP|76334|1997-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102176797000004/0001021767-97-000004.txt
-PARKER HANNIFIN CORP|76334|1997-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102175197000001/0001021751-97-000001.txt
-PARKER HANNIFIN CORP|76334|1997-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102174797000002/0001021747-97-000002.txt
-PARKER HANNIFIN CORP|76334|1997-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102176597000003/0001021765-97-000003.txt
-PINNACLE WEST CAPITAL CORP|764622|1997-04-01|https://www.sec.gov/Archives/edgar/data/764622/000076462297000024/0000764622-97-000024.txt
-PARKER HANNIFIN CORP|76334|1997-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102175697000007/0001021756-97-000007.txt
-PARKER HANNIFIN CORP|76334|1997-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102175097000005/0001021750-97-000005.txt
-PARKER HANNIFIN CORP|76334|1997-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102176797000006/0001021767-97-000006.txt
-PARKER HANNIFIN CORP|76334|1997-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102176697000004/0001021766-97-000004.txt
-PARKER HANNIFIN CORP|76334|1997-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102175597000001/0001021755-97-000001.txt
-PINNACLE WEST CAPITAL CORP|764622|1997-05-02|https://www.sec.gov/Archives/edgar/data/764622/000076462297000025/0000764622-97-000025.txt
-PARKER HANNIFIN CORP|76334|1999-01-07|https://www.sec.gov/Archives/edgar/data/76334/000104967999000001/0001049679-99-000001.txt
-DOLLAR GENERAL CORP|29534|1999-01-11|https://www.sec.gov/Archives/edgar/data/29534/000002953499000001/0000029534-99-000001.txt
-PARKER HANNIFIN CORP|76334|1999-01-07|https://www.sec.gov/Archives/edgar/data/76334/000102174699000001/0001021746-99-000001.txt
-HARTFORD FINANCIAL SERVICES GROUP INC/DE|874766|1999-02-10|https://www.sec.gov/Archives/edgar/data/874766/000095010999000404/0000950109-99-000404.txt
-DOLLAR GENERAL CORP|29534|1999-03-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000002/0000029534-99-000002.txt
-PARKER HANNIFIN CORP|76334|1999-01-07|https://www.sec.gov/Archives/edgar/data/76334/000104967799000001/0001049677-99-000001.txt
-AUTOZONE INC|866787|1999-08-10|https://www.sec.gov/Archives/edgar/data/866787/000101190899000012/0001011908-99-000012.txt
-DOLLAR GENERAL CORP|29534|1999-03-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000004/0000029534-99-000004.txt
-AUTOZONE INC|866787|1999-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190899000013/0001011908-99-000013.txt
-AUTOZONE INC|866787|1999-08-10|https://www.sec.gov/Archives/edgar/data/866787/000101190899000011/0001011908-99-000011.txt
-DOLLAR GENERAL CORP|29534|1999-07-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000051/0000029534-99-000051.txt
-AUTOZONE INC|866787|1999-07-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000003/0001011908-99-000003.txt
-AUTOZONE INC|866787|1999-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190899000015/0001011908-99-000015.txt
-DOLLAR GENERAL CORP|29534|1999-07-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000050/0000029534-99-000050.txt
-AUTOZONE INC|866787|1999-07-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000002/0001011908-99-000002.txt
-DOLLAR GENERAL CORP|29534|1999-07-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000053/0000029534-99-000053.txt
-DOLLAR GENERAL CORP|29534|1999-07-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000052/0000029534-99-000052.txt
-DOLLAR GENERAL CORP|29534|1999-09-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000055/0000029534-99-000055.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|1999-09-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108299000010/0001001082-99-000010.txt
-DOLLAR GENERAL CORP|29534|1999-09-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000059/0000029534-99-000059.txt
-DOLLAR GENERAL CORP|29534|1999-09-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000058/0000029534-99-000058.txt
-DOLLAR GENERAL CORP|29534|1999-09-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000061/0000029534-99-000061.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|1999-09-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108299000014/0001001082-99-000014.txt
-ECHOSTAR COMMUNICATIONS CORP|1001082|1999-09-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108299000012/0001001082-99-000012.txt
-PARKER HANNIFIN CORP|76334|1999-07-09|https://www.sec.gov/Archives/edgar/data/76334/000102176399000004/0001021763-99-000004.txt
-PARKER HANNIFIN CORP|76334|1999-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102175599000001/0001021755-99-000001.txt
-PARKER HANNIFIN CORP|76334|1999-07-28|https://www.sec.gov/Archives/edgar/data/76334/000102176799000001/0001021767-99-000001.txt
-PARKER HANNIFIN CORP|76334|1999-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102174599000001/0001021745-99-000001.txt
-PARKER HANNIFIN CORP|76334|1999-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102175899000001/0001021758-99-000001.txt
-DOLLAR GENERAL CORP|29534|1999-08-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000054/0000029534-99-000054.txt
-PARKER HANNIFIN CORP|76334|1999-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102176099000001/0001021760-99-000001.txt
-PARKER HANNIFIN CORP|76334|1999-09-03|https://www.sec.gov/Archives/edgar/data/76334/000107852899000001/0001078528-99-000001.txt
-PARKER HANNIFIN CORP|76334|1999-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102174899000002/0001021748-99-000002.txt
-SEMPRA ENERGY|1032208|2004-01-12|https://www.sec.gov/Archives/edgar/data/1032208/000122837904000017/0001228379-04-000017.txt
+PINNACLE WEST CAPITAL CORP|764622|2002-04-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000524/e-8402.txt
+PARKER HANNIFIN CORP|76334|2002-05-09|https://www.sec.gov/Archives/edgar/data/76334/000116170702000002/edgar.txt
+PINNACLE WEST CAPITAL CORP|764622|2002-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000650/e-8495.txt
+PINNACLE WEST CAPITAL CORP|764622|2002-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014702000649/e-8497.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2002-02-11|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000009/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2002-03-05|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000017/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2002-03-05|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000015/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2002-02-11|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000010/edgar.txt
+PARKER HANNIFIN CORP|76334|2002-03-11|https://www.sec.gov/Archives/edgar/data/76334/000102175702000001/edgar.txt
+CARNIVAL CORP|815097|2001-06-11|https://www.sec.gov/Archives/edgar/data/815097/000095014201500122/form4maholdingstrust.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000104967701000002/0001.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000107318501000001/0001.txt
+AUTOZONE INC|866787|2000-07-07|https://www.sec.gov/Archives/edgar/data/866787/000101190800000009/0001.txt
+AUTOZONE INC|866787|2002-10-01|https://www.sec.gov/Archives/edgar/data/866787/000101190802000105/edgar.txt
+AMR CORP|6201|2002-12-02|https://www.sec.gov/Archives/edgar/data/6201/000119691302000013/edgar.txt
+AUTOZONE INC|866787|2002-12-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000136/edgar.txt
+INTERNATIONAL FLAVORS & FRAGRANCES INC|51253|2002-10-03|https://www.sec.gov/Archives/edgar/data/51253/000105625302000008/oct02form4.txt
+KLA TENCOR CORP|319201|2002-11-12|https://www.sec.gov/Archives/edgar/data/319201/000031920102000045/f4campagna.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-09-06|https://www.sec.gov/Archives/edgar/data/1001082/000100108201500037/edgar.txt
+PARKER HANNIFIN CORP|76334|2001-08-10|https://www.sec.gov/Archives/edgar/data/76334/000102175501500003/edgar.txt
+DOLLAR GENERAL CORP|29534|2000-10-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000062/0001.txt
+PARKER HANNIFIN CORP|76334|2002-08-09|https://www.sec.gov/Archives/edgar/data/76334/000107852802000001/edgar.txt
+PENN NATIONAL GAMING INC|921738|2002-09-10|https://www.sec.gov/Archives/edgar/data/921738/000091205702035063/a2089072z4.txt
+ALTRIA GROUP INC|764180|2003-05-02|https://www.sec.gov/Archives/edgar/data/764180/000076418003000007/edgar.txt
+PINNACLE WEST CAPITAL CORP|764622|2000-06-09|https://www.sec.gov/Archives/edgar/data/764622/000095014700000903/0001.txt
+AMR CORP|6201|2003-02-04|https://www.sec.gov/Archives/edgar/data/6201/000119691303000018/edgar.txt
+AUTOZONE INC|866787|2003-01-02|https://www.sec.gov/Archives/edgar/data/866787/000101190803000017/edgar.txt
+AUTOZONE INC|866787|2003-01-02|https://www.sec.gov/Archives/edgar/data/866787/000101190803000026/edgar.txt
+AUTOZONE INC|866787|2003-03-03|https://www.sec.gov/Archives/edgar/data/866787/000101190803000053/edgar.txt
+KLA TENCOR CORP|319201|2003-02-07|https://www.sec.gov/Archives/edgar/data/319201/000031920103000004/f4kaufman.txt
+SYNOPSYS INC|883241|2003-02-27|https://www.sec.gov/Archives/edgar/data/883241/000090342303000210/synopsisform4_2-27.txt
+VENTAS INC|740260|2003-03-14|https://www.sec.gov/Archives/edgar/data/740260/000074026003000045/edgar.txt
+DTE ENERGY CO|936340|2002-04-10|https://www.sec.gov/Archives/edgar/data/936340/000095012402001298/k68813ae4.txt
+PARKER HANNIFIN CORP|76334|2001-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102175101000001/0001.txt
+AUTOZONE INC|866787|2002-09-04|https://www.sec.gov/Archives/edgar/data/866787/000101190802000079/edgar.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2003-04-03|https://www.sec.gov/Archives/edgar/data/1001082/000109053203000001/edgar.txt
+VENTAS INC|740260|2003-04-21|https://www.sec.gov/Archives/edgar/data/740260/000074026003000054/edgar.txt
+VENTAS INC|740260|2003-05-02|https://www.sec.gov/Archives/edgar/data/740260/000074026003000069/edgar.txt
+AUTOZONE INC|866787|2003-02-24|https://www.sec.gov/Archives/edgar/data/866787/000086678703000009/edgar.txt
+CVS CORP|64803|2003-03-06|https://www.sec.gov/Archives/edgar/data/64803/000119440503000006/form4solberg03052003.txt
+PARKER HANNIFIN CORP|76334|2002-06-06|https://www.sec.gov/Archives/edgar/data/76334/000112827802000002/edgar.txt
+DOLLAR GENERAL CORP|29534|2002-05-28|https://www.sec.gov/Archives/edgar/data/29534/000091431702000613/form4-45377_ct.txt
+ELECTRONIC ARTS INC|712515|2002-11-01|https://www.sec.gov/Archives/edgar/data/712515/000119967302000009/kennedy103102.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2001-04-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108201000016/0001.txt
+MOHAWK INDUSTRIES INC|851968|2003-01-03|https://www.sec.gov/Archives/edgar/data/851968/000085196803000001/form4-jan.txt
+PINNACLE WEST CAPITAL CORP|764622|2003-03-20|https://www.sec.gov/Archives/edgar/data/764622/000095014703000363/e-9755.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2002-03-05|https://www.sec.gov/Archives/edgar/data/1001082/000100108202000016/edgar.txt
+PINNACLE WEST CAPITAL CORP|764622|2003-03-20|https://www.sec.gov/Archives/edgar/data/764622/000095014703000357/e-9753.txt
+KLA TENCOR CORP|319201|2002-11-12|https://www.sec.gov/Archives/edgar/data/319201/000031920102000047/f4dickerson.txt
+PARKER HANNIFIN CORP|76334|1998-01-09|https://www.sec.gov/Archives/edgar/data/76334/000104967998000001/0001049679-98-000001.txt
+US BANCORP \DE\|36104|1998-03-10|https://www.sec.gov/Archives/edgar/data/36104/000095017298000241/0000950172-98-000241.txt
+PARKER HANNIFIN CORP|76334|1998-01-09|https://www.sec.gov/Archives/edgar/data/76334/000102175098000001/0001021750-98-000001.txt
+PARKER HANNIFIN CORP|76334|1998-03-10|https://www.sec.gov/Archives/edgar/data/76334/000102174598000002/0001021745-98-000002.txt
+PARKER HANNIFIN CORP|76334|1998-01-09|https://www.sec.gov/Archives/edgar/data/76334/000102175398000001/0001021753-98-000001.txt
+PARKER HANNIFIN CORP|76334|1998-02-10|https://www.sec.gov/Archives/edgar/data/76334/000104967998000003/0001049679-98-000003.txt
+PINNACLE WEST CAPITAL CORP|764622|1998-01-06|https://www.sec.gov/Archives/edgar/data/764622/000102795598000003/0001027955-98-000003.txt
+PINNACLE WEST CAPITAL CORP|764622|1998-01-06|https://www.sec.gov/Archives/edgar/data/764622/000102795598000004/0001027955-98-000004.txt
+PARKER HANNIFIN CORP|76334|1998-03-20|https://www.sec.gov/Archives/edgar/data/76334/000102175998000002/0001021759-98-000002.txt
+PINNACLE WEST CAPITAL CORP|764622|1998-01-22|https://www.sec.gov/Archives/edgar/data/764622/000102795598000017/0001027955-98-000017.txt
+DOLLAR GENERAL CORP|29534|1999-04-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000035/0000029534-99-000035.txt
+DOLLAR GENERAL CORP|29534|1999-04-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000034/0000029534-99-000034.txt
+DOLLAR GENERAL CORP|29534|1999-04-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000036/0000029534-99-000036.txt
+DOLLAR GENERAL CORP|29534|1999-04-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000030/0000029534-99-000030.txt
+DOLLAR GENERAL CORP|29534|1999-04-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000033/0000029534-99-000033.txt
+DOLLAR GENERAL CORP|29534|1999-06-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000048/0000029534-99-000048.txt
+DOLLAR GENERAL CORP|29534|1999-05-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000039/0000029534-99-000039.txt
+DOLLAR GENERAL CORP|29534|1999-05-10|https://www.sec.gov/Archives/edgar/data/29534/000106147399000001/0001061473-99-000001.txt
+DOLLAR GENERAL CORP|29534|1999-05-10|https://www.sec.gov/Archives/edgar/data/29534/000106239299000001/0001062392-99-000001.txt
+DOLLAR GENERAL CORP|29534|1999-05-10|https://www.sec.gov/Archives/edgar/data/29534/000106146699000001/0001061466-99-000001.txt
+DOLLAR GENERAL CORP|29534|1999-04-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000037/0000029534-99-000037.txt
+DOLLAR GENERAL CORP|29534|1999-06-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000043/0000029534-99-000043.txt
+DOLLAR GENERAL CORP|29534|1999-06-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000047/0000029534-99-000047.txt
+PARKER HANNIFIN CORP|76334|1999-04-09|https://www.sec.gov/Archives/edgar/data/76334/000102175099000001/0001021750-99-000001.txt
+DOLLAR GENERAL CORP|29534|1999-06-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000045/0000029534-99-000045.txt
+PARKER HANNIFIN CORP|76334|1999-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102174699000004/0001021746-99-000004.txt
+PARKER HANNIFIN CORP|76334|1999-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102174699000002/0001021746-99-000002.txt
+PARKER HANNIFIN CORP|76334|1999-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102174699000005/0001021746-99-000005.txt
+PARKER HANNIFIN CORP|76334|1999-04-06|https://www.sec.gov/Archives/edgar/data/76334/000102176399000001/0001021763-99-000001.txt
+PARKER HANNIFIN CORP|76334|1999-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102174699000003/0001021746-99-000003.txt
+PARKER HANNIFIN CORP|76334|1999-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102176899000001/0001021768-99-000001.txt
+PARKER HANNIFIN CORP|76334|1999-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102175699000003/0001021756-99-000003.txt
+PARKER HANNIFIN CORP|76334|1999-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102176399000002/0001021763-99-000002.txt
+PARKER HANNIFIN CORP|76334|1999-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102174999000001/0001021749-99-000001.txt
+PARKER HANNIFIN CORP|76334|1999-05-11|https://www.sec.gov/Archives/edgar/data/76334/000107853099000010/0001078530-99-000010.txt
+PARKER HANNIFIN CORP|76334|1999-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102174799000001/0001021747-99-000001.txt
+PARKER HANNIFIN CORP|76334|1999-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102175099000002/0001021750-99-000002.txt
+PARKER HANNIFIN CORP|76334|1999-05-10|https://www.sec.gov/Archives/edgar/data/76334/000104967799000002/0001049677-99-000002.txt
+PARKER HANNIFIN CORP|76334|1999-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102175299000001/0001021752-99-000001.txt
+PARKER HANNIFIN CORP|76334|1999-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102176399000003/0001021763-99-000003.txt
+PARKER HANNIFIN CORP|76334|1999-06-16|https://www.sec.gov/Archives/edgar/data/76334/000102175199000001/0001021751-99-000001.txt
+PARKER HANNIFIN CORP|76334|1999-06-16|https://www.sec.gov/Archives/edgar/data/76334/000106591899000003/0001065918-99-000003.txt
+PARKER HANNIFIN CORP|76334|1999-06-10|https://www.sec.gov/Archives/edgar/data/76334/000104967799000003/0001049677-99-000003.txt
+PARKER HANNIFIN CORP|76334|1999-06-16|https://www.sec.gov/Archives/edgar/data/76334/000102175799000001/0001021757-99-000001.txt
+PARKER HANNIFIN CORP|76334|1999-06-16|https://www.sec.gov/Archives/edgar/data/76334/000104967999000002/0001049679-99-000002.txt
+PINNACLE WEST CAPITAL CORP|764622|1999-06-09|https://www.sec.gov/Archives/edgar/data/764622/000095014799000605/0000950147-99-000605.txt
+DOLLAR GENERAL CORP|29534|1998-05-12|https://www.sec.gov/Archives/edgar/data/29534/000106146698000012/0001061466-98-000012.txt
+DOLLAR GENERAL CORP|29534|1998-05-12|https://www.sec.gov/Archives/edgar/data/29534/000106146698000013/0001061466-98-000013.txt
+DOLLAR GENERAL CORP|29534|1998-06-10|https://www.sec.gov/Archives/edgar/data/29534/000106240698000002/0001062406-98-000002.txt
+DOLLAR GENERAL CORP|29534|1998-05-12|https://www.sec.gov/Archives/edgar/data/29534/000106146698000011/0001061466-98-000011.txt
+DOLLAR GENERAL CORP|29534|1998-06-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000007/0000029534-98-000007.txt
+DOLLAR GENERAL CORP|29534|1998-05-12|https://www.sec.gov/Archives/edgar/data/29534/000106146698000010/0001061466-98-000010.txt
+DOLLAR GENERAL CORP|29534|1998-06-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000003/0000029534-98-000003.txt
+DOLLAR GENERAL CORP|29534|1998-06-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000002/0000029534-98-000002.txt
+DOLLAR GENERAL CORP|29534|1998-06-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000006/0000029534-98-000006.txt
+PARKER HANNIFIN CORP|76334|1998-04-09|https://www.sec.gov/Archives/edgar/data/76334/000102175098000003/0001021750-98-000003.txt
+PARKER HANNIFIN CORP|76334|1998-04-09|https://www.sec.gov/Archives/edgar/data/76334/000102175798000002/0001021757-98-000002.txt
+PARKER HANNIFIN CORP|76334|1998-04-09|https://www.sec.gov/Archives/edgar/data/76334/000102174698000002/0001021746-98-000002.txt
+PINNACLE WEST CAPITAL CORP|764622|1998-04-03|https://www.sec.gov/Archives/edgar/data/764622/000102795598000022/0001027955-98-000022.txt
+PARKER HANNIFIN CORP|76334|1998-05-06|https://www.sec.gov/Archives/edgar/data/76334/000102175798000004/0001021757-98-000004.txt
+PARKER HANNIFIN CORP|76334|1998-05-20|https://www.sec.gov/Archives/edgar/data/76334/000102175998000006/0001021759-98-000006.txt
+PINNACLE WEST CAPITAL CORP|764622|1998-04-03|https://www.sec.gov/Archives/edgar/data/764622/000102795598000024/0001027955-98-000024.txt
+PARKER HANNIFIN CORP|76334|1998-05-06|https://www.sec.gov/Archives/edgar/data/76334/000102176398000004/0001021763-98-000004.txt
+PARKER HANNIFIN CORP|76334|1998-04-09|https://www.sec.gov/Archives/edgar/data/76334/000102176398000002/0001021763-98-000002.txt
+PINNACLE WEST CAPITAL CORP|764622|1998-04-03|https://www.sec.gov/Archives/edgar/data/764622/000102795598000023/0001027955-98-000023.txt
+PINNACLE WEST CAPITAL CORP|764622|1998-06-03|https://www.sec.gov/Archives/edgar/data/764622/000102795598000025/0001027955-98-000025.txt
+SEALED AIR CORP/DE|1012100|1998-04-10|https://www.sec.gov/Archives/edgar/data/1012100/000095010398000398/0000950103-98-000398.txt
+SEALED AIR CORP/DE|1012100|1998-04-10|https://www.sec.gov/Archives/edgar/data/1012100/000095010398000400/0000950103-98-000400.txt
+SEALED AIR CORP/DE|1012100|1998-04-10|https://www.sec.gov/Archives/edgar/data/1012100/000095010398000404/0000950103-98-000404.txt
+SEALED AIR CORP/DE|1012100|1998-04-10|https://www.sec.gov/Archives/edgar/data/1012100/000095010398000399/0000950103-98-000399.txt
+SEALED AIR CORP/DE|1012100|1998-04-10|https://www.sec.gov/Archives/edgar/data/1012100/000095010398000402/0000950103-98-000402.txt
+SEALED AIR CORP/DE|1012100|1998-04-10|https://www.sec.gov/Archives/edgar/data/1012100/000095010398000403/0000950103-98-000403.txt
+DOLLAR GENERAL CORP|29534|1998-07-10|https://www.sec.gov/Archives/edgar/data/29534/000106239698000001/0001062396-98-000001.txt
+DOLLAR GENERAL CORP|29534|1998-08-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000019/0000029534-98-000019.txt
+DOLLAR GENERAL CORP|29534|1998-07-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000013/0000029534-98-000013.txt
+DOLLAR GENERAL CORP|29534|1998-07-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000011/0000029534-98-000011.txt
+DOLLAR GENERAL CORP|29534|1998-08-11|https://www.sec.gov/Archives/edgar/data/29534/000002953498000026/0000029534-98-000026.txt
+DOLLAR GENERAL CORP|29534|1998-08-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000024/0000029534-98-000024.txt
+DOLLAR GENERAL CORP|29534|1998-08-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000021/0000029534-98-000021.txt
+DOLLAR GENERAL CORP|29534|1998-08-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000022/0000029534-98-000022.txt
+DOLLAR GENERAL CORP|29534|1998-08-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000025/0000029534-98-000025.txt
+DOLLAR GENERAL CORP|29534|1998-08-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000023/0000029534-98-000023.txt
+PARKER HANNIFIN CORP|76334|1998-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102174598000003/0001021745-98-000003.txt
+PARKER HANNIFIN CORP|76334|1998-08-03|https://www.sec.gov/Archives/edgar/data/76334/000102175998000007/0001021759-98-000007.txt
+PARKER HANNIFIN CORP|76334|1998-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102175598000001/0001021755-98-000001.txt
+PARKER HANNIFIN CORP|76334|1998-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102174898000001/0001021748-98-000001.txt
+PARKER HANNIFIN CORP|76334|1998-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102176098000001/0001021760-98-000001.txt
+PARKER HANNIFIN CORP|76334|1998-08-13|https://www.sec.gov/Archives/edgar/data/76334/000102176898000001/0001021768-98-000001.txt
+PARKER HANNIFIN CORP|76334|1998-08-13|https://www.sec.gov/Archives/edgar/data/76334/000102174798000001/0001021747-98-000001.txt
+PARKER HANNIFIN CORP|76334|1998-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102175198000001/0001021751-98-000001.txt
+PARKER HANNIFIN CORP|76334|1998-08-13|https://www.sec.gov/Archives/edgar/data/76334/000102174998000001/0001021749-98-000001.txt
+PARKER HANNIFIN CORP|76334|1998-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102176298000001/0001021762-98-000001.txt
+PARKER HANNIFIN CORP|76334|1998-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102176498000001/0001021764-98-000001.txt
+PARKER HANNIFIN CORP|76334|1998-08-14|https://www.sec.gov/Archives/edgar/data/76334/000104967398000001/0001049673-98-000001.txt
+PARKER HANNIFIN CORP|76334|1998-08-14|https://www.sec.gov/Archives/edgar/data/76334/000104967598000001/0001049675-98-000001.txt
+PARKER HANNIFIN CORP|76334|1998-09-04|https://www.sec.gov/Archives/edgar/data/76334/000102174898000002/0001021748-98-000002.txt
+PARKER HANNIFIN CORP|76334|1998-08-17|https://www.sec.gov/Archives/edgar/data/76334/000104967198000003/0001049671-98-000003.txt
+PARKER HANNIFIN CORP|76334|1998-09-04|https://www.sec.gov/Archives/edgar/data/76334/000102174598000004/0001021745-98-000004.txt
+PARKER HANNIFIN CORP|76334|1998-08-18|https://www.sec.gov/Archives/edgar/data/76334/000102175898000009/0001021758-98-000009.txt
+PARKER HANNIFIN CORP|76334|1998-09-04|https://www.sec.gov/Archives/edgar/data/76334/000102175598000002/0001021755-98-000002.txt
+PARKER HANNIFIN CORP|76334|1998-09-04|https://www.sec.gov/Archives/edgar/data/76334/000102175898000011/0001021758-98-000011.txt
+PARKER HANNIFIN CORP|76334|1998-09-04|https://www.sec.gov/Archives/edgar/data/76334/000102175898000010/0001021758-98-000010.txt
+PARKER HANNIFIN CORP|76334|1998-09-04|https://www.sec.gov/Archives/edgar/data/76334/000102176298000002/0001021762-98-000002.txt
+PHILLIPS VAN HEUSEN CORP /DE/|78239|1998-07-01|https://www.sec.gov/Archives/edgar/data/78239/000100547798002142/0001005477-98-002142.txt
+PARKER HANNIFIN CORP|76334|1998-09-04|https://www.sec.gov/Archives/edgar/data/76334/000104967398000002/0001049673-98-000002.txt
+PARKER HANNIFIN CORP|76334|1998-09-04|https://www.sec.gov/Archives/edgar/data/76334/000102176098000002/0001021760-98-000002.txt
+PHILLIPS VAN HEUSEN CORP /DE/|78239|1998-07-01|https://www.sec.gov/Archives/edgar/data/78239/000100547798002141/0001005477-98-002141.txt
+PARKER HANNIFIN CORP|76334|1998-09-04|https://www.sec.gov/Archives/edgar/data/76334/000104967598000003/0001049675-98-000003.txt
+US BANCORP \DE\|36104|1998-07-09|https://www.sec.gov/Archives/edgar/data/36104/000095017298000662/0000950172-98-000662.txt
+PENN NATIONAL GAMING INC|921738|1998-08-31|https://www.sec.gov/Archives/edgar/data/921738/000092173898000010/0000921738-98-000010.txt
+PHILLIPS VAN HEUSEN CORP /DE/|78239|1998-07-17|https://www.sec.gov/Archives/edgar/data/78239/000100547798002226/0001005477-98-002226.txt
+PHILLIPS VAN HEUSEN CORP /DE/|78239|1998-07-17|https://www.sec.gov/Archives/edgar/data/78239/000100547798002225/0001005477-98-002225.txt
+AUTOZONE INC|866787|2000-01-10|https://www.sec.gov/Archives/edgar/data/866787/000101190800000001/0001011908-00-000001.txt
+DOLLAR GENERAL CORP|29534|2000-01-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000001/0000029534-00-000001.txt
+DOLLAR GENERAL CORP|29534|2000-01-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000002/0000029534-00-000002.txt
+AUTOZONE INC|866787|2000-01-10|https://www.sec.gov/Archives/edgar/data/866787/000101190800000002/0001011908-00-000002.txt
+DOLLAR GENERAL CORP|29534|2000-03-06|https://www.sec.gov/Archives/edgar/data/29534/000002953400000011/0000029534-00-000011.txt
+DOLLAR GENERAL CORP|29534|2000-03-08|https://www.sec.gov/Archives/edgar/data/29534/000002953400000014/0000029534-00-000014.txt
+DOLLAR GENERAL CORP|29534|2000-01-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000003/0000029534-00-000003.txt
+DOLLAR GENERAL CORP|29534|2000-03-06|https://www.sec.gov/Archives/edgar/data/29534/000002953400000013/0000029534-00-000013.txt
+DOLLAR GENERAL CORP|29534|2000-02-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000005/0000029534-00-000005.txt
+DOLLAR GENERAL CORP|29534|2000-01-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000004/0000029534-00-000004.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-01-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000004/0001001082-00-000004.txt
+DOLLAR GENERAL CORP|29534|2000-03-13|https://www.sec.gov/Archives/edgar/data/29534/000002953400000023/0000029534-00-000023.txt
+DOLLAR GENERAL CORP|29534|2000-03-08|https://www.sec.gov/Archives/edgar/data/29534/000002953400000015/0000029534-00-000015.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-01-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000006/0001001082-00-000006.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-01-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000007/0001001082-00-000007.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-01-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000009/0001001082-00-000009.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-01-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000005/0001001082-00-000005.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-01-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000003/0001001082-00-000003.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-01-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000010/0001001082-00-000010.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-01-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000008/0001001082-00-000008.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-02-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000015/0001001082-00-000015.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-02-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000016/0001001082-00-000016.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-02-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000017/0001001082-00-000017.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-02-09|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000022/0001001082-00-000022.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-01-07|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000011/0001001082-00-000011.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-02-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000023/0001001082-00-000023.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-02-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000018/0001001082-00-000018.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-02-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000025/0001001082-00-000025.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-02-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000019/0001001082-00-000019.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-02-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000024/0001001082-00-000024.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-02-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000026/0001001082-00-000026.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-02-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000029/0001001082-00-000029.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-02-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000028/0001001082-00-000028.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-02-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000030/0001001082-00-000030.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-03-02|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000033/0001001082-00-000033.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-02-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000027/0001001082-00-000027.txt
+PARKER HANNIFIN CORP|76334|2000-03-08|https://www.sec.gov/Archives/edgar/data/76334/000108796300000002/0001087963-00-000002.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-02-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000031/0001001082-00-000031.txt
+PARKER HANNIFIN CORP|76334|2000-03-08|https://www.sec.gov/Archives/edgar/data/76334/000104968200000003/0001049682-00-000003.txt
+PINNACLE WEST CAPITAL CORP|764622|2000-03-10|https://www.sec.gov/Archives/edgar/data/764622/000095014700000386/0000950147-00-000386.txt
+PARKER HANNIFIN CORP|76334|2000-03-08|https://www.sec.gov/Archives/edgar/data/76334/000102176800000001/0001021768-00-000001.txt
+PINNACLE WEST CAPITAL CORP|764622|2000-03-10|https://www.sec.gov/Archives/edgar/data/764622/000095014700000385/0000950147-00-000385.txt
+PINNACLE WEST CAPITAL CORP|764622|2000-01-10|https://www.sec.gov/Archives/edgar/data/764622/000095014700000031/0000950147-00-000031.txt
+PENN NATIONAL GAMING INC|921738|2000-03-31|https://www.sec.gov/Archives/edgar/data/921738/000092173800000006/0000921738-00-000006.txt
+PARKER HANNIFIN CORP|76334|1997-08-12|https://www.sec.gov/Archives/edgar/data/76334/000102176997000001/0001021769-97-000001.txt
+PARKER HANNIFIN CORP|76334|1997-07-10|https://www.sec.gov/Archives/edgar/data/76334/000102175397000009/0001021753-97-000009.txt
+PARKER HANNIFIN CORP|76334|1997-07-10|https://www.sec.gov/Archives/edgar/data/76334/000102175397000010/0001021753-97-000010.txt
+PARKER HANNIFIN CORP|76334|1997-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102174597000001/0001021745-97-000001.txt
+PARKER HANNIFIN CORP|76334|1997-07-10|https://www.sec.gov/Archives/edgar/data/76334/000102176897000002/0001021768-97-000002.txt
+PARKER HANNIFIN CORP|76334|1997-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102175897000001/0001021758-97-000001.txt
+PARKER HANNIFIN CORP|76334|1997-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102174897000001/0001021748-97-000001.txt
+PARKER HANNIFIN CORP|76334|1997-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102175497000001/0001021754-97-000001.txt
+PARKER HANNIFIN CORP|76334|1997-07-10|https://www.sec.gov/Archives/edgar/data/76334/000102175397000012/0001021753-97-000012.txt
+PARKER HANNIFIN CORP|76334|1997-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102175997000001/0001021759-97-000001.txt
+PARKER HANNIFIN CORP|76334|1997-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102175597000002/0001021755-97-000002.txt
+PARKER HANNIFIN CORP|76334|1997-09-10|https://www.sec.gov/Archives/edgar/data/76334/000102175197000003/0001021751-97-000003.txt
+PARKER HANNIFIN CORP|76334|1997-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102176497000001/0001021764-97-000001.txt
+PARKER HANNIFIN CORP|76334|1997-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102176297000001/0001021762-97-000001.txt
+PARKER HANNIFIN CORP|76334|1997-08-14|https://www.sec.gov/Archives/edgar/data/76334/000102176097000001/0001021760-97-000001.txt
+PINNACLE WEST CAPITAL CORP|764622|1997-07-01|https://www.sec.gov/Archives/edgar/data/764622/000076462297000026/0000764622-97-000026.txt
+PARKER HANNIFIN CORP|76334|1997-09-10|https://www.sec.gov/Archives/edgar/data/76334/000102175297000003/0001021752-97-000003.txt
+PARKER HANNIFIN CORP|76334|1997-09-10|https://www.sec.gov/Archives/edgar/data/76334/000102176997000003/0001021769-97-000003.txt
+PARKER HANNIFIN CORP|76334|1997-09-10|https://www.sec.gov/Archives/edgar/data/76334/000102175997000003/0001021759-97-000003.txt
+PINNACLE WEST CAPITAL CORP|764622|1997-08-04|https://www.sec.gov/Archives/edgar/data/764622/000076462297000027/0000764622-97-000027.txt
+PARKER HANNIFIN CORP|76334|1997-05-09|https://www.sec.gov/Archives/edgar/data/76334/000102175697000005/0001021756-97-000005.txt
+SYSCO CORP|96021|1997-09-10|https://www.sec.gov/Archives/edgar/data/96021/000091406297000260/0000914062-97-000260.txt
+PARKER HANNIFIN CORP|76334|1997-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102175097000005/0001021750-97-000005.txt
+PARKER HANNIFIN CORP|76334|1997-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102175297000001/0001021752-97-000001.txt
+PARKER HANNIFIN CORP|76334|1997-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102176597000003/0001021765-97-000003.txt
+PARKER HANNIFIN CORP|76334|1997-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102176797000004/0001021767-97-000004.txt
+PARKER HANNIFIN CORP|76334|1997-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102175397000008/0001021753-97-000008.txt
+PARKER HANNIFIN CORP|76334|1997-04-10|https://www.sec.gov/Archives/edgar/data/76334/000102174997000003/0001021749-97-000003.txt
+PARKER HANNIFIN CORP|76334|1997-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102175197000001/0001021751-97-000001.txt
+PARKER HANNIFIN CORP|76334|1997-05-09|https://www.sec.gov/Archives/edgar/data/76334/000102175697000006/0001021756-97-000006.txt
+PARKER HANNIFIN CORP|76334|1997-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102175597000001/0001021755-97-000001.txt
+PARKER HANNIFIN CORP|76334|1997-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102174797000002/0001021747-97-000002.txt
+PARKER HANNIFIN CORP|76334|1997-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102176797000006/0001021767-97-000006.txt
+PARKER HANNIFIN CORP|76334|1997-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102175697000007/0001021756-97-000007.txt
+PINNACLE WEST CAPITAL CORP|764622|1997-04-01|https://www.sec.gov/Archives/edgar/data/764622/000076462297000024/0000764622-97-000024.txt
+PARKER HANNIFIN CORP|76334|1997-06-10|https://www.sec.gov/Archives/edgar/data/76334/000102176697000004/0001021766-97-000004.txt
+PINNACLE WEST CAPITAL CORP|764622|1997-05-02|https://www.sec.gov/Archives/edgar/data/764622/000076462297000025/0000764622-97-000025.txt
+AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000019/0001011908-97-000019.txt
+AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000020/0001011908-97-000020.txt
+AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000024/0001011908-97-000024.txt
+AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000018/0001011908-97-000018.txt
+AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000026/0001011908-97-000026.txt
+AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000025/0001011908-97-000025.txt
+AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000027/0001011908-97-000027.txt
+AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000029/0001011908-97-000029.txt
+AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000023/0001011908-97-000023.txt
+AUTOZONE INC|866787|1997-02-10|https://www.sec.gov/Archives/edgar/data/866787/000101190897000021/0001011908-97-000021.txt
+PARKER HANNIFIN CORP|76334|1997-01-10|https://www.sec.gov/Archives/edgar/data/76334/000102175697000003/0001021756-97-000003.txt
+PARKER HANNIFIN CORP|76334|1997-01-10|https://www.sec.gov/Archives/edgar/data/76334/000102175697000002/0001021756-97-000002.txt
+PARKER HANNIFIN CORP|76334|1997-01-10|https://www.sec.gov/Archives/edgar/data/76334/000102175697000001/0001021756-97-000001.txt
+PARKER HANNIFIN CORP|76334|1997-01-10|https://www.sec.gov/Archives/edgar/data/76334/000102176697000001/0001021766-97-000001.txt
+PARKER HANNIFIN CORP|76334|1997-02-10|https://www.sec.gov/Archives/edgar/data/76334/000102176397000002/0001021763-97-000002.txt
+PARKER HANNIFIN CORP|76334|1997-01-10|https://www.sec.gov/Archives/edgar/data/76334/000102176697000002/0001021766-97-000002.txt
+PARKER HANNIFIN CORP|76334|1997-02-11|https://www.sec.gov/Archives/edgar/data/76334/000102175797000011/0001021757-97-000011.txt
+PARKER HANNIFIN CORP|76334|1997-02-27|https://www.sec.gov/Archives/edgar/data/76334/000102174697000001/0001021746-97-000001.txt
+PINNACLE WEST CAPITAL CORP|764622|1997-03-04|https://www.sec.gov/Archives/edgar/data/764622/000076462297000021/0000764622-97-000021.txt
+PARKER HANNIFIN CORP|76334|1997-02-11|https://www.sec.gov/Archives/edgar/data/76334/000102175797000012/0001021757-97-000012.txt
+PINNACLE WEST CAPITAL CORP|764622|1997-03-04|https://www.sec.gov/Archives/edgar/data/764622/000076462297000022/0000764622-97-000022.txt
+PARKER HANNIFIN CORP|76334|1997-03-10|https://www.sec.gov/Archives/edgar/data/76334/000102176797000002/0001021767-97-000002.txt
+PARKER HANNIFIN CORP|76334|1997-02-27|https://www.sec.gov/Archives/edgar/data/76334/000102176697000003/0001021766-97-000003.txt
+PARKER HANNIFIN CORP|76334|1997-03-04|https://www.sec.gov/Archives/edgar/data/76334/000102175397000007/0001021753-97-000007.txt
+PINNACLE WEST CAPITAL CORP|764622|1997-03-06|https://www.sec.gov/Archives/edgar/data/764622/000076462297000023/0000764622-97-000023.txt
+PARKER HANNIFIN CORP|76334|1997-03-10|https://www.sec.gov/Archives/edgar/data/76334/000102175097000002/0001021750-97-000002.txt
+AUTOZONE INC|866787|1999-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190899000013/0001011908-99-000013.txt
+DOLLAR GENERAL CORP|29534|1999-07-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000052/0000029534-99-000052.txt
+DOLLAR GENERAL CORP|29534|1999-07-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000050/0000029534-99-000050.txt
+AUTOZONE INC|866787|1999-07-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000002/0001011908-99-000002.txt
+AUTOZONE INC|866787|1999-08-10|https://www.sec.gov/Archives/edgar/data/866787/000101190899000011/0001011908-99-000011.txt
+AUTOZONE INC|866787|1999-07-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000003/0001011908-99-000003.txt
+AUTOZONE INC|866787|1999-08-10|https://www.sec.gov/Archives/edgar/data/866787/000101190899000012/0001011908-99-000012.txt
+DOLLAR GENERAL CORP|29534|1999-07-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000051/0000029534-99-000051.txt
+AUTOZONE INC|866787|1999-09-09|https://www.sec.gov/Archives/edgar/data/866787/000101190899000015/0001011908-99-000015.txt
+DOLLAR GENERAL CORP|29534|1999-09-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000058/0000029534-99-000058.txt
+DOLLAR GENERAL CORP|29534|1999-07-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000053/0000029534-99-000053.txt
+DOLLAR GENERAL CORP|29534|1999-08-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000054/0000029534-99-000054.txt
+DOLLAR GENERAL CORP|29534|1999-09-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000055/0000029534-99-000055.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|1999-09-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108299000010/0001001082-99-000010.txt
+DOLLAR GENERAL CORP|29534|1999-09-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000059/0000029534-99-000059.txt
+DOLLAR GENERAL CORP|29534|1999-09-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000061/0000029534-99-000061.txt
+PARKER HANNIFIN CORP|76334|1999-07-09|https://www.sec.gov/Archives/edgar/data/76334/000102176399000004/0001021763-99-000004.txt
+PARKER HANNIFIN CORP|76334|1999-07-28|https://www.sec.gov/Archives/edgar/data/76334/000102176799000001/0001021767-99-000001.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|1999-09-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108299000012/0001001082-99-000012.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|1999-09-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108299000014/0001001082-99-000014.txt
+PARKER HANNIFIN CORP|76334|1999-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102174899000002/0001021748-99-000002.txt
+PARKER HANNIFIN CORP|76334|1999-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102175599000001/0001021755-99-000001.txt
+PARKER HANNIFIN CORP|76334|1999-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102174599000001/0001021745-99-000001.txt
+PARKER HANNIFIN CORP|76334|1999-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102175899000001/0001021758-99-000001.txt
+PARKER HANNIFIN CORP|76334|1999-09-03|https://www.sec.gov/Archives/edgar/data/76334/000107852899000001/0001078528-99-000001.txt
+PARKER HANNIFIN CORP|76334|1999-08-09|https://www.sec.gov/Archives/edgar/data/76334/000102176099000001/0001021760-99-000001.txt
+DOLLAR GENERAL CORP|29534|2000-04-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000043/0000029534-00-000043.txt
+DOLLAR GENERAL CORP|29534|2000-05-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000048/0000029534-00-000048.txt
+DOLLAR GENERAL CORP|29534|2000-04-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000045/0000029534-00-000045.txt
+AUTOZONE INC|866787|2000-04-10|https://www.sec.gov/Archives/edgar/data/866787/000101190800000008/0001011908-00-000008.txt
+DOLLAR GENERAL CORP|29534|2000-05-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000046/0000029534-00-000046.txt
+AUTOZONE INC|866787|2000-04-10|https://www.sec.gov/Archives/edgar/data/866787/000101190800000007/0001011908-00-000007.txt
+DOLLAR GENERAL CORP|29534|2000-05-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000049/0000029534-00-000049.txt
+DOLLAR GENERAL CORP|29534|2000-04-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000044/0000029534-00-000044.txt
+DOLLAR GENERAL CORP|29534|2000-05-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000047/0000029534-00-000047.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-04-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000036/0001001082-00-000036.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-05-09|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000038/0001001082-00-000038.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-04-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000035/0001001082-00-000035.txt
+DOLLAR GENERAL CORP|29534|2000-05-10|https://www.sec.gov/Archives/edgar/data/29534/000002953400000050/0000029534-00-000050.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-05-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000039/0001001082-00-000039.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-05-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000040/0001001082-00-000040.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-04-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000037/0001001082-00-000037.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|2000-05-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108200000041/0001001082-00-000041.txt
+PARKER HANNIFIN CORP|76334|2000-05-10|https://www.sec.gov/Archives/edgar/data/76334/000102176800000002/0001021768-00-000002.txt
+PARKER HANNIFIN CORP|76334|2000-04-07|https://www.sec.gov/Archives/edgar/data/76334/000104968200000004/0001049682-00-000004.txt
+PARKER HANNIFIN CORP|76334|2000-05-10|https://www.sec.gov/Archives/edgar/data/76334/000106591800000001/0001065918-00-000001.txt
+PARKER HANNIFIN CORP|76334|1999-01-07|https://www.sec.gov/Archives/edgar/data/76334/000104967999000001/0001049679-99-000001.txt
+DOLLAR GENERAL CORP|29534|1999-03-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000002/0000029534-99-000002.txt
+PINNACLE WEST CAPITAL CORP|764622|2000-05-10|https://www.sec.gov/Archives/edgar/data/764622/000095014700000697/0000950147-00-000697.txt
+DOLLAR GENERAL CORP|29534|1999-03-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000004/0000029534-99-000004.txt
+HARTFORD FINANCIAL SERVICES GROUP INC/DE|874766|1999-02-10|https://www.sec.gov/Archives/edgar/data/874766/000095010999000404/0000950109-99-000404.txt
+PARKER HANNIFIN CORP|76334|1999-01-07|https://www.sec.gov/Archives/edgar/data/76334/000102174699000001/0001021746-99-000001.txt
+PARKER HANNIFIN CORP|76334|1999-01-07|https://www.sec.gov/Archives/edgar/data/76334/000104967799000001/0001049677-99-000001.txt
+DOLLAR GENERAL CORP|29534|1999-01-11|https://www.sec.gov/Archives/edgar/data/29534/000002953499000001/0000029534-99-000001.txt
+ABBOTT LABORATORIES|1800|1998-10-06|https://www.sec.gov/Archives/edgar/data/1800/000090256198000347/0000902561-98-000347.txt
+AUTOZONE INC|866787|1998-11-09|https://www.sec.gov/Archives/edgar/data/866787/000101190898000010/0001011908-98-000010.txt
+DANAHER CORP /DE/|313616|1998-11-25|https://www.sec.gov/Archives/edgar/data/313616/000092838598002424/0000928385-98-002424.txt
+AUTOZONE INC|866787|1998-11-09|https://www.sec.gov/Archives/edgar/data/866787/000101190898000009/0001011908-98-000009.txt
+AUTOZONE INC|866787|1998-11-09|https://www.sec.gov/Archives/edgar/data/866787/000101190898000011/0001011908-98-000011.txt
+AUTOZONE INC|866787|1998-11-09|https://www.sec.gov/Archives/edgar/data/866787/000101190898000012/0001011908-98-000012.txt
+DOLLAR GENERAL CORP|29534|1998-10-09|https://www.sec.gov/Archives/edgar/data/29534/000002953498000029/0000029534-98-000029.txt
+AUTOZONE INC|866787|1998-11-09|https://www.sec.gov/Archives/edgar/data/866787/000101190898000013/0001011908-98-000013.txt
+DANAHER CORP /DE/|313616|1998-11-25|https://www.sec.gov/Archives/edgar/data/313616/000092838598002423/0000928385-98-002423.txt
+PARKER HANNIFIN CORP|76334|1998-10-09|https://www.sec.gov/Archives/edgar/data/76334/000102174698000004/0001021746-98-000004.txt
+AUTOZONE INC|866787|1998-11-09|https://www.sec.gov/Archives/edgar/data/866787/000101190898000015/0001011908-98-000015.txt
+DOLLAR GENERAL CORP|29534|1998-10-09|https://www.sec.gov/Archives/edgar/data/29534/000002953498000030/0000029534-98-000030.txt
+PARKER HANNIFIN CORP|76334|1998-11-10|https://www.sec.gov/Archives/edgar/data/76334/000102174898000003/0001021748-98-000003.txt
+DOLLAR GENERAL CORP|29534|1998-12-10|https://www.sec.gov/Archives/edgar/data/29534/000002953498000035/0000029534-98-000035.txt
+PARKER HANNIFIN CORP|76334|1998-11-10|https://www.sec.gov/Archives/edgar/data/76334/000102176098000003/0001021760-98-000003.txt
+PARKER HANNIFIN CORP|76334|1998-11-10|https://www.sec.gov/Archives/edgar/data/76334/000102174598000005/0001021745-98-000005.txt
+PARKER HANNIFIN CORP|76334|1998-11-10|https://www.sec.gov/Archives/edgar/data/76334/000102176398000005/0001021763-98-000005.txt
+PARKER HANNIFIN CORP|76334|1998-11-10|https://www.sec.gov/Archives/edgar/data/76334/000102175098000004/0001021750-98-000004.txt
+PARKER HANNIFIN CORP|76334|1998-11-10|https://www.sec.gov/Archives/edgar/data/76334/000102175598000003/0001021755-98-000003.txt
+PARKER HANNIFIN CORP|76334|1998-11-10|https://www.sec.gov/Archives/edgar/data/76334/000102175698000001/0001021756-98-000001.txt
+PARKER HANNIFIN CORP|76334|1998-11-10|https://www.sec.gov/Archives/edgar/data/76334/000102175898000012/0001021758-98-000012.txt
+PARKER HANNIFIN CORP|76334|1998-12-10|https://www.sec.gov/Archives/edgar/data/76334/000102176598000002/0001021765-98-000002.txt
+PARKER HANNIFIN CORP|76334|1998-11-10|https://www.sec.gov/Archives/edgar/data/76334/000104967198000004/0001049671-98-000004.txt
+PENN NATIONAL GAMING INC|921738|1998-10-05|https://www.sec.gov/Archives/edgar/data/921738/000092173898000013/0000921738-98-000013.txt
+PARKER HANNIFIN CORP|76334|1998-11-10|https://www.sec.gov/Archives/edgar/data/76334/000104967398000003/0001049673-98-000003.txt
+PARKER HANNIFIN CORP|76334|1998-11-10|https://www.sec.gov/Archives/edgar/data/76334/000104968298000001/0001049682-98-000001.txt
+PARKER HANNIFIN CORP|76334|1998-11-10|https://www.sec.gov/Archives/edgar/data/76334/000102176598000001/0001021765-98-000001.txt
+US BANCORP \DE\|36104|1998-12-09|https://www.sec.gov/Archives/edgar/data/36104/000095017298001302/0000950172-98-001302.txt
+NIKE INC|320187|1996-07-02|https://www.sec.gov/Archives/edgar/data/320187/000090385596000005/0000903855-96-000005.txt
+MINNESOTA MINING & MANUFACTURING CO|66740|1996-07-09|https://www.sec.gov/Archives/edgar/data/66740/000089534596000129/0000895345-96-000129.txt
+NIKE INC|320187|1996-09-10|https://www.sec.gov/Archives/edgar/data/320187/000090385596000007/0000903855-96-000007.txt
+PARKER HANNIFIN CORP|76334|1996-09-10|https://www.sec.gov/Archives/edgar/data/76334/000102176496000003/0001021764-96-000003.txt
+NIKE INC|320187|1996-07-02|https://www.sec.gov/Archives/edgar/data/320187/000090385596000006/0000903855-96-000006.txt
+AUTOZONE INC|866787|1996-11-08|https://www.sec.gov/Archives/edgar/data/866787/000101190896000002/0001011908-96-000002.txt
+DANAHER CORP /DE/|313616|1996-11-04|https://www.sec.gov/Archives/edgar/data/313616/000092838596001420/0000928385-96-001420.txt
+DUKE REALTY INVESTMENTS INC|783280|1996-11-08|https://www.sec.gov/Archives/edgar/data/783280/000078328096000026/0000783280-96-000026.txt
+PARKER HANNIFIN CORP|76334|1996-10-10|https://www.sec.gov/Archives/edgar/data/76334/000102176796000001/0001021767-96-000001.txt
+DUKE REALTY INVESTMENTS INC|783280|1996-11-08|https://www.sec.gov/Archives/edgar/data/783280/000078328096000025/0000783280-96-000025.txt
+PARKER HANNIFIN CORP|76334|1996-10-10|https://www.sec.gov/Archives/edgar/data/76334/000102174996000001/0001021749-96-000001.txt
+PARKER HANNIFIN CORP|76334|1996-10-10|https://www.sec.gov/Archives/edgar/data/76334/000102176696000002/0001021766-96-000002.txt
+DUKE REALTY INVESTMENTS INC|783280|1996-11-08|https://www.sec.gov/Archives/edgar/data/783280/000078328096000023/0000783280-96-000023.txt
+DUKE REALTY INVESTMENTS INC|783280|1996-11-08|https://www.sec.gov/Archives/edgar/data/783280/000078328096000024/0000783280-96-000024.txt
+PARKER HANNIFIN CORP|76334|1996-10-10|https://www.sec.gov/Archives/edgar/data/76334/000102176796000002/0001021767-96-000002.txt
+PARKER HANNIFIN CORP|76334|1996-10-10|https://www.sec.gov/Archives/edgar/data/76334/000102176696000001/0001021766-96-000001.txt
+PARKER HANNIFIN CORP|76334|1996-12-10|https://www.sec.gov/Archives/edgar/data/76334/000102175696000001/0001021756-96-000001.txt
+PARKER HANNIFIN CORP|76334|1996-12-10|https://www.sec.gov/Archives/edgar/data/76334/000102176696000003/0001021766-96-000003.txt
+SYSCO CORP|96021|1996-12-10|https://www.sec.gov/Archives/edgar/data/96021/000091406296000217/0000914062-96-000217.txt
+PARKER HANNIFIN CORP|76334|1996-12-13|https://www.sec.gov/Archives/edgar/data/76334/000102176596000002/0001021765-96-000002.txt
+PARKER HANNIFIN CORP|76334|1996-12-13|https://www.sec.gov/Archives/edgar/data/76334/000102176596000001/0001021765-96-000001.txt
+LOCKHEED MARTIN CORP|936468|1997-11-10|https://www.sec.gov/Archives/edgar/data/936468/000095010397000675/0000950103-97-000675.txt
+PARKER HANNIFIN CORP|76334|1997-10-21|https://www.sec.gov/Archives/edgar/data/76334/000102176697000007/0001021766-97-000007.txt
+PARKER HANNIFIN CORP|76334|1997-10-10|https://www.sec.gov/Archives/edgar/data/76334/000102175197000005/0001021751-97-000005.txt
+LOCKHEED MARTIN CORP|936468|1997-11-10|https://www.sec.gov/Archives/edgar/data/936468/000095010397000676/0000950103-97-000676.txt
+PARKER HANNIFIN CORP|76334|1997-10-21|https://www.sec.gov/Archives/edgar/data/76334/000102175197000006/0001021751-97-000006.txt
+LOCKHEED MARTIN CORP|936468|1997-11-10|https://www.sec.gov/Archives/edgar/data/936468/000095010397000677/0000950103-97-000677.txt
+PARKER HANNIFIN CORP|76334|1997-10-10|https://www.sec.gov/Archives/edgar/data/76334/000102176597000005/0001021765-97-000005.txt
+PARKER HANNIFIN CORP|76334|1997-10-10|https://www.sec.gov/Archives/edgar/data/76334/000102176797000008/0001021767-97-000008.txt
+PARKER HANNIFIN CORP|76334|1997-10-21|https://www.sec.gov/Archives/edgar/data/76334/000102176797000009/0001021767-97-000009.txt
+PARKER HANNIFIN CORP|76334|1997-11-07|https://www.sec.gov/Archives/edgar/data/76334/000102176697000009/0001021766-97-000009.txt
+PARKER HANNIFIN CORP|76334|1997-10-10|https://www.sec.gov/Archives/edgar/data/76334/000102176697000006/0001021766-97-000006.txt
+PINNACLE WEST CAPITAL CORP|764622|1997-12-03|https://www.sec.gov/Archives/edgar/data/764622/000076462297000028/0000764622-97-000028.txt
+PINNACLE WEST CAPITAL CORP|764622|1997-12-03|https://www.sec.gov/Archives/edgar/data/764622/000076462297000031/0000764622-97-000031.txt
+PARKER HANNIFIN CORP|76334|1997-12-10|https://www.sec.gov/Archives/edgar/data/76334/000104967997000002/0001049679-97-000002.txt
+PINNACLE WEST CAPITAL CORP|764622|1997-12-03|https://www.sec.gov/Archives/edgar/data/764622/000076462297000029/0000764622-97-000029.txt
+PINNACLE WEST CAPITAL CORP|764622|1997-12-03|https://www.sec.gov/Archives/edgar/data/764622/000076462297000030/0000764622-97-000030.txt
+PINNACLE WEST CAPITAL CORP|764622|1997-12-03|https://www.sec.gov/Archives/edgar/data/764622/000076462297000033/0000764622-97-000033.txt
+PINNACLE WEST CAPITAL CORP|764622|1997-12-03|https://www.sec.gov/Archives/edgar/data/764622/000076462297000032/0000764622-97-000032.txt
+NIKE INC|320187|1996-06-11|https://www.sec.gov/Archives/edgar/data/320187/000090385596000004/0000903855-96-000004.txt
+AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000029/0001011908-99-000029.txt
+AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000021/0001011908-99-000021.txt
+AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000024/0001011908-99-000024.txt
+AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000022/0001011908-99-000022.txt
+AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000025/0001011908-99-000025.txt
+AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000023/0001011908-99-000023.txt
+AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000030/0001011908-99-000030.txt
+AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000026/0001011908-99-000026.txt
+AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000028/0001011908-99-000028.txt
+AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000032/0001011908-99-000032.txt
+AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000034/0001011908-99-000034.txt
+AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000020/0001011908-99-000020.txt
+AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000050/0001011908-99-000050.txt
+AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000035/0001011908-99-000035.txt
+AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000031/0001011908-99-000031.txt
+AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000033/0001011908-99-000033.txt
+AUTOZONE INC|866787|1999-10-12|https://www.sec.gov/Archives/edgar/data/866787/000101190899000036/0001011908-99-000036.txt
+AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000049/0001011908-99-000049.txt
+AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000053/0001011908-99-000053.txt
+AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000051/0001011908-99-000051.txt
+AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000055/0001011908-99-000055.txt
+AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000058/0001011908-99-000058.txt
+AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000048/0001011908-99-000048.txt
+AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000056/0001011908-99-000056.txt
+AUTOZONE INC|866787|1999-11-10|https://www.sec.gov/Archives/edgar/data/866787/000101190899000060/0001011908-99-000060.txt
+AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000057/0001011908-99-000057.txt
+AUTOZONE INC|866787|1999-12-08|https://www.sec.gov/Archives/edgar/data/866787/000101190899000065/0001011908-99-000065.txt
+AUTOZONE INC|866787|1999-12-08|https://www.sec.gov/Archives/edgar/data/866787/000101190899000063/0001011908-99-000063.txt
+AUTOZONE INC|866787|1999-11-02|https://www.sec.gov/Archives/edgar/data/866787/000101190899000054/0001011908-99-000054.txt
+DOLLAR GENERAL CORP|29534|1999-10-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000063/0000029534-99-000063.txt
+DOLLAR GENERAL CORP|29534|1999-10-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000065/0000029534-99-000065.txt
+DOLLAR GENERAL CORP|29534|1999-10-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000067/0000029534-99-000067.txt
+DOLLAR GENERAL CORP|29534|1999-10-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000064/0000029534-99-000064.txt
+DOLLAR GENERAL CORP|29534|1999-10-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000068/0000029534-99-000068.txt
+DOLLAR GENERAL CORP|29534|1999-10-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000070/0000029534-99-000070.txt
+DOLLAR GENERAL CORP|29534|1999-10-12|https://www.sec.gov/Archives/edgar/data/29534/000002953499000072/0000029534-99-000072.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|1999-10-08|https://www.sec.gov/Archives/edgar/data/1001082/000100108299000018/0001001082-99-000018.txt
+DOLLAR GENERAL CORP|29534|1999-11-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000074/0000029534-99-000074.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|1999-10-12|https://www.sec.gov/Archives/edgar/data/1001082/000100108299000020/0001001082-99-000020.txt
+DOLLAR GENERAL CORP|29534|1999-11-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000073/0000029534-99-000073.txt
+DOLLAR GENERAL CORP|29534|1999-11-10|https://www.sec.gov/Archives/edgar/data/29534/000002953499000075/0000029534-99-000075.txt
+HARRIS CORP /DE/|202058|1999-10-05|https://www.sec.gov/Archives/edgar/data/202058/000095015299008124/0000950152-99-008124.txt
+ECHOSTAR COMMUNICATIONS CORP|1001082|1999-12-10|https://www.sec.gov/Archives/edgar/data/1001082/000100108299000027/0001001082-99-000027.txt
+HARTFORD FINANCIAL SERVICES GROUP INC/DE|874766|1999-11-10|https://www.sec.gov/Archives/edgar/data/874766/000102902599000006/0001029025-99-000006.txt
+PARKER HANNIFIN CORP|76334|1999-10-12|https://www.sec.gov/Archives/edgar/data/76334/000102176399000010/0001021763-99-000010.txt
+PARKER HANNIFIN CORP|76334|1999-10-12|https://www.sec.gov/Archives/edgar/data/76334/000102174799000006/0001021747-99-000006.txt
+US BANCORP \DE\|36104|1999-11-05|https://www.sec.gov/Archives/edgar/data/36104/000095017299001517/0000950172-99-001517.txt
+US BANCORP \DE\|36104|1999-12-06|https://www.sec.gov/Archives/edgar/data/36104/000095017299001724/0000950172-99-001724.txt
+PINNACLE WEST CAPITAL CORP|764622|1999-12-10|https://www.sec.gov/Archives/edgar/data/764622/000095014799001425/0000950147-99-001425.txt

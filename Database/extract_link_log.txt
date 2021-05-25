@@ -1,0 +1,258 @@
+Reading idx file for 1993-QTR1
+Runtime for 1993-QTR1: 0
+403: 1993-QTR2 index file not fetched. Re-fetching
+Reading idx file for 1993-QTR2
+Runtime for 1993-QTR2: 0
+Reading idx file for 1993-QTR3
+Runtime for 1993-QTR3: 0
+Reading idx file for 1993-QTR4
+Runtime for 1993-QTR4: 0
+403: 1994-QTR1 index file not fetched. Re-fetching
+Reading idx file for 1994-QTR1
+Runtime for 1994-QTR1: 0
+Reading idx file for 1994-QTR2
+Runtime for 1994-QTR2: 0
+Reading idx file for 1994-QTR3
+Runtime for 1994-QTR3: 0
+403: 1994-QTR4 index file not fetched. Re-fetching
+Reading idx file for 1994-QTR4
+Runtime for 1994-QTR4: 1
+Reading idx file for 1995-QTR1
+Runtime for 1995-QTR1: 0
+Reading idx file for 1995-QTR2
+Runtime for 1995-QTR2: 0
+403: 1995-QTR3 index file not fetched. Re-fetching
+Reading idx file for 1995-QTR3
+Runtime for 1995-QTR3: 0
+Reading idx file for 1995-QTR4
+Runtime for 1995-QTR4: 1
+Reading idx file for 1996-QTR1
+Runtime for 1996-QTR1: 1
+Reading idx file for 1996-QTR2
+Runtime for 1996-QTR2: 1
+Reading idx file for 1996-QTR3
+Runtime for 1996-QTR3: 2
+Reading idx file for 1996-QTR4
+Runtime for 1996-QTR4: 3
+Reading idx file for 1997-QTR1
+Runtime for 1997-QTR1: 5
+Reading idx file for 1997-QTR2
+Runtime for 1997-QTR2: 3
+403: 1997-QTR3 index file not fetched. Re-fetching
+Reading idx file for 1997-QTR3
+Runtime for 1997-QTR3: 4
+Reading idx file for 1997-QTR4
+Runtime for 1997-QTR4: 3
+Reading idx file for 1998-QTR1
+Runtime for 1998-QTR1: 3
+Reading idx file for 1998-QTR2
+Runtime for 1998-QTR2: 4
+Reading idx file for 1998-QTR3
+Runtime for 1998-QTR3: 6
+Reading idx file for 1998-QTR4
+Runtime for 1998-QTR4: 4
+Reading idx file for 1999-QTR1
+Runtime for 1999-QTR1: 2
+Reading idx file for 1999-QTR2
+Runtime for 1999-QTR2: 5
+Reading idx file for 1999-QTR3
+Runtime for 1999-QTR3: 4
+Reading idx file for 1999-QTR4
+Runtime for 1999-QTR4: 7
+Reading idx file for 2000-QTR1
+Runtime for 2000-QTR1: 7
+Reading idx file for 2000-QTR2
+Runtime for 2000-QTR2: 4
+Reading idx file for 2000-QTR3
+Runtime for 2000-QTR3: 6
+Reading idx file for 2000-QTR4
+Runtime for 2000-QTR4: 4
+Reading idx file for 2001-QTR1
+Runtime for 2001-QTR1: 5
+Reading idx file for 2001-QTR2
+Runtime for 2001-QTR2: 11
+Reading idx file for 2001-QTR3
+Runtime for 2001-QTR3: 5
+Reading idx file for 2001-QTR4
+Runtime for 2001-QTR4: 4
+Reading idx file for 2002-QTR1
+Runtime for 2002-QTR1: 4
+Reading idx file for 2002-QTR2
+Runtime for 2002-QTR2: 9
+Reading idx file for 2002-QTR3
+Runtime for 2002-QTR3: 20
+Reading idx file for 2002-QTR4
+Runtime for 2002-QTR4: 74
+403: 2003-QTR1 index file not fetched. Re-fetching
+Reading idx file for 2003-QTR1
+Runtime for 2003-QTR1: 100
+403: 2003-QTR2 index file not fetched. Re-fetching
+Reading idx file for 2003-QTR2
+Runtime for 2003-QTR2: 132
+Reading idx file for 2003-QTR3
+Runtime for 2003-QTR3: 232
+Reading idx file for 2003-QTR4
+Runtime for 2003-QTR4: 250
+Reading idx file for 2004-QTR1
+Runtime for 2004-QTR1: 364
+403: 2004-QTR2 index file not fetched. Re-fetching
+Reading idx file for 2004-QTR2
+Runtime for 2004-QTR2: 310
+Reading idx file for 2004-QTR3
+Runtime for 2004-QTR3: 238
+403: 2004-QTR4 index file not fetched. Re-fetching
+403: 2004-QTR4 index file not fetched. Re-fetching
+Reading idx file for 2004-QTR4
+Runtime for 2004-QTR4: 280
+Reading idx file for 2005-QTR1
+Runtime for 2005-QTR1: 357
+403: 2005-QTR2 index file not fetched. Re-fetching
+403: 2005-QTR2 index file not fetched. Re-fetching
+Reading idx file for 2005-QTR2
+Runtime for 2005-QTR2: 289
+Reading idx file for 2005-QTR3
+Runtime for 2005-QTR3: 244
+Reading idx file for 2005-QTR4
+Runtime for 2005-QTR4: 281
+Reading idx file for 2006-QTR1
+Runtime for 2006-QTR1: 384
+Reading idx file for 2006-QTR2
+Runtime for 2006-QTR2: 288
+403: 2006-QTR3 index file not fetched. Re-fetching
+Reading idx file for 2006-QTR3
+Runtime for 2006-QTR3: 243
+Reading idx file for 2006-QTR4
+Runtime for 2006-QTR4: 293
+403: 2007-QTR1 index file not fetched. Re-fetching
+Reading idx file for 2007-QTR1
+Runtime for 2007-QTR1: 466
+Reading idx file for 2007-QTR2
+Runtime for 2007-QTR2: 334
+Reading idx file for 2007-QTR3
+Runtime for 2007-QTR3: 289
+403: 2007-QTR4 index file not fetched. Re-fetching
+Reading idx file for 2007-QTR4
+Runtime for 2007-QTR4: 307
+403: 2008-QTR1 index file not fetched. Re-fetching
+Reading idx file for 2008-QTR1
+Runtime for 2008-QTR1: 390
+Reading idx file for 2008-QTR2
+Runtime for 2008-QTR2: 370
+Reading idx file for 2008-QTR3
+Runtime for 2008-QTR3: 242
+Reading idx file for 2008-QTR4
+Runtime for 2008-QTR4: 232
+403: 2009-QTR1 index file not fetched. Re-fetching
+Reading idx file for 2009-QTR1
+Runtime for 2009-QTR1: 338
+403: 2009-QTR2 index file not fetched. Re-fetching
+Reading idx file for 2009-QTR2
+Runtime for 2009-QTR2: 248
+Reading idx file for 2009-QTR3
+Runtime for 2009-QTR3: 213
+Reading idx file for 2009-QTR4
+Runtime for 2009-QTR4: 270
+Reading idx file for 2010-QTR1
+Runtime for 2010-QTR1: 359
+403: 2010-QTR2 index file not fetched. Re-fetching
+Reading idx file for 2010-QTR2
+Runtime for 2010-QTR2: 273
+Reading idx file for 2010-QTR3
+Runtime for 2010-QTR3: 234
+403: 2010-QTR4 index file not fetched. Re-fetching
+Reading idx file for 2010-QTR4
+Runtime for 2010-QTR4: 304
+Reading idx file for 2011-QTR1
+Runtime for 2011-QTR1: 406
+Reading idx file for 2011-QTR2
+Runtime for 2011-QTR2: 323
+Reading idx file for 2011-QTR3
+Runtime for 2011-QTR3: 234
+403: 2011-QTR4 index file not fetched. Re-fetching
+Reading idx file for 2011-QTR4
+Runtime for 2011-QTR4: 280
+Reading idx file for 2012-QTR1
+Runtime for 2012-QTR1: 433
+403: 2012-QTR2 index file not fetched. Re-fetching
+Reading idx file for 2012-QTR2
+Runtime for 2012-QTR2: 315
+Reading idx file for 2012-QTR3
+Runtime for 2012-QTR3: 248
+Reading idx file for 2012-QTR4
+Runtime for 2012-QTR4: 301
+Reading idx file for 2013-QTR1
+Runtime for 2013-QTR1: 410
+Reading idx file for 2013-QTR2
+Runtime for 2013-QTR2: 299
+403: 2013-QTR3 index file not fetched. Re-fetching
+Reading idx file for 2013-QTR3
+Runtime for 2013-QTR3: 222
+Reading idx file for 2013-QTR4
+Runtime for 2013-QTR4: 255
+Reading idx file for 2014-QTR1
+Runtime for 2014-QTR1: 396
+Reading idx file for 2014-QTR2
+Runtime for 2014-QTR2: 282
+403: 2014-QTR3 index file not fetched. Re-fetching
+Reading idx file for 2014-QTR3
+Runtime for 2014-QTR3: 215
+Reading idx file for 2014-QTR4
+Runtime for 2014-QTR4: 252
+Reading idx file for 2015-QTR1
+Runtime for 2015-QTR1: 421
+Reading idx file for 2015-QTR2
+Runtime for 2015-QTR2: 274
+Reading idx file for 2015-QTR3
+Runtime for 2015-QTR3: 216
+Reading idx file for 2015-QTR4
+Runtime for 2015-QTR4: 232
+Reading idx file for 2016-QTR1
+Runtime for 2016-QTR1: 385
+403: 2016-QTR2 index file not fetched. Re-fetching
+Reading idx file for 2016-QTR2
+Runtime for 2016-QTR2: 295
+403: 2016-QTR3 index file not fetched. Re-fetching
+Reading idx file for 2016-QTR3
+Runtime for 2016-QTR3: 232
+Reading idx file for 2016-QTR4
+Runtime for 2016-QTR4: 247
+Reading idx file for 2017-QTR1
+Runtime for 2017-QTR1: 434
+403: 2017-QTR2 index file not fetched. Re-fetching
+Reading idx file for 2017-QTR2
+Runtime for 2017-QTR2: 305
+Reading idx file for 2017-QTR3
+Runtime for 2017-QTR3: 203
+403: 2017-QTR4 index file not fetched. Re-fetching
+Reading idx file for 2017-QTR4
+Runtime for 2017-QTR4: 235
+403: 2018-QTR1 index file not fetched. Re-fetching
+Reading idx file for 2018-QTR1
+Runtime for 2018-QTR1: 426
+403: 2018-QTR2 index file not fetched. Re-fetching
+Reading idx file for 2018-QTR2
+Runtime for 2018-QTR2: 326
+Reading idx file for 2018-QTR3
+Runtime for 2018-QTR3: 233
+Reading idx file for 2018-QTR4
+Runtime for 2018-QTR4: 230
+Reading idx file for 2019-QTR1
+Runtime for 2019-QTR1: 412
+403: 2019-QTR2 index file not fetched. Re-fetching
+Reading idx file for 2019-QTR2
+Runtime for 2019-QTR2: 316
+Reading idx file for 2019-QTR3
+Runtime for 2019-QTR3: 231
+Reading idx file for 2019-QTR4
+Runtime for 2019-QTR4: 251
+Reading idx file for 2020-QTR1
+Runtime for 2020-QTR1: 434
+403: 2020-QTR2 index file not fetched. Re-fetching
+Reading idx file for 2020-QTR2
+Runtime for 2020-QTR2: 319
+Reading idx file for 2020-QTR3
+Runtime for 2020-QTR3: 221
+Reading idx file for 2020-QTR4
+Runtime for 2020-QTR4: 261
+Categorising files according to extension
+Recovering files

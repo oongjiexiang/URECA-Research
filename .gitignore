@@ -3,6 +3,6 @@ Archive
 *.csv
 *.ipynb_checkpoints
 *.gv**
-/Database/*
+!/Database/*
 !curl-format.txt
 rationale_use_script.db
