@@ -5,4 +5,5 @@ Archive
 *.gv**
 !/Database/*
 !curl-format.txt
+!/Metadata/*
 rationale_use_script.db
