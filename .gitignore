@@ -6,4 +6,5 @@ Archive
 !/Database/*
 !curl-format.txt
 !/Metadata/*
+!/setup/*
 rationale_use_script.db
