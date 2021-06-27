@@ -5,9 +5,10 @@ This research has two objectives
 2. Produce a data pipeline to automate the scraping and cleaning of Form 4 data as much as possible. Large-scale analysis of Form 4 data only began in 2012 by the reference paper.
 
 ## Setup
-After cloning this repository,
-`pip install -r setup/requirements.txt`
-Alternatively, for Anaconda users,
+After cloning this repository,  
+`pip install -r setup/requirements.txt`  
+
+Alternatively, for Anaconda users,  
 `conda env create --file setup/conda_env.txt`
 
 ## Research Code
