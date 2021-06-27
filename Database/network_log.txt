@@ -1,600 +1,300 @@
-Textron Inc: S-network processed: 6 insiders in the network
-Kraft Heinz Co: S-network processed: 0 insiders in the network
-Tesla Motors Inc: S-network processed: 16 insiders in the network
-Atmos Energy Corp: S-network processed: 5 insiders in the network
-Duke Realty Corp: S-network processed: 10 insiders in the network
-Alliant Energy Corp: S-network processed: 8 insiders in the network
-Holly Corp: S-network processed: 12 insiders in the network
-Tesla Motors Inc: P-network processed: 1 insiders in the network
-Tesla Motors Inc: sale network: exists and is included
-Tesla Motors Inc: purchase network: exists and is included
-Alexandria Real Estate Equities Inc: S-network processed: 16 insiders in the network
-Flir Systems Inc: S-network processed: 17 insiders in the network
-Micron Technology Inc: S-network processed: 18 insiders in the network
-Textron Inc: P-network processed: 0 insiders in the network
-Textron Inc: sale network: exists and is included
-Textron Inc: purchase network: exists and is included
-Kraft Heinz Co: P-network processed: 0 insiders in the network
-Kraft Heinz Co: sale network: exists and is included
-Kraft Heinz Co: purchase network: exists and is included
-Harris Corp De: S-network processed: 15 insiders in the network
-Lockheed Martin Corp: S-network processed: 14 insiders in the network
-Atmos Energy Corp: P-network processed: 1 insiders in the network
-Atmos Energy Corp: sale network: exists and is included
-Atmos Energy Corp: purchase network: exists and is included
-Mastercard Inc: S-network processed: 18 insiders in the network
-Illinois Tool Works Inc: S-network processed: 27 insiders in the network
-Alexandria Real Estate Equities Inc: P-network processed: 0 insiders in the network
-Alexandria Real Estate Equities Inc: sale network: exists and is included
-Alexandria Real Estate Equities Inc: purchase network: exists and is included
-Fortune Brands Home  Security Inc: S-network processed: 8 insiders in the network
-Flir Systems Inc: P-network processed: 0 insiders in the network
-Flir Systems Inc: sale network: exists and is included
-Flir Systems Inc: purchase network: exists and is included
-Paypal Holdings Inc: S-network processed: 9 insiders in the network
-Duke Realty Corp: P-network processed: 0 insiders in the network
-Duke Realty Corp: sale network: exists and is included
-Duke Realty Corp: purchase network: exists and is included
-Alliant Energy Corp: P-network processed: 5 insiders in the network
-Alliant Energy Corp: sale network: exists and is included
-Alliant Energy Corp: purchase network: exists and is included
-Holly Corp: P-network processed: 1 insiders in the network
-Holly Corp: sale network: exists and is included
-Holly Corp: purchase network: exists and is included
-Micron Technology Inc: P-network processed: 0 insiders in the network
-Micron Technology Inc: sale network: exists and is included
-Micron Technology Inc: purchase network: exists and is included
-Paypal Holdings Inc: P-network processed: 0 insiders in the network
-Paypal Holdings Inc: sale network: exists and is included
-Paypal Holdings Inc: purchase network: exists and is included
-Fortune Brands Home  Security Inc: P-network processed: 0 insiders in the network
-Fortune Brands Home  Security Inc: sale network: exists and is included
-Fortune Brands Home  Security Inc: purchase network: exists and is included
-Copart Inc: S-network processed: 19 insiders in the network
-Priceline Com Inc: S-network processed: 14 insiders in the network
-Mastercard Inc: P-network processed: 0 insiders in the network
-Mastercard Inc: sale network: exists and is included
-Mastercard Inc: purchase network: exists and is included
-Advance Auto Parts Inc: S-network processed: 14 insiders in the network
-Harris Corp De: P-network processed: 0 insiders in the network
-Harris Corp De: sale network: exists and is included
-Harris Corp De: purchase network: exists and is included
-Host Marriott Corp: S-network processed: 10 insiders in the network
-Ihs Markit Ltd: S-network processed: 6 insiders in the network
-Synopsys Inc: S-network processed: 18 insiders in the network
-Lockheed Martin Corp: P-network processed: 0 insiders in the network
-Lockheed Martin Corp: sale network: exists and is included
-Lockheed Martin Corp: purchase network: exists and is included
-Illinois Tool Works Inc: P-network processed: 0 insiders in the network
-Illinois Tool Works Inc: sale network: exists and is included
-Illinois Tool Works Inc: purchase network: exists and is included
-Copart Inc: P-network processed: 1 insiders in the network
-Copart Inc: sale network: exists and is included
-Copart Inc: purchase network: exists and is included
-Amazon Com Inc: S-network processed: 23 insiders in the network
-Ihs Markit Ltd: P-network processed: 0 insiders in the network
-Ihs Markit Ltd: sale network: exists and is included
-Ihs Markit Ltd: purchase network: exists and is included
-United Parcel Service Inc: S-network processed: 14 insiders in the network
-Cvs Corp: S-network processed: 16 insiders in the network
-Host Marriott Corp: P-network processed: 0 insiders in the network
-Host Marriott Corp: sale network: exists and is included
-Host Marriott Corp: purchase network: exists and is included
-Cb Richard Ellis Group Inc: S-network processed: 17 insiders in the network
-Priceline Com Inc: P-network processed: 0 insiders in the network
-Priceline Com Inc: sale network: exists and is included
-Priceline Com Inc: purchase network: exists and is included
-Synopsys Inc: P-network processed: 0 insiders in the network
-Synopsys Inc: sale network: exists and is included
-Synopsys Inc: purchase network: exists and is included
-Broadcom Inc: S-network processed: 6 insiders in the network
-Broadcom Inc: P-network processed: 0 insiders in the network
-Broadcom Inc: sale network: exists and is included
-Broadcom Inc: purchase network: exists and is included
-Amazon Com Inc: P-network processed: 1 insiders in the network
-Amazon Com Inc: sale network: exists and is included
-Amazon Com Inc: purchase network: exists and is included
-Cabot Oil  Gas Corp: S-network processed: 11 insiders in the network
-Advance Auto Parts Inc: P-network processed: 2 insiders in the network
-Advance Auto Parts Inc: sale network: exists and is included
-Advance Auto Parts Inc: purchase network: exists and is included
-Linde Plc: S-network processed: 1 insiders in the network
-Marathon Oil Corp: S-network processed: 7 insiders in the network
-Cb Richard Ellis Group Inc: P-network processed: 2 insiders in the network
-Cb Richard Ellis Group Inc: sale network: exists and is included
-Cb Richard Ellis Group Inc: purchase network: exists and is included
-Blackrock Inc: S-network processed: 19 insiders in the network
-Linde Plc: P-network processed: 0 insiders in the network
-Linde Plc: sale network: exists and is included
-Linde Plc: purchase network: exists and is included
-Autozone Inc: S-network processed: 23 insiders in the network
-Intuit Inc: S-network processed: 22 insiders in the network
-Cabot Oil  Gas Corp: P-network processed: 1 insiders in the network
-Cabot Oil  Gas Corp: sale network: exists and is included
-Cabot Oil  Gas Corp: purchase network: exists and is included
-Fox Corp: S-network processed: 0 insiders in the network
-Phillips Van Heusen Corp De: S-network processed: 22 insiders in the network
-United Parcel Service Inc: P-network processed: 0 insiders in the network
-United Parcel Service Inc: sale network: exists and is included
-United Parcel Service Inc: purchase network: exists and is included
-Fox Corp: P-network processed: 0 insiders in the network
-Fox Corp: sale network: exists and is included
-Fox Corp: purchase network: exists and is included
-Cvs Corp: P-network processed: 1 insiders in the network
-Cvs Corp: sale network: exists and is included
-Cvs Corp: purchase network: exists and is included
-Walt Disney Co: S-network processed: 3 insiders in the network
-Walt Disney Co: P-network processed: 0 insiders in the network
-Walt Disney Co: sale network: exists and is included
-Walt Disney Co: purchase network: exists and is included
-Marathon Oil Corp: P-network processed: 1 insiders in the network
-Marathon Oil Corp: sale network: exists and is included
-Marathon Oil Corp: purchase network: exists and is included
-Amcor Plc: S-network processed: 0 insiders in the network
-Mosaic Co: S-network processed: 5 insiders in the network
-Mcgrawhill Companies Inc: S-network processed: 10 insiders in the network
-Public Service Enterprise Group Inc: S-network processed: 14 insiders in the network
-Phillips Van Heusen Corp De: P-network processed: 1 insiders in the network
-Phillips Van Heusen Corp De: sale network: exists and is included
-Phillips Van Heusen Corp De: purchase network: exists and is included
-Electronic Arts Inc: S-network processed: 27 insiders in the network
-Amcor Plc: P-network processed: 0 insiders in the network
-Amcor Plc: sale network: exists and is included
-Amcor Plc: purchase network: exists and is included
-Intuit Inc: P-network processed: 0 insiders in the network
-Intuit Inc: sale network: exists and is included
-Intuit Inc: purchase network: exists and is included
-Autozone Inc: P-network processed: 2 insiders in the network
-Autozone Inc: sale network: exists and is included
-Autozone Inc: purchase network: exists and is included
-Avalonbay Communities Inc: S-network processed: 18 insiders in the network
-Nxp Semiconductors Nv: S-network processed: 0 insiders in the network
-Alcoa Inc: S-network processed: 5 insiders in the network
-Blackrock Inc: P-network processed: 4 insiders in the network
-Blackrock Inc: sale network: exists and is included
-Blackrock Inc: purchase network: exists and is included
-Nike Inc: S-network processed: 25 insiders in the network
-Nxp Semiconductors Nv: P-network processed: 0 insiders in the network
-Nxp Semiconductors Nv: sale network: exists and is included
-Nxp Semiconductors Nv: purchase network: exists and is included
-Public Service Enterprise Group Inc: P-network processed: 1 insiders in the network
-Public Service Enterprise Group Inc: sale network: exists and is included
-Public Service Enterprise Group Inc: purchase network: exists and is included
-Carrier Global Corp: S-network processed: 0 insiders in the network
-Avalonbay Communities Inc: P-network processed: 1 insiders in the network
-Avalonbay Communities Inc: sale network: exists and is included
-Avalonbay Communities Inc: purchase network: exists and is included
-Mosaic Co: P-network processed: 2 insiders in the network
-Mosaic Co: sale network: exists and is included
-Mosaic Co: purchase network: exists and is included
-Chevrontexaco Corp: S-network processed: 13 insiders in the network
-Carrier Global Corp: P-network processed: 0 insiders in the network
-Carrier Global Corp: sale network: exists and is included
-Carrier Global Corp: purchase network: exists and is included
-Electronic Arts Inc: P-network processed: 0 insiders in the network
-Electronic Arts Inc: sale network: exists and is included
-Electronic Arts Inc: purchase network: exists and is included
-Mcgrawhill Companies Inc: P-network processed: 0 insiders in the network
-Mcgrawhill Companies Inc: sale network: exists and is included
-Mcgrawhill Companies Inc: purchase network: exists and is included
-Dominos Pizza Inc: S-network processed: 17 insiders in the network
-Nike Inc: P-network processed: 1 insiders in the network
-Nike Inc: sale network: exists and is included
-Nike Inc: purchase network: exists and is included
-Facebook Inc: S-network processed: 18 insiders in the network
-Gallagher Arthur J  Co: S-network processed: 16 insiders in the network
-Saic Inc: S-network processed: 6 insiders in the network
-Williams Companies Inc: S-network processed: 16 insiders in the network
-Torchmark Corp: S-network processed: 36 insiders in the network
-Chevrontexaco Corp: P-network processed: 0 insiders in the network
-Chevrontexaco Corp: sale network: exists and is included
-Chevrontexaco Corp: purchase network: exists and is included
-Lilly Eli  Co: S-network processed: 16 insiders in the network
-Mt Bank Corp: S-network processed: 23 insiders in the network
-Dominos Pizza Inc: P-network processed: 1 insiders in the network
-Dominos Pizza Inc: sale network: exists and is included
-Dominos Pizza Inc: purchase network: exists and is included
-Kla Tencor Corp: S-network processed: 21 insiders in the network
-Alcoa Inc: P-network processed: 7 insiders in the network
-Alcoa Inc: sale network: exists and is included
-Alcoa Inc: purchase network: exists and is included
-Gallagher Arthur J  Co: P-network processed: 0 insiders in the network
-Gallagher Arthur J  Co: sale network: exists and is included
-Gallagher Arthur J  Co: purchase network: exists and is included
-Facebook Inc: P-network processed: 0 insiders in the network
-Facebook Inc: sale network: exists and is included
-Facebook Inc: purchase network: exists and is included
-Verizon Communications Inc: S-network processed: 8 insiders in the network
-Marketaxess Holdings Inc: S-network processed: 7 insiders in the network
-Schering Plough Corp: S-network processed: 10 insiders in the network
-Norwegian Cruise Line Holdings Ltd: S-network processed: 5 insiders in the network
-Kla Tencor Corp: P-network processed: 0 insiders in the network
-Kla Tencor Corp: sale network: exists and is included
-Kla Tencor Corp: purchase network: exists and is included
-Mettler Toledo International Inc: S-network processed: 21 insiders in the network
-Marketaxess Holdings Inc: P-network processed: 0 insiders in the network
-Marketaxess Holdings Inc: sale network: exists and is included
-Marketaxess Holdings Inc: purchase network: exists and is included
-Norwegian Cruise Line Holdings Ltd: P-network processed: 0 insiders in the network
-Norwegian Cruise Line Holdings Ltd: sale network: exists and is included
-Norwegian Cruise Line Holdings Ltd: purchase network: exists and is included
-Nasdaq Stock Market Inc: S-network processed: 18 insiders in the network
-Williams Companies Inc: P-network processed: 3 insiders in the network
-Williams Companies Inc: sale network: exists and is included
-Williams Companies Inc: purchase network: exists and is included
-Torchmark Corp: P-network processed: 3 insiders in the network
-Torchmark Corp: sale network: exists and is included
-Torchmark Corp: purchase network: exists and is included
-Saic Inc: P-network processed: 0 insiders in the network
-Saic Inc: sale network: exists and is included
-Saic Inc: purchase network: exists and is included
-Lilly Eli  Co: P-network processed: 1 insiders in the network
-Lilly Eli  Co: sale network: exists and is included
-Lilly Eli  Co: purchase network: exists and is included
-Mt Bank Corp: P-network processed: 1 insiders in the network
-Mt Bank Corp: sale network: exists and is included
-Mt Bank Corp: purchase network: exists and is included
-Mettler Toledo International Inc: P-network processed: 1 insiders in the network
-Mettler Toledo International Inc: sale network: exists and is included
-Mettler Toledo International Inc: purchase network: exists and is included
-Zoetis Inc: S-network processed: 7 insiders in the network
-Freeport Mcmoran Copper  Gold Inc: S-network processed: 9 insiders in the network
-Verizon Communications Inc: P-network processed: 1 insiders in the network
-Verizon Communications Inc: sale network: exists and is included
-Verizon Communications Inc: purchase network: exists and is included
-Mccormick  Co Inc: S-network processed: 11 insiders in the network
-Amb Property Corp: S-network processed: 17 insiders in the network
-3M Co: S-network processed: 22 insiders in the network
-Freeport Mcmoran Copper  Gold Inc: P-network processed: 3 insiders in the network
-Freeport Mcmoran Copper  Gold Inc: sale network: exists and is included
-Freeport Mcmoran Copper  Gold Inc: purchase network: exists and is included
-Garmin Ltd: S-network processed: 15 insiders in the network
-Zoetis Inc: P-network processed: 0 insiders in the network
-Zoetis Inc: sale network: exists and is included
-Zoetis Inc: purchase network: exists and is included
-Starbucks Corp: S-network processed: 22 insiders in the network
-Nasdaq Stock Market Inc: P-network processed: 2 insiders in the network
-Nasdaq Stock Market Inc: sale network: exists and is included
-Nasdaq Stock Market Inc: purchase network: exists and is included
-Amb Property Corp: P-network processed: 0 insiders in the network
-Amb Property Corp: sale network: exists and is included
-Amb Property Corp: purchase network: exists and is included
-Mohawk Industries Inc: S-network processed: 18 insiders in the network
-Garmin Ltd: P-network processed: 0 insiders in the network
-Garmin Ltd: sale network: exists and is included
-Garmin Ltd: purchase network: exists and is included
-Mccormick  Co Inc: P-network processed: 0 insiders in the network
-Mccormick  Co Inc: sale network: exists and is included
-Mccormick  Co Inc: purchase network: exists and is included
-Ipg Photonics Corp: S-network processed: 28 insiders in the network
-Schering Plough Corp: P-network processed: 0 insiders in the network
-Schering Plough Corp: sale network: exists and is included
-Schering Plough Corp: purchase network: exists and is included
-Mohawk Industries Inc: P-network processed: 1 insiders in the network
-Mohawk Industries Inc: sale network: exists and is included
-Mohawk Industries Inc: purchase network: exists and is included
-Intercontinentalexchange Group Inc: S-network processed: 17 insiders in the network
-Danaher Corp De: S-network processed: 19 insiders in the network
-Hewlett Packard Co: S-network processed: 32 insiders in the network
-Silicon Valley Bancshares: S-network processed: 18 insiders in the network
-Ipg Photonics Corp: P-network processed: 0 insiders in the network
-Ipg Photonics Corp: sale network: exists and is included
-Ipg Photonics Corp: purchase network: exists and is included
-Sempra Energy: S-network processed: 14 insiders in the network
-Starbucks Corp: P-network processed: 1 insiders in the network
-Starbucks Corp: sale network: exists and is included
-Starbucks Corp: purchase network: exists and is included
-Intercontinentalexchange Group Inc: P-network processed: 0 insiders in the network
-Intercontinentalexchange Group Inc: sale network: exists and is included
-Intercontinentalexchange Group Inc: purchase network: exists and is included
-Danaher Corp De: P-network processed: 1 insiders in the network
-Danaher Corp De: sale network: exists and is included
-Danaher Corp De: purchase network: exists and is included
-Constellation Brands Inc: S-network processed: 15 insiders in the network
-Dexcom Inc: S-network processed: 23 insiders in the network
-Altria Group Inc: S-network processed: 6 insiders in the network
-3M Co: P-network processed: 0 insiders in the network
-3M Co: sale network: exists and is included
-3M Co: purchase network: exists and is included
-Paycom Software Inc: S-network processed: 10 insiders in the network
-Dte Energy Co: S-network processed: 15 insiders in the network
-Dentsply International Inc De: S-network processed: 15 insiders in the network
-Sempra Energy: P-network processed: 0 insiders in the network
-Sempra Energy: sale network: exists and is included
-Sempra Energy: purchase network: exists and is included
-Silicon Valley Bancshares: P-network processed: 0 insiders in the network
-Silicon Valley Bancshares: sale network: exists and is included
-Silicon Valley Bancshares: purchase network: exists and is included
-Microchip Technology Inc: S-network processed: 12 insiders in the network
-Microchip Technology Inc: P-network processed: 0 insiders in the network
-Microchip Technology Inc: sale network: exists and is included
-Microchip Technology Inc: purchase network: exists and is included
-Cincinnati Financial Corp: S-network processed: 1 insiders in the network
-Paycom Software Inc: P-network processed: 2 insiders in the network
-Paycom Software Inc: sale network: exists and is included
-Paycom Software Inc: purchase network: exists and is included
-Ebay Inc: S-network processed: 27 insiders in the network
-Dexcom Inc: P-network processed: 3 insiders in the network
-Dexcom Inc: sale network: exists and is included
-Dexcom Inc: purchase network: exists and is included
-Coach Inc: S-network processed: 12 insiders in the network
-Constellation Brands Inc: P-network processed: 0 insiders in the network
-Constellation Brands Inc: sale network: exists and is included
-Constellation Brands Inc: purchase network: exists and is included
-Metropcs Communications Inc: S-network processed: 14 insiders in the network
-Dte Energy Co: P-network processed: 0 insiders in the network
-Dte Energy Co: sale network: exists and is included
-Dte Energy Co: purchase network: exists and is included
-Altria Group Inc: P-network processed: 0 insiders in the network
-Altria Group Inc: sale network: exists and is included
-Altria Group Inc: purchase network: exists and is included
-Extra Space Storage Inc: S-network processed: 11 insiders in the network
-Dentsply International Inc De: P-network processed: 0 insiders in the network
-Dentsply International Inc De: sale network: exists and is included
-Dentsply International Inc De: purchase network: exists and is included
-Arista Networks Inc: S-network processed: 13 insiders in the network
-Fmc Corp: S-network processed: 12 insiders in the network
-Cincinnati Financial Corp: P-network processed: 6 insiders in the network
-Cincinnati Financial Corp: sale network: exists and is included
-Cincinnati Financial Corp: purchase network: exists and is included
-Dollar General Corp: S-network processed: 16 insiders in the network
-Arista Networks Inc: P-network processed: 0 insiders in the network
-Arista Networks Inc: sale network: exists and is included
-Arista Networks Inc: purchase network: exists and is included
-Extra Space Storage Inc: P-network processed: 1 insiders in the network
-Extra Space Storage Inc: sale network: exists and is included
-Extra Space Storage Inc: purchase network: exists and is included
-Coach Inc: P-network processed: 2 insiders in the network
-Coach Inc: sale network: exists and is included
-Coach Inc: purchase network: exists and is included
-Hewlett Packard Co: P-network processed: 0 insiders in the network
-Hewlett Packard Co: sale network: exists and is included
-Hewlett Packard Co: purchase network: exists and is included
-Kimberly Clark Corp: S-network processed: 14 insiders in the network
-Amr Corp: S-network processed: 9 insiders in the network
-Fmc Corp: P-network processed: 0 insiders in the network
-Fmc Corp: sale network: exists and is included
-Fmc Corp: purchase network: exists and is included
-Walgreens Boots Alliance Inc: S-network processed: 2 insiders in the network
-Metropcs Communications Inc: P-network processed: 1 insiders in the network
-Metropcs Communications Inc: sale network: exists and is included
-Metropcs Communications Inc: purchase network: exists and is included
-Ebay Inc: P-network processed: 0 insiders in the network
-Ebay Inc: sale network: exists and is included
-Ebay Inc: purchase network: exists and is included
-Cf Industries Holdings Inc: S-network processed: 8 insiders in the network
-Sealed Air Corpde: S-network processed: 8 insiders in the network
-Expeditors International Of Washington Inc: S-network processed: 22 insiders in the network
-Walgreens Boots Alliance Inc: P-network processed: 0 insiders in the network
-Walgreens Boots Alliance Inc: sale network: exists and is included
-Walgreens Boots Alliance Inc: purchase network: exists and is included
-Raymond James Financial Inc: S-network processed: 21 insiders in the network
-Amr Corp: P-network processed: 0 insiders in the network
-Amr Corp: sale network: exists and is included
-Amr Corp: purchase network: exists and is included
-Public Storage: S-network processed: 10 insiders in the network
-Dollar General Corp: P-network processed: 4 insiders in the network
-Dollar General Corp: sale network: exists and is included
-Dollar General Corp: purchase network: exists and is included
-Kimberly Clark Corp: P-network processed: 1 insiders in the network
-Kimberly Clark Corp: sale network: exists and is included
-Kimberly Clark Corp: purchase network: exists and is included
-Cf Industries Holdings Inc: P-network processed: 3 insiders in the network
-Cf Industries Holdings Inc: sale network: exists and is included
-Cf Industries Holdings Inc: purchase network: exists and is included
-Medtronic Plc: S-network processed: 7 insiders in the network
-Expeditors International Of Washington Inc: P-network processed: 0 insiders in the network
-Expeditors International Of Washington Inc: sale network: exists and is included
-Expeditors International Of Washington Inc: purchase network: exists and is included
-Echostar Communications Corp: S-network processed: 22 insiders in the network
-Bio Rad Laboratories Inc: S-network processed: 11 insiders in the network
-Hartford Financial Services Group Incde: S-network processed: 10 insiders in the network
-Public Storage: P-network processed: 5 insiders in the network
-Public Storage: sale network: exists and is included
-Public Storage: purchase network: exists and is included
-Sysco Corp: S-network processed: 28 insiders in the network
-Akamai Technologies Inc: S-network processed: 19 insiders in the network
-Abbott Laboratories: S-network processed: 38 insiders in the network
-Medtronic Plc: P-network processed: 1 insiders in the network
-Medtronic Plc: sale network: exists and is included
-Medtronic Plc: purchase network: exists and is included
-Sealed Air Corpde: P-network processed: 4 insiders in the network
-Sealed Air Corpde: sale network: exists and is included
-Sealed Air Corpde: purchase network: exists and is included
-Bio Rad Laboratories Inc: P-network processed: 0 insiders in the network
-Bio Rad Laboratories Inc: sale network: exists and is included
-Bio Rad Laboratories Inc: purchase network: exists and is included
-Raymond James Financial Inc: P-network processed: 8 insiders in the network
-Raymond James Financial Inc: sale network: exists and is included
-Raymond James Financial Inc: purchase network: exists and is included
-Apple Computer Inc: S-network processed: 25 insiders in the network
-Health Care Property Investors Inc: S-network processed: 14 insiders in the network
-Visa Inc: S-network processed: 12 insiders in the network
-Akamai Technologies Inc: P-network processed: 2 insiders in the network
-Akamai Technologies Inc: sale network: exists and is included
-Akamai Technologies Inc: purchase network: exists and is included
-Realty Income Corp: S-network processed: 11 insiders in the network
-Dover Corp: S-network processed: 11 insiders in the network
-Hartford Financial Services Group Incde: P-network processed: 1 insiders in the network
-Hartford Financial Services Group Incde: sale network: exists and is included
-Hartford Financial Services Group Incde: purchase network: exists and is included
-Sysco Corp: P-network processed: 0 insiders in the network
-Sysco Corp: sale network: exists and is included
-Sysco Corp: purchase network: exists and is included
-Quest Diagnostics Inc: S-network processed: 20 insiders in the network
-Apple Computer Inc: P-network processed: 0 insiders in the network
-Apple Computer Inc: sale network: exists and is included
-Apple Computer Inc: purchase network: exists and is included
-Visa Inc: P-network processed: 0 insiders in the network
-Visa Inc: sale network: exists and is included
-Visa Inc: purchase network: exists and is included
-Realty Income Corp: P-network processed: 1 insiders in the network
-Realty Income Corp: sale network: exists and is included
-Realty Income Corp: purchase network: exists and is included
-Echostar Communications Corp: P-network processed: 1 insiders in the network
-Echostar Communications Corp: sale network: exists and is included
-Echostar Communications Corp: purchase network: exists and is included
-Hansen Natural Corp: S-network processed: 12 insiders in the network
-Health Care Property Investors Inc: P-network processed: 0 insiders in the network
-Health Care Property Investors Inc: sale network: exists and is included
-Health Care Property Investors Inc: purchase network: exists and is included
-Oracle Corp: S-network processed: 22 insiders in the network
-Target Corp: S-network processed: 20 insiders in the network
-Hansen Natural Corp: P-network processed: 0 insiders in the network
-Hansen Natural Corp: sale network: exists and is included
-Hansen Natural Corp: purchase network: exists and is included
-Ventas Inc: S-network processed: 6 insiders in the network
-Quest Diagnostics Inc: P-network processed: 0 insiders in the network
-Quest Diagnostics Inc: sale network: exists and is included
-Quest Diagnostics Inc: purchase network: exists and is included
-Ingersollrand Plc: S-network processed: 15 insiders in the network
-Oracle Corp: P-network processed: 0 insiders in the network
-Oracle Corp: sale network: exists and is included
-Oracle Corp: purchase network: exists and is included
-Dover Corp: P-network processed: 2 insiders in the network
-Dover Corp: sale network: exists and is included
-Dover Corp: purchase network: exists and is included
-Abbott Laboratories: P-network processed: 0 insiders in the network
-Abbott Laboratories: sale network: exists and is included
-Abbott Laboratories: purchase network: exists and is included
-Ventas Inc: P-network processed: 0 insiders in the network
-Ventas Inc: sale network: exists and is included
-Ventas Inc: purchase network: exists and is included
-Agilent Technologies Inc: S-network processed: 20 insiders in the network
-Us Bancorp De: S-network processed: 25 insiders in the network
-Southern Co: S-network processed: 17 insiders in the network
-Ingersollrand Plc: P-network processed: 1 insiders in the network
-Ingersollrand Plc: sale network: exists and is included
-Ingersollrand Plc: purchase network: exists and is included
-Cisco Systems Inc: S-network processed: 27 insiders in the network
-Target Corp: P-network processed: 0 insiders in the network
-Target Corp: sale network: exists and is included
-Target Corp: purchase network: exists and is included
-Kroger Co: S-network processed: 27 insiders in the network
-Ross Stores Inc: S-network processed: 19 insiders in the network
-Transdigm Group Inc: S-network processed: 16 insiders in the network
-Agilent Technologies Inc: P-network processed: 0 insiders in the network
-Agilent Technologies Inc: sale network: exists and is included
-Agilent Technologies Inc: purchase network: exists and is included
-Verisk Analytics Inc: S-network processed: 16 insiders in the network
-Southern Co: P-network processed: 1 insiders in the network
-Southern Co: sale network: exists and is included
-Southern Co: purchase network: exists and is included
-Cisco Systems Inc: P-network processed: 1 insiders in the network
-Cisco Systems Inc: sale network: exists and is included
-Cisco Systems Inc: purchase network: exists and is included
-Marsh  Mclennan Companies Inc: S-network processed: 12 insiders in the network
-Ross Stores Inc: P-network processed: 0 insiders in the network
-Ross Stores Inc: sale network: exists and is included
-Ross Stores Inc: purchase network: exists and is included
-Verisk Analytics Inc: P-network processed: 1 insiders in the network
-Verisk Analytics Inc: sale network: exists and is included
-Verisk Analytics Inc: purchase network: exists and is included
-Transdigm Group Inc: P-network processed: 2 insiders in the network
-Transdigm Group Inc: sale network: exists and is included
-Transdigm Group Inc: purchase network: exists and is included
-Parker Hannifin Corp: S-network processed: 35 insiders in the network
-Us Bancorp De: P-network processed: 0 insiders in the network
-Us Bancorp De: sale network: exists and is included
-Us Bancorp De: purchase network: exists and is included
-Teledyne Technologies Inc: S-network processed: 16 insiders in the network
-Kroger Co: P-network processed: 1 insiders in the network
-Kroger Co: sale network: exists and is included
-Kroger Co: purchase network: exists and is included
-Generac Holdings Inc: S-network processed: 8 insiders in the network
-Amerisourcebergen Corp: S-network processed: 18 insiders in the network
-Allstate Corp: S-network processed: 23 insiders in the network
-Teledyne Technologies Inc: P-network processed: 1 insiders in the network
-Teledyne Technologies Inc: sale network: exists and is included
-Teledyne Technologies Inc: purchase network: exists and is included
-Nvr Inc: S-network processed: 18 insiders in the network
-Generac Holdings Inc: P-network processed: 0 insiders in the network
-Generac Holdings Inc: sale network: exists and is included
-Generac Holdings Inc: purchase network: exists and is included
-Carnival Corp: S-network processed: 24 insiders in the network
-Marsh  Mclennan Companies Inc: P-network processed: 0 insiders in the network
-Marsh  Mclennan Companies Inc: sale network: exists and is included
-Marsh  Mclennan Companies Inc: purchase network: exists and is included
-Amerisourcebergen Corp: P-network processed: 0 insiders in the network
-Amerisourcebergen Corp: sale network: exists and is included
-Amerisourcebergen Corp: purchase network: exists and is included
-Nvr Inc: P-network processed: 2 insiders in the network
-Nvr Inc: sale network: exists and is included
-Nvr Inc: purchase network: exists and is included
-Intuitive Surgical Inc: S-network processed: 22 insiders in the network
-Parker Hannifin Corp: P-network processed: 1 insiders in the network
-Parker Hannifin Corp: sale network: exists and is included
-Parker Hannifin Corp: purchase network: exists and is included
-Ual Corp De: S-network processed: 12 insiders in the network
-Intuitive Surgical Inc: P-network processed: 0 insiders in the network
-Intuitive Surgical Inc: sale network: exists and is included
-Intuitive Surgical Inc: purchase network: exists and is included
-Carnival Corp: P-network processed: 1 insiders in the network
-Carnival Corp: sale network: exists and is included
-Carnival Corp: purchase network: exists and is included
-Allstate Corp: P-network processed: 0 insiders in the network
-Allstate Corp: sale network: exists and is included
-Allstate Corp: purchase network: exists and is included
-Centurytel Inc: S-network processed: 19 insiders in the network
-Conocophillips: S-network processed: 5 insiders in the network
-Fastenal Co: S-network processed: 14 insiders in the network
-Tyson Foods Inc: S-network processed: 19 insiders in the network
-Fastenal Co: P-network processed: 10 insiders in the network
-Fastenal Co: sale network: exists and is included
-Fastenal Co: purchase network: exists and is included
-Ual Corp De: P-network processed: 2 insiders in the network
-Ual Corp De: sale network: exists and is included
-Ual Corp De: purchase network: exists and is included
-Zimmer Holdings Inc: S-network processed: 12 insiders in the network
-Corning Inc Ny: S-network processed: 28 insiders in the network
-Centurytel Inc: P-network processed: 1 insiders in the network
-Centurytel Inc: sale network: exists and is included
-Centurytel Inc: purchase network: exists and is included
-Conocophillips: P-network processed: 0 insiders in the network
-Conocophillips: sale network: exists and is included
-Conocophillips: purchase network: exists and is included
-Tyson Foods Inc: P-network processed: 0 insiders in the network
-Tyson Foods Inc: sale network: exists and is included
-Tyson Foods Inc: purchase network: exists and is included
-International Flavors  Fragrances Inc: S-network processed: 9 insiders in the network
-Zimmer Holdings Inc: P-network processed: 0 insiders in the network
-Zimmer Holdings Inc: sale network: exists and is included
-Zimmer Holdings Inc: purchase network: exists and is included
-Corning Inc Ny: P-network processed: 0 insiders in the network
-Corning Inc Ny: sale network: exists and is included
-Corning Inc Ny: purchase network: exists and is included
-Pinnacle West Capital Corp: S-network processed: 9 insiders in the network
-Pinnacle West Capital Corp: P-network processed: 0 insiders in the network
-Pinnacle West Capital Corp: sale network: exists and is included
-Pinnacle West Capital Corp: purchase network: exists and is included
-International Flavors  Fragrances Inc: P-network processed: 1 insiders in the network
-International Flavors  Fragrances Inc: sale network: exists and is included
-International Flavors  Fragrances Inc: purchase network: exists and is included
-Amerada Hess Corp: S-network processed: 25 insiders in the network
-Idec Pharmaceuticals Corp  De: S-network processed: 32 insiders in the network
-Amerada Hess Corp: P-network processed: 12 insiders in the network
-Amerada Hess Corp: sale network: exists and is included
-Amerada Hess Corp: purchase network: exists and is included
-Archer Daniels Midland Co: S-network processed: 33 insiders in the network
-Occidental Petroleum Corp De: S-network processed: 13 insiders in the network
-Costco Wholesale Corp New: S-network processed: 23 insiders in the network
-Costco Wholesale Corp New: P-network processed: 0 insiders in the network
-Costco Wholesale Corp New: sale network: exists and is included
-Costco Wholesale Corp New: purchase network: exists and is included
-Idec Pharmaceuticals Corp  De: P-network processed: 3 insiders in the network
-Idec Pharmaceuticals Corp  De: sale network: exists and is included
-Idec Pharmaceuticals Corp  De: purchase network: exists and is included
-Westinghouse Air Brake Technologies Corp: S-network processed: 23 insiders in the network
-Occidental Petroleum Corp De: P-network processed: 1 insiders in the network
-Occidental Petroleum Corp De: sale network: exists and is included
-Occidental Petroleum Corp De: purchase network: exists and is included
-Archer Daniels Midland Co: P-network processed: 4 insiders in the network
-Archer Daniels Midland Co: sale network: exists and is included
-Archer Daniels Midland Co: purchase network: exists and is included
-Penn National Gaming Inc: S-network processed: 16 insiders in the network
-Westinghouse Air Brake Technologies Corp: P-network processed: 0 insiders in the network
-Westinghouse Air Brake Technologies Corp: sale network: exists and is included
-Westinghouse Air Brake Technologies Corp: purchase network: exists and is included
-Penn National Gaming Inc: P-network processed: 3 insiders in the network
-Penn National Gaming Inc: sale network: exists and is included
-Penn National Gaming Inc: purchase network: exists and is included
+Tesla Motors Inc|S|0
+Textron Inc|S|0
+Kraft Heinz Co|S|0
+Atmos Energy Corp|S|0
+Duke Realty Corp|S|0
+Alexandria Real Estate Equities Inc|S|0
+Alliant Energy Corp|S|0
+Flir Systems Inc|S|0
+Holly Corp|S|0
+Tesla Motors Inc|P|0
+Micron Technology Inc|S|0
+Textron Inc|P|0
+Harris Corp De|S|0
+Kraft Heinz Co|P|0
+Mastercard Inc|S|0
+Lockheed Martin Corp|S|0
+Atmos Energy Corp|P|0
+Illinois Tool Works Inc|S|0
+Alexandria Real Estate Equities Inc|P|0
+Flir Systems Inc|P|0
+Fortune Brands Home  Security Inc|S|0
+Duke Realty Corp|P|0
+Paypal Holdings Inc|S|0
+Alliant Energy Corp|P|2
+Micron Technology Inc|P|0
+Holly Corp|P|0
+Copart Inc|S|0
+Fortune Brands Home  Security Inc|P|0
+Amazon Com Inc|S|2
+Paypal Holdings Inc|P|0
+Mastercard Inc|P|0
+Synopsys Inc|S|0
+Priceline Com Inc|S|0
+Harris Corp De|P|0
+Advance Auto Parts Inc|S|0
+Host Marriott Corp|S|0
+Illinois Tool Works Inc|P|0
+Lockheed Martin Corp|P|0
+Ihs Markit Ltd|S|0
+Copart Inc|P|0
+Amazon Com Inc|P|0
+Cvs Corp|S|0
+Cb Richard Ellis Group Inc|S|0
+United Parcel Service Inc|S|0
+Synopsys Inc|P|0
+Host Marriott Corp|P|0
+Priceline Com Inc|P|0
+Ihs Markit Ltd|P|0
+Broadcom Inc|S|0
+Cabot Oil  Gas Corp|S|0
+Marathon Oil Corp|S|0
+Advance Auto Parts Inc|P|0
+Blackrock Inc|S|0
+Broadcom Inc|P|0
+Intuit Inc|S|0
+Cb Richard Ellis Group Inc|P|0
+Autozone Inc|S|2
+Linde Plc|S|0
+Phillips Van Heusen Corp De|S|2
+Cabot Oil  Gas Corp|P|0
+United Parcel Service Inc|P|0
+Cvs Corp|P|0
+Linde Plc|P|0
+Fox Corp|S|0
+Electronic Arts Inc|S|2
+Alcoa Inc|S|0
+Fox Corp|P|0
+Marathon Oil Corp|P|0
+Mosaic Co|S|0
+Walt Disney Co|S|0
+Intuit Inc|P|0
+Mcgrawhill Companies Inc|S|0
+Nike Inc|S|0
+Public Service Enterprise Group Inc|S|0
+Phillips Van Heusen Corp De|P|0
+Autozone Inc|P|0
+Blackrock Inc|P|0
+Walt Disney Co|P|0
+Avalonbay Communities Inc|S|0
+Amcor Plc|S|0
+Facebook Inc|S|0
+Electronic Arts Inc|P|0
+Amcor Plc|P|0
+Avalonbay Communities Inc|P|0
+Public Service Enterprise Group Inc|P|0
+Mosaic Co|P|0
+Chevrontexaco Corp|S|0
+Nxp Semiconductors Nv|S|0
+Nxp Semiconductors Nv|P|0
+Mcgrawhill Companies Inc|P|0
+Nike Inc|P|0
+Facebook Inc|P|0
+Carrier Global Corp|S|0
+Alcoa Inc|P|2
+Saic Inc|S|0
+Williams Companies Inc|S|0
+Dominos Pizza Inc|S|5
+Torchmark Corp|S|2
+Carrier Global Corp|P|0
+Lilly Eli  Co|S|0
+Norwegian Cruise Line Holdings Ltd|S|0
+Mt Bank Corp|S|0
+Gallagher Arthur J  Co|S|0
+Kla Tencor Corp|S|0
+Chevrontexaco Corp|P|0
+Verizon Communications Inc|S|0
+Dominos Pizza Inc|P|0
+Norwegian Cruise Line Holdings Ltd|P|0
+Gallagher Arthur J  Co|P|0
+Nasdaq Stock Market Inc|S|0
+Marketaxess Holdings Inc|S|0
+Schering Plough Corp|S|0
+Zoetis Inc|S|0
+Kla Tencor Corp|P|0
+Williams Companies Inc|P|0
+Torchmark Corp|P|0
+Saic Inc|P|0
+Mettler Toledo International Inc|S|0
+Lilly Eli  Co|P|0
+Mt Bank Corp|P|0
+Marketaxess Holdings Inc|P|0
+Zoetis Inc|P|0
+Verizon Communications Inc|P|0
+Freeport Mcmoran Copper  Gold Inc|S|0
+Mettler Toledo International Inc|P|0
+Mccormick  Co Inc|S|0
+Amb Property Corp|S|0
+Nasdaq Stock Market Inc|P|0
+Freeport Mcmoran Copper  Gold Inc|P|0
+Starbucks Corp|S|0
+Hewlett Packard Co|S|0
+Mohawk Industries Inc|S|0
+Garmin Ltd|S|0
+Intercontinentalexchange Group Inc|S|0
+3M Co|S|0
+Ipg Photonics Corp|S|8
+Amb Property Corp|P|0
+Mccormick  Co Inc|P|0
+Garmin Ltd|P|0
+Mohawk Industries Inc|P|0
+Intercontinentalexchange Group Inc|P|0
+Silicon Valley Bancshares|S|0
+Schering Plough Corp|P|0
+Ipg Photonics Corp|P|0
+Danaher Corp De|S|0
+Sempra Energy|S|0
+Starbucks Corp|P|0
+Paycom Software Inc|S|2
+Danaher Corp De|P|0
+Dexcom Inc|S|0
+Altria Group Inc|S|0
+Constellation Brands Inc|S|2
+Dte Energy Co|S|0
+Silicon Valley Bancshares|P|0
+Paycom Software Inc|P|0
+Microchip Technology Inc|S|3
+3M Co|P|0
+Ebay Inc|S|0
+Dentsply International Inc De|S|0
+Microchip Technology Inc|P|0
+Sempra Energy|P|0
+Metropcs Communications Inc|S|0
+Cincinnati Financial Corp|S|0
+Arista Networks Inc|S|0
+Hewlett Packard Co|P|0
+Dexcom Inc|P|0
+Constellation Brands Inc|P|0
+Arista Networks Inc|P|0
+Dte Energy Co|P|0
+Coach Inc|S|0
+Altria Group Inc|P|0
+Extra Space Storage Inc|S|0
+Dentsply International Inc De|P|0
+Walgreens Boots Alliance Inc|S|0
+Kimberly Clark Corp|S|0
+Cincinnati Financial Corp|P|0
+Fmc Corp|S|0
+Dollar General Corp|S|7
+Extra Space Storage Inc|P|0
+Ebay Inc|P|0
+Metropcs Communications Inc|P|0
+Coach Inc|P|0
+Amr Corp|S|0
+Walgreens Boots Alliance Inc|P|0
+Fmc Corp|P|0
+Sysco Corp|S|2
+Cf Industries Holdings Inc|S|0
+Public Storage|S|0
+Medtronic Plc|S|0
+Sealed Air Corpde|S|0
+Expeditors International Of Washington Inc|S|0
+Raymond James Financial Inc|S|0
+Akamai Technologies Inc|S|0
+Amr Corp|P|0
+Kimberly Clark Corp|P|0
+Public Storage|P|0
+Dollar General Corp|P|0
+Abbott Laboratories|S|0
+Echostar Communications Corp|S|0
+Medtronic Plc|P|0
+Cf Industries Holdings Inc|P|0
+Bio Rad Laboratories Inc|S|0
+Expeditors International Of Washington Inc|P|0
+Hartford Financial Services Group Incde|S|3
+Akamai Technologies Inc|P|0
+Sysco Corp|P|0
+Visa Inc|S|0
+Sealed Air Corpde|P|0
+Bio Rad Laboratories Inc|P|0
+Raymond James Financial Inc|P|0
+Health Care Property Investors Inc|S|0
+Apple Computer Inc|S|0
+Ventas Inc|S|0
+Realty Income Corp|S|0
+Visa Inc|P|0
+Echostar Communications Corp|P|0
+Apple Computer Inc|P|0
+Hartford Financial Services Group Incde|P|0
+Dover Corp|S|0
+Oracle Corp|S|0
+Quest Diagnostics Inc|S|0
+Health Care Property Investors Inc|P|0
+Realty Income Corp|P|0
+Ventas Inc|P|0
+Hansen Natural Corp|S|2
+Abbott Laboratories|P|0
+Ingersollrand Plc|S|0
+Target Corp|S|0
+Us Bancorp De|S|0
+Hansen Natural Corp|P|0
+Oracle Corp|P|0
+Quest Diagnostics Inc|P|0
+Dover Corp|P|0
+Ingersollrand Plc|P|0
+Southern Co|S|0
+Agilent Technologies Inc|S|0
+Cisco Systems Inc|S|0
+Ross Stores Inc|S|0
+Kroger Co|S|0
+Marsh  Mclennan Companies Inc|S|0
+Transdigm Group Inc|S|0
+Target Corp|P|0
+Verisk Analytics Inc|S|0
+Ross Stores Inc|P|0
+Us Bancorp De|P|0
+Agilent Technologies Inc|P|0
+Southern Co|P|0
+Cisco Systems Inc|P|0
+Verisk Analytics Inc|P|0
+Transdigm Group Inc|P|0
+Kroger Co|P|0
+Nvr Inc|S|0
+Parker Hannifin Corp|S|0
+Teledyne Technologies Inc|S|0
+Marsh  Mclennan Companies Inc|P|0
+Generac Holdings Inc|S|3
+Amerisourcebergen Corp|S|0
+Intuitive Surgical Inc|S|0
+Nvr Inc|P|0
+Carnival Corp|S|5
+Teledyne Technologies Inc|P|0
+Allstate Corp|S|0
+Generac Holdings Inc|P|0
+Intuitive Surgical Inc|P|0
+Amerisourcebergen Corp|P|0
+Ual Corp De|S|0
+Centurytel Inc|S|0
+Parker Hannifin Corp|P|0
+Carnival Corp|P|0
+Fastenal Co|S|0
+Tyson Foods Inc|S|2
+Allstate Corp|P|0
+Fastenal Co|P|0
+Conocophillips|S|0
+Centurytel Inc|P|0
+Ual Corp De|P|0
+Zimmer Holdings Inc|S|0
+Corning Inc Ny|S|0
+Tyson Foods Inc|P|0
+Pinnacle West Capital Corp|S|0
+Conocophillips|P|0
+International Flavors  Fragrances Inc|S|0
+Zimmer Holdings Inc|P|0
+Corning Inc Ny|P|0
+Amerada Hess Corp|S|2
+Pinnacle West Capital Corp|P|0
+International Flavors  Fragrances Inc|P|0
+Idec Pharmaceuticals Corp  De|S|0
+Amerada Hess Corp|P|8
+Occidental Petroleum Corp De|S|0
+Archer Daniels Midland Co|S|0
+Costco Wholesale Corp New|S|0
+Idec Pharmaceuticals Corp  De|P|0
+Costco Wholesale Corp New|P|0
+Westinghouse Air Brake Technologies Corp|S|0
+Occidental Petroleum Corp De|P|0
+Archer Daniels Midland Co|P|0
+Penn National Gaming Inc|S|0
+Westinghouse Air Brake Technologies Corp|P|0
+Penn National Gaming Inc|P|0
